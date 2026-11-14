@@ -9,72 +9,226 @@
     {
      "h": "Faso SANU",
      "q": "Qui détient le capital de la société d’État Faso SANU ? (la SONASP et le Trésor public, à parts égales)",
-     "t": "Le Conseil des ministres du 5 novembre 2026 a créé la société d’État Faso SANU, dont le capital est détenu à parts égales par la SONASP et le Trésor public. Il a aussi réorganisé l’exploitation artisanale de l’or."
+     "t": "Le Conseil des ministres du 5 novembre 2026 a créé la société d’État Faso SANU, dont le capital est détenu à parts égales par la SONASP et le Trésor public. Il a aussi réorganisé l’exploitation artisanale de l’or.",
+     "qcm": {
+      "q": "Qui détient le capital de la société d’État Faso SANU, créée le 5 novembre 2026 ?",
+      "o": [
+       "La SONASP",
+       "Le Trésor public",
+       "La SONABHY",
+       "La BCEAO"
+      ],
+      "a": "AB",
+      "e": "À parts égales entre la SONASP et le Trésor public."
+     }
     },
     {
      "h": "Conseil du 5 novembre (suite)",
      "q": "À quelle date s’est tenu le Conseil des ministres qui a créé Faso SANU ? (jeudi 5 novembre 2026)",
-     "t": "Le même Conseil des ministres a adopté des textes concernant l’Agence burkinabè de médecine traditionnelle et la Faso CDC."
+     "t": "Le même Conseil des ministres a adopté des textes concernant l’Agence burkinabè de médecine traditionnelle et la Faso CDC.",
+     "qcm": {
+      "q": "Quels textes le Conseil des ministres du 5 novembre 2026 a-t-il aussi adoptés ?",
+      "o": [
+       "Sur l’Agence burkinabè de médecine traditionnelle",
+       "Sur la Faso CDC",
+       "Sur le code électoral",
+       "Sur la SONABEL"
+      ],
+      "a": "AB",
+      "e": "Textes sur l’Agence burkinabè de médecine traditionnelle et la Faso CDC."
+     }
     },
     {
      "h": "Visite d’Assimi Goïta",
      "q": "Qui assure la présidence de la Confédération AES depuis le sommet de Bamako de décembre 2025 ? (le capitaine Ibrahim Traoré)",
-     "t": "Le président malien, le général Assimi Goïta, était à Ouagadougou le 5 novembre 2026."
+     "t": "Le président malien, le général Assimi Goïta, était à Ouagadougou le 5 novembre 2026.",
+     "qcm": {
+      "q": "Quel chef d’État était en visite à Ouagadougou le 5 novembre 2026 ?",
+      "o": [
+       "Le général Assimi Goïta (Mali)",
+       "Le général Abdourahamane Tiani (Niger)",
+       "Mahamat Idriss Déby (Tchad)",
+       "Bassirou Diomaye Faye (Sénégal)"
+      ],
+      "a": "A",
+      "e": "Le président malien Assimi Goïta."
+     }
     },
     {
      "h": "18e SIAO",
      "q": "Que signifie SIAO et en quelle année a-t-il été créé ? (Salon international de l’artisanat de Ouagadougou, 1988)",
-     "t": "Le Salon international de l’artisanat de Ouagadougou tient sa 18e édition. Le Premier ministre Rimtalba Jean Emmanuel Ouédraogo l’a visité le 3 novembre 2026."
+     "t": "Le Salon international de l’artisanat de Ouagadougou tient sa 18e édition. Le Premier ministre Rimtalba Jean Emmanuel Ouédraogo l’a visité le 3 novembre 2026.",
+     "qcm": {
+      "q": "Le SIAO de 2026 :",
+      "o": [
+       "Est la 18e édition",
+       "Est la 20e édition",
+       "Signifie Salon international de l’artisanat de Ouagadougou",
+       "A été créé en 1988"
+      ],
+      "a": "ACD",
+      "e": "18e édition, visitée par le Premier ministre le 3 novembre 2026."
+     }
     },
     {
      "h": "200 tracteurs",
      "q": "Combien de tracteurs le Bureau national des grands projets a-t-il remis le 6 novembre 2026 ? (200, de 40 chevaux)",
-     "t": "Le 6 novembre 2026, le Bureau national des grands projets a remis 200 tracteurs de 40 chevaux."
+     "t": "Le 6 novembre 2026, le Bureau national des grands projets a remis 200 tracteurs de 40 chevaux.",
+     "qcm": {
+      "q": "Combien de tracteurs le Bureau national des grands projets a-t-il remis le 6 novembre 2026 ?",
+      "o": [
+       "100",
+       "150",
+       "200",
+       "400"
+      ],
+      "a": "C",
+      "e": "200 tracteurs de 40 chevaux."
+     }
     },
     {
      "h": "37e Tour du Faso",
      "q": "Qui a remporté le Tour du Faso 2026 (37e édition) ? (Paul Daumont, déjà vainqueur en 2023)",
-     "t": "Clôturé le 8 novembre 2026, il a été remporté par le Burkinabè Paul Daumont. L’Algérien Azzedine Lagab a gagné la dernière étape. 80 coureurs de 14 pays étaient au départ."
+     "t": "Clôturé le 8 novembre 2026, il a été remporté par le Burkinabè Paul Daumont. L’Algérien Azzedine Lagab a gagné la dernière étape. 80 coureurs de 14 pays étaient au départ.",
+     "qcm": {
+      "q": "Le 37e Tour du Faso (2026) :",
+      "o": [
+       "A été remporté par Paul Daumont",
+       "A été remporté par Azzedine Lagab",
+       "S’est clôturé le 8 novembre 2026",
+       "Réunissait des coureurs de 14 pays"
+      ],
+      "a": "ACD",
+      "e": "Paul Daumont (Burkina) gagne ; Azzedine Lagab (Algérie) remporte la dernière étape ; 80 coureurs, 14 pays."
+     }
     },
     {
      "h": "Maouloud",
      "q": "Quel était le thème du Maouloud 2026 au Burkina ? (« Cohésion sociale et tolérance religieuse »)",
-     "t": "La fête du Maouloud a été célébrée le 7 novembre 2026 sur le thème « Cohésion sociale et tolérance religieuse »."
+     "t": "La fête du Maouloud a été célébrée le 7 novembre 2026 sur le thème « Cohésion sociale et tolérance religieuse ».",
+     "qcm": {
+      "q": "Quel était le thème du Maouloud 2026 au Burkina ?",
+      "o": [
+       "« Cohésion sociale et tolérance religieuse »",
+       "« Paix et sécurité au Sahel »",
+       "« Foi et patriotisme »",
+       "« Solidarité et résilience »"
+      ],
+      "a": "A",
+      "e": "Célébré le 7 novembre 2026."
+     }
     },
     {
      "h": "COP31 à Antalya",
      "q": "Où se tient la COP31 ? (À Antalya, en Turquie)",
-     "t": "La 31e conférence de l’ONU sur le climat se tient à Antalya, en Turquie, jusqu’au 20 novembre 2026. La COP30 avait eu lieu à Belém (Brésil) en 2025."
+     "t": "La 31e conférence de l’ONU sur le climat se tient à Antalya, en Turquie, jusqu’au 20 novembre 2026. La COP30 avait eu lieu à Belém (Brésil) en 2025.",
+     "qcm": {
+      "q": "Où se tient la COP31, jusqu’au 20 novembre 2026 ?",
+      "o": [
+       "À Antalya (Turquie)",
+       "À Belém (Brésil)",
+       "À Bakou (Azerbaïdjan)",
+       "À Adélaïde (Australie)"
+      ],
+      "a": "A",
+      "e": "COP29 : Bakou (2024) ; COP30 : Belém (2025) ; COP31 : Antalya (2026)."
+     }
     },
     {
      "h": "Ukraine-Russie",
      "q": "Dans quelle ville les pourparlers Ukraine-Russie ont-ils repris en novembre 2026 ? (Abou Dhabi)",
-     "t": "Le 10 novembre 2026, des pourparlers de paix entre l’Ukraine et la Russie ont repris à Abou Dhabi (Émirats arabes unis), sous médiation américaine, pour la première fois depuis neuf mois."
+     "t": "Le 10 novembre 2026, des pourparlers de paix entre l’Ukraine et la Russie ont repris à Abou Dhabi (Émirats arabes unis), sous médiation américaine, pour la première fois depuis neuf mois.",
+     "qcm": {
+      "q": "Dans quelle ville les pourparlers de paix Ukraine-Russie ont-ils repris le 10 novembre 2026 ?",
+      "o": [
+       "Abou Dhabi",
+       "Istanbul",
+       "Genève",
+       "Riyad"
+      ],
+      "a": "A",
+      "e": "À Abou Dhabi (Émirats arabes unis), sous médiation américaine."
+     }
     },
     {
      "h": "Léon XIV en Argentine",
      "q": "Quelle est la nationalité du pape Léon XIV ? (Américaine ; il a aussi la nationalité péruvienne)",
-     "t": "Le pape Léon XIV a célébré le 10 novembre 2026 une messe en plein air à Córdoba, en Argentine, devant environ 650 000 fidèles."
+     "t": "Le pape Léon XIV a célébré le 10 novembre 2026 une messe en plein air à Córdoba, en Argentine, devant environ 650 000 fidèles.",
+     "qcm": {
+      "q": "Où le pape Léon XIV a-t-il célébré une messe devant environ 650 000 fidèles le 10 novembre 2026 ?",
+      "o": [
+       "À Córdoba (Argentine)",
+       "À Buenos Aires (Argentine)",
+       "À Lima (Pérou)",
+       "À São Paulo (Brésil)"
+      ],
+      "a": "A",
+      "e": "À Córdoba, en Argentine."
+     }
     },
     {
      "h": "Côte d’Ivoire : le caoutchouc",
      "q": "Quel pays est le premier producteur africain de caoutchouc naturel ? (La Côte d’Ivoire)",
-     "t": "Avec près de 2 millions de tonnes exportées en 2025 (1 900 milliards de FCFA), le caoutchouc devient le premier produit agricole d’exportation ivoirien. Le pays fournit plus de 85 % de la production africaine et est 3e mondial, derrière la Thaïlande et l’Indonésie."
+     "t": "Avec près de 2 millions de tonnes exportées en 2025 (1 900 milliards de FCFA), le caoutchouc devient le premier produit agricole d’exportation ivoirien. Le pays fournit plus de 85 % de la production africaine et est 3e mondial, derrière la Thaïlande et l’Indonésie.",
+     "qcm": {
+      "q": "Le caoutchouc ivoirien :",
+      "o": [
+       "Est devenu le 1er produit agricole d’exportation du pays en 2025",
+       "Représente plus de 85 % de la production africaine",
+       "Place la Côte d’Ivoire au 1er rang mondial",
+       "A atteint près de 2 millions de tonnes exportées en 2025"
+      ],
+      "a": "ABD",
+      "e": "La Côte d’Ivoire est 3e mondiale, derrière la Thaïlande et l’Indonésie."
+     }
     },
     {
      "h": "Gabon : manganèse",
      "q": "Quel minerai le Gabon veut-il interdire d’exporter à l’état brut dès 2029 ? (Le manganèse)",
-     "t": "Le Gabon veut interdire l’exportation de manganèse brut à partir de 2029 pour le transformer sur place ; il l’a annoncé lors de la visite du président Brice Clotaire Oligui Nguema à Pékin (6 novembre 2026)."
+     "t": "Le Gabon veut interdire l’exportation de manganèse brut à partir de 2029 pour le transformer sur place ; il l’a annoncé lors de la visite du président Brice Clotaire Oligui Nguema à Pékin (6 novembre 2026).",
+     "qcm": {
+      "q": "Quel minerai le Gabon veut-il interdire d’exporter à l’état brut à partir de 2029 ?",
+      "o": [
+       "Le manganèse",
+       "Le fer",
+       "L’uranium",
+       "Le pétrole"
+      ],
+      "a": "A",
+      "e": "Annoncé lors de la visite d’Oligui Nguema à Pékin (6 novembre 2026)."
+     }
     },
     {
      "h": "Afrique du Sud : élections locales",
      "q": "Quel parti reste la première force politique sud-africaine aux élections locales de 2026 ? (L’ANC)",
-     "t": "Aux élections locales de novembre 2026, l’ANC reste la première force politique du pays mais recule d’environ 15 points selon les résultats provisoires."
+     "t": "Aux élections locales de novembre 2026, l’ANC reste la première force politique du pays mais recule d’environ 15 points selon les résultats provisoires.",
+     "qcm": {
+      "q": "Élections locales sud-africaines de novembre 2026 (résultats provisoires) :",
+      "o": [
+       "L’ANC reste la première force politique",
+       "L’ANC recule d’environ 15 points",
+       "L’Alliance démocratique devient la première force",
+       "L’ANC progresse nettement"
+      ],
+      "a": "AB",
+      "e": "L’ANC reste en tête mais recule d’environ 15 points."
+     }
     },
     {
      "h": "Éducation (PASEC)",
      "q": "Que signifie CONFEMEN ? (Conférence des ministres de l’Éducation des États et gouvernements de la Francophonie)",
-     "t": "Selon le bilan du PASEC de la CONFEMEN, trois élèves sur quatre quittent le primaire sans maîtriser les mathématiques en Afrique francophone."
+     "t": "Selon le bilan du PASEC de la CONFEMEN, trois élèves sur quatre quittent le primaire sans maîtriser les mathématiques en Afrique francophone.",
+     "qcm": {
+      "q": "Selon le PASEC de la CONFEMEN, combien d’élèves quittent le primaire sans maîtriser les mathématiques en Afrique francophone ?",
+      "o": [
+       "1 sur 4",
+       "1 sur 2",
+       "3 sur 4",
+       "9 sur 10"
+      ],
+      "a": "C",
+      "e": "Trois élèves sur quatre."
+     }
     }
    ]
   }
