@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "days": [
+  {
+   "date": "2026-11-15",
+   "label": "15 novembre 2026",
+   "title": "AES, Étalons et sommet de la Francophonie",
+   "items": [
+    {
+     "h": "Conseil des ministres de l’AES à Ouagadougou",
+     "q": "Quelle ville a accueilli la session extraordinaire du Conseil des ministres de l’AES des 11 et 12 novembre 2026 ? (Ouagadougou)",
+     "qcm": {
+      "a": "B",
+      "e": "Les ministres ont fait le bilan de la feuille de route de l’An II de la Confédération, adoptée en février 2026.",
+      "o": [
+       "Adopter une monnaie commune",
+       "Évaluer la mise en œuvre de la feuille de route de l’An II",
+       "Élire un nouveau président de la Confédération",
+       "Admettre un quatrième État membre"
+      ],
+      "q": "Quel était l’objet principal de la session du Conseil des ministres de l’AES des 11 et 12 novembre 2026 ?"
+     },
+     "t": "Les 11 et 12 novembre 2026, une session extraordinaire du Conseil des ministres de la Confédération AES s’est tenue à Ouagadougou pour évaluer la mise en œuvre de la feuille de route de l’An II, adoptée en février 2026. Elle était présidée par le général Célestin Simporé, ministre d’État, ministre de la Guerre et de la Défense patriotique."
+    },
+    {
+     "h": "Les trois piliers de l’AES",
+     "q": "Qui assure la présidence de la Confédération AES en novembre 2026 ? (Le capitaine Ibrahim Traoré)",
+     "qcm": {
+      "a": "ACD",
+      "e": "Les trois piliers de l’AES sont la Défense-Sécurité, la Diplomatie et le Développement.",
+      "o": [
+       "La Défense et la Sécurité",
+       "La Monnaie et la Banque centrale",
+       "La Diplomatie",
+       "Le Développement"
+      ],
+      "q": "Parmi les propositions suivantes, lesquelles sont des piliers de la Confédération AES ?"
+     },
+     "t": "Avant la session ministérielle des 11 et 12 novembre 2026, les hauts fonctionnaires des trois piliers de la Confédération AES se sont réunis : Défense et Sécurité, Diplomatie, et Développement. La session a aussi adopté une motion spéciale de remerciement au capitaine Ibrahim Traoré, président de la Confédération."
+    },
+    {
+     "h": "Étalons 1-0 Mauritanie",
+     "q": "Qui a marqué le but de la victoire du Burkina Faso contre la Mauritanie le 13 novembre 2026 ? (Elohim Kaboré)",
+     "qcm": {
+      "a": "D",
+      "e": "Le match de la 3e journée des éliminatoires de la CAN 2027 s’est joué au stade du 4-Août de Ouagadougou.",
+      "o": [
+       "Stade Wobi de Bobo-Dioulasso",
+       "Stade municipal de Ouagadougou",
+       "Stade Sangoulé Lamizana",
+       "Stade du 4-Août de Ouagadougou"
+      ],
+      "q": "Dans quel stade les Étalons ont-ils battu la Mauritanie (1-0) le 13 novembre 2026 ?"
+     },
+     "t": "Le 13 novembre 2026, au stade du 4-Août de Ouagadougou, le Burkina Faso a battu la Mauritanie 1-0 lors de la 3e journée des éliminatoires de la CAN 2027 (groupe F), grâce à un but d’Elohim Kaboré dans le temps additionnel (90e+4). Les Étalons comptent 7 points, à égalité avec le Bénin."
+    },
+    {
+     "h": "4e Semaine du cinéma sino-burkinabè",
+     "q": "Combien de films sont programmés à la 4e Semaine du cinéma sino-burkinabè ? (14 films)",
+     "qcm": {
+      "a": "A",
+      "e": "L’ABCA, qui intègre désormais le FESPACO, organise l’événement en partenariat avec l’ambassade de Chine.",
+      "o": [
+       "L’Agence burkinabè de la cinématographie et de l’audiovisuel (ABCA)",
+       "Le Bureau burkinabè du droit d’auteur (BBDA)",
+       "Le Conseil supérieur de la communication (CSC)",
+       "La Radiodiffusion Télévision du Burkina (RTB)"
+      ],
+      "q": "Quelle structure burkinabè organise la 4e Semaine du cinéma sino-burkinabè (12-15 novembre 2026) avec l’ambassade de Chine ?"
+     },
+     "t": "La 4e Semaine du cinéma sino-burkinabè se tient du 12 au 15 novembre 2026 à Ouagadougou et Bobo-Dioulasso, avec 14 films (7 chinois et 7 burkinabè). Organisée par l’ABCA avec l’ambassade de Chine, elle a pour thème « Échanges culturels et humains sino-africains »."
+    },
+    {
+     "h": "AES : cinq chantiers numériques",
+     "q": "Lors de quel événement les conventions numériques de l’AES doivent-elles être signées ? (La Semaine du Numérique, 24-27 novembre 2026)",
+     "qcm": {
+      "a": "A",
+      "e": "Dr Aminata Zerbo/Sabané est la ministre de la Transition digitale, des Postes et des Communications électroniques.",
+      "o": [
+       "Dr Aminata Zerbo/Sabané",
+       "Pr Aminata Ouédraogo",
+       "Dr Fatoumata Traoré",
+       "Mme Rasmata Kaboré"
+      ],
+      "q": "Quelle est la ministre burkinabè de la Transition digitale, des Postes et des Communications électroniques citée lors de cette rencontre AES ?"
+     },
+     "t": "Réunis à Ouagadougou du 3 au 5 novembre 2026, les experts et ministres du numérique du Burkina, du Mali et du Niger ont préparé cinq chantiers communs, dont l’interconnexion des infrastructures, l’achat groupé de bande passante Internet et un dispositif régional de réponse aux incidents informatiques. Les conventions doivent être signées lors de la Semaine du Numérique, du 24 au 27 novembre 2026."
+    },
+    {
+     "h": "20e Sommet de la Francophonie",
+     "q": "Dans quelle ville se tient le 20e Sommet de la Francophonie ? (Phnom Penh, Cambodge)",
+     "qcm": {
+      "a": "C",
+      "e": "La Rwandaise Louise Mushikiwabo dirige l’OIF depuis 2018 ; Michaëlle Jean l’a précédée.",
+      "o": [
+       "Michaëlle Jean",
+       "Ngozi Okonjo-Iweala",
+       "Louise Mushikiwabo",
+       "Nkosazana Dlamini-Zuma"
+      ],
+      "q": "Qui est la secrétaire générale sortante de l’OIF, candidate à un troisième mandat au sommet de Phnom Penh ?"
+     },
+     "t": "Le 20e Sommet de la Francophonie se tient les 15 et 16 novembre 2026 à Phnom Penh (Cambodge), sur le thème « Réinvestir dans la paix pour une prospérité partagée et une stabilité durable ». La Rwandaise Louise Mushikiwabo, secrétaire générale de l’OIF depuis 2018, y brigue un troisième mandat."
+    },
+    {
+     "h": "Clôture des JOJ Dakar 2026",
+     "q": "Quel pays a terminé premier au tableau des médailles des JOJ Dakar 2026 ? (La Chine)",
+     "qcm": {
+      "a": "B",
+      "e": "L’Égypte a fini 4e avec 6 médailles d’or, devant l’Éthiopie (5e) et le Sénégal (6e).",
+      "o": [
+       "Le Sénégal",
+       "L’Égypte",
+       "Le Kenya",
+       "L’Éthiopie"
+      ],
+      "q": "Quelle nation africaine a terminé la mieux classée au tableau des médailles des JOJ Dakar 2026 ?"
+     },
+     "t": "Les Jeux olympiques de la jeunesse de Dakar 2026, premier événement olympique organisé en Afrique, se sont achevés le 13 novembre 2026. La Chine termine en tête du tableau des médailles (18 en or) ; l’Égypte est la première nation africaine (4e) et le Sénégal, pays hôte, 6e."
+    },
+    {
+     "h": "Jensen Huang quitte Nvidia",
+     "q": "Qui assure l’intérim à la tête de Nvidia après la démission de Jensen Huang ? (Colette Kress)",
+     "qcm": {
+      "a": "D",
+      "e": "Nvidia a été cofondée en 1993 ; Jensen Huang l’a dirigée pendant 33 ans.",
+      "o": [
+       "1984",
+       "1998",
+       "2004",
+       "1993"
+      ],
+      "q": "En quelle année Jensen Huang a-t-il cofondé Nvidia, qu’il a quittée le 12 novembre 2026 ?"
+     },
+     "t": "Le 12 novembre 2026, Jensen Huang, cofondateur de Nvidia en 1993, a démissionné de la direction du géant américain des puces, avec effet immédiat, après 33 ans à sa tête. La directrice financière Colette Kress assure l’intérim."
+    },
+    {
+     "h": "Léon XIV au Pérou",
+     "q": "De quel diocèse péruvien le pape Léon XIV a-t-il été évêque de 2015 à 2023 ? (Chiclayo)",
+     "qcm": {
+      "a": "B",
+      "e": "Robert Francis Prevost a été élu pape le 8 mai 2025 sous le nom de Léon XIV ; le 21 avril 2025 est la date du décès du pape François.",
+      "o": [
+       "21 avril 2025",
+       "8 mai 2025",
+       "13 mars 2013",
+       "18 mai 2025"
+      ],
+      "q": "Quelle est la date de l’élection du pape Léon XIV ?"
+     },
+     "t": "Le pape Léon XIV effectue du 11 au 16 novembre 2026 son premier voyage apostolique au Pérou depuis son élection le 8 mai 2025, avec des étapes à Lima, Chiclayo, Cusco et Pucallpa. Avant son élection, Robert Francis Prevost avait été évêque de Chiclayo de 2015 à 2023."
+    },
+    {
+     "h": "Sommet de l’APEC à Shenzhen",
+     "q": "Combien d’économies membres compte l’APEC ? (21)",
+     "qcm": {
+      "a": "C",
+      "e": "La Chine accueille l’APEC en 2026 et la réunion des dirigeants a lieu à Shenzhen.",
+      "o": [
+       "Shanghai",
+       "Pékin",
+       "Shenzhen",
+       "Canton"
+      ],
+      "q": "Dans quelle ville chinoise se tient la réunion des dirigeants de l’APEC les 18 et 19 novembre 2026 ?"
+     },
+     "t": "Les dirigeants des 21 économies membres du Forum de coopération économique Asie-Pacifique (APEC) se réunissent les 18 et 19 novembre 2026 à Shenzhen, en Chine, pays hôte de l’APEC en 2026."
+    }
+   ]
+  },
   {
    "date": "2026-11-14",
    "label": "14 novembre 2026",
