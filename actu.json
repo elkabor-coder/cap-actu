@@ -1,6 +1,308 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-17",
  "days": [
+  {
+   "date": "2026-11-17",
+   "label": "17 novembre 2026",
+   "title": "Note S&P, Sotigui d’Or et report à l’OIF",
+   "items": [
+    {
+     "h": "S&P relève la note du Burkina",
+     "q": "Quelle est la nouvelle note souveraine à long terme du Burkina Faso attribuée par S&P en novembre 2026 ? (B-)",
+     "qcm": {
+      "a": "C",
+      "e": "La note est passée de CCC+ à B- le 6 novembre 2026, avec une perspective stable.",
+      "o": [
+       "CCC+",
+       "B+",
+       "B-",
+       "BB-"
+      ],
+      "q": "En novembre 2026, S&P Global Ratings a relevé la note souveraine à long terme du Burkina Faso. Quelle est la nouvelle note ?"
+     },
+     "t": "Le 6 novembre 2026, S&P Global Ratings a relevé la note souveraine à long terme du Burkina Faso de « CCC+ » à « B- », avec une perspective stable ; la note à court terme passe de « C » à « B ». Le ministère de l’Économie et des Finances l’a annoncé le 16 novembre 2026."
+    },
+    {
+     "h": "Sotigui d’Or 2026",
+     "q": "Qui a remporté le Sotigui d’Or 2026 à Ouagadougou ? (la Camerounaise Emy Dany Bassong)",
+     "qcm": {
+      "a": "D",
+      "e": "L’actrice camerounaise Emy Dany Bassong a reçu le Sotigui d’Or lors de la 11e édition, en novembre 2026.",
+      "o": [
+       "Sénégalaise",
+       "Ivoirienne",
+       "Burkinabè",
+       "Camerounaise"
+      ],
+      "q": "Quelle est la nationalité d’Emy Dany Bassong, lauréate du Sotigui d’Or 2026 ?"
+     },
+     "t": "La 11e édition des Sotigui Awards s’est tenue du 11 au 14 novembre 2026 à Ouagadougou. La Camerounaise Emy Dany Bassong a remporté le Sotigui d’Or (avec deux autres prix) pour le film « Le Prix du pouvoir » d’Ebenezer Kepombia ; elle succède au Sénégalais Ibrahima Mbaye."
+    },
+    {
+     "h": "Retour des Burkinabè de Guinée",
+     "q": "Quel organisme coordonne l’accueil des Burkinabè rapatriés de Guinée ? (le CONASUR, Conseil national de secours d’urgence et de réhabilitation)",
+     "qcm": {
+      "a": "A",
+      "e": "Le CONASUR est présidé par la ministre de la Famille et de la Solidarité, le lieutenant-colonel Passowendé Pélagie Kaboré.",
+      "o": [
+       "Le ministère de la Famille et de la Solidarité",
+       "Le ministère des Affaires étrangères",
+       "Le ministère de la Santé",
+       "Le ministère de l’Administration territoriale"
+      ],
+      "q": "Quel ministère préside le CONASUR, chargé de l’accueil des Burkinabè rentrés de Guinée en novembre 2026 ?"
+     },
+     "t": "Selon le CONASUR, 4 625 Burkinabè rentrés de Guinée ont été accueillis le 15 novembre 2026, portant le total à 64 349 personnes. Le dispositif interministériel de gestion de crise a été activé par le Premier ministre le 3 novembre 2026."
+    },
+    {
+     "h": "Niamey, 100 ans de capitale",
+     "q": "Quelle ville était la capitale du Niger avant Niamey ? (Zinder)",
+     "qcm": {
+      "a": "B",
+      "e": "La capitale de la colonie du Niger a été transférée de Zinder à Niamey en 1926.",
+      "o": [
+       "Agadez",
+       "Zinder",
+       "Maradi",
+       "Tahoua"
+      ],
+      "q": "En 2026, Niamey fête ses 100 ans comme capitale du Niger. Quelle ville était la capitale avant elle ?"
+     },
+     "t": "Le 15 novembre 2026, l’Agence nigérienne de presse a rapporté la célébration du centenaire de Niamey comme capitale, notamment avec une compétition de kokowa (lutte traditionnelle). Niamey a remplacé Zinder comme capitale de la colonie du Niger en 1926."
+    },
+    {
+     "h": "15e Rencontres de Bamako",
+     "q": "Quel événement culturel est connu sous le nom de « Rencontres de Bamako » ? (la Biennale africaine de la photographie)",
+     "qcm": {
+      "a": "C",
+      "e": "Les Rencontres de Bamako sont la Biennale africaine de la photographie ; la 15e édition a pour titre « Refabulation(s) ».",
+      "o": [
+       "Le cinéma",
+       "La musique",
+       "La photographie",
+       "La sculpture"
+      ],
+      "q": "Les « Rencontres de Bamako », dont la 15e édition s’ouvre le 26 novembre 2026, sont consacrées à quel art ?"
+     },
+     "t": "La 15e édition des Rencontres de Bamako, Biennale africaine de la photographie, se tiendra du 26 novembre 2026 au 26 janvier 2027 sous le titre « Refabulation(s) ». La commissaire générale est Armelle Dakouo."
+    },
+    {
+     "h": "OIF : élection reportée",
+     "q": "De quel pays est originaire Louise Mushikiwabo, secrétaire générale de l’OIF dont le mandat a été prolongé ? (Rwanda)",
+     "qcm": {
+      "a": "D",
+      "e": "Faute d’accord, l’élection a été reportée d’un an et Louise Mushikiwabo reste en poste jusqu’en 2027.",
+      "o": [
+       "L’élection de Juliana Amato Lumumba",
+       "L’élection de Dacian Cioloș",
+       "La suppression du poste de secrétaire général",
+       "Le report de l’élection et la prolongation du mandat de Louise Mushikiwabo"
+      ],
+      "q": "Qu’a décidé le 20e Sommet de la Francophonie, le 16 novembre 2026 à Phnom Penh ?"
+     },
+     "t": "Le 16 novembre 2026, au 20e Sommet de la Francophonie à Phnom Penh (Cambodge), l’élection du secrétaire général de l’OIF a été reportée de douze mois, une première. Le mandat de la Rwandaise Louise Mushikiwabo est prolongé jusqu’en 2027 ; les autres candidats étaient Juliana Amato Lumumba (RDC), Coumba Bâ (Mauritanie) et Dacian Cioloș (Roumanie)."
+    },
+    {
+     "h": "FIFA : Diallo défie Infantino",
+     "q": "Quel dirigeant l’UEFA a-t-elle proposé en novembre 2026 pour la présidence de la FIFA ? (Philippe Diallo, président de la FFF)",
+     "qcm": {
+      "a": "A",
+      "e": "Philippe Diallo est président de la FFF ; il affrontera Gianni Infantino, président de la FIFA depuis 2016.",
+      "o": [
+       "La Fédération française de football",
+       "La Fédération sénégalaise de football",
+       "La Fédération belge de football",
+       "La Confédération africaine de football"
+      ],
+      "q": "Philippe Diallo, candidat de l’UEFA à la présidence de la FIFA, préside quelle fédération ?"
+     },
+     "t": "Le 16 novembre 2026, le comité exécutif de l’UEFA a proposé Philippe Diallo, président de la Fédération française de football (FFF), comme candidat à la présidence de la FIFA face à Gianni Infantino. L’élection doit avoir lieu en mars 2027."
+    },
+    {
+     "h": "Échec de la fusée Vulcan",
+     "q": "Quelle entreprise exploite la fusée Vulcan ? (United Launch Alliance, ULA)",
+     "qcm": {
+      "a": "AC",
+      "e": "Vulcan est la fusée d’ULA et les 40 satellites perdus appartenaient à la constellation Amazon Leo d’Amazon.",
+      "o": [
+       "La fusée est exploitée par United Launch Alliance (ULA)",
+       "Les satellites appartenaient à Starlink (SpaceX)",
+       "Les satellites étaient destinés à la constellation Internet Amazon Leo",
+       "La fusée a été lancée depuis Kourou (Guyane)"
+      ],
+      "q": "Le 15 novembre 2026, une fusée Vulcan a échoué en emportant 40 satellites. Quelles affirmations sont exactes ?"
+     },
+     "t": "Le dimanche 15 novembre 2026, le lancement d’une fusée Vulcan de United Launch Alliance (ULA) transportant 40 satellites Internet Amazon Leo (ex-projet Kuiper) a échoué ; les satellites ont été perdus. C’est le premier échec total de ce lanceur."
+    }
+   ]
+  },
+  {
+   "date": "2026-11-16",
+   "label": "lundi 16 novembre 2026",
+   "title": "Sécurité routière, Cap-Vert et vote à l’OIF",
+   "items": [
+    {
+     "h": "18e Journée de la sécurité routière",
+     "q": "Quel est le thème de la 18e JNSSR célébrée le 15 novembre 2026 au Burkina ? (« Zéro tolérance pour l’incivisme routier »)",
+     "qcm": {
+      "a": "AC",
+      "e": "La 18e JNSSR, sur le thème « Zéro tolérance pour l’incivisme routier », était couplée à la journée mondiale du souvenir et présidée par le ministre de la Sécurité, Mahamadou Sana.",
+      "o": [
+       "Elle avait pour thème « Zéro tolérance pour l’incivisme routier »",
+       "Elle a été présidée par le ministre des Transports",
+       "Elle était couplée à la Journée mondiale du souvenir des victimes des accidents de la route",
+       "C’était la 10e édition"
+      ],
+      "q": "Parmi ces affirmations sur la 18e Journée nationale de sensibilisation à la sécurité routière (15 novembre 2026), lesquelles sont exactes ?"
+     },
+     "t": "Le 15 novembre 2026, le Burkina Faso a célébré la 18e Journée nationale de sensibilisation à la sécurité routière (JNSSR), couplée à la Journée mondiale du souvenir des victimes des accidents de la route, sur le thème « Zéro tolérance pour l’incivisme routier ». Le ministre de la Sécurité, Mahamadou Sana, a présidé la célébration."
+    },
+    {
+     "h": "Un Burkinabè à la tête de l’UPA",
+     "q": "Quel Burkinabè a été élu secrétaire général de l’Union parlementaire africaine en novembre 2026 ? (Bahouaba Norbert Tankoano)",
+     "qcm": {
+      "a": "C",
+      "e": "L’élection a eu lieu à Lomé, lors de la 86e session du Comité exécutif de l’UPA, les 10 et 11 novembre 2026.",
+      "o": [
+       "Abidjan",
+       "Niamey",
+       "Lomé",
+       "Cotonou"
+      ],
+      "q": "Dans quelle ville le Burkinabè Bahouaba Norbert Tankoano a-t-il été élu secrétaire général de l’Union parlementaire africaine, en novembre 2026 ?"
+     },
+     "t": "Réuni à Lomé (Togo) les 10 et 11 novembre 2026 pour sa 86e session, le Comité exécutif de l’Union parlementaire africaine (UPA) a élu le Burkinabè Bahouaba Norbert Tankoano, représentant de l’Assemblée législative du peuple (ALP), au poste de secrétaire général."
+    },
+    {
+     "h": "2e édition de la Rue des Étoiles",
+     "q": "Sur quelle avenue de Ouagadougou se trouve la « Rue des Étoiles » ? (avenue Kwamé N’Krumah)",
+     "qcm": {
+      "a": "B",
+      "e": "100 personnalités burkinabè et étrangères ont été honorées par de nouvelles stèles sur l’avenue Kwamé N’Krumah.",
+      "o": [
+       "50",
+       "100",
+       "200",
+       "14"
+      ],
+      "q": "Combien de personnalités ont été distinguées lors de la 2e édition de la Rue des Étoiles, le 13 novembre 2026 à Ouagadougou ?"
+     },
+     "t": "Le 13 novembre 2026, à Ouagadougou, 100 personnalités burkinabè et étrangères ont été distinguées lors de la 2e édition de la Rue des Étoiles, avec le dévoilement de nouvelles stèles sur l’avenue Kwamé N’Krumah. L’initiative est portée par l’Académie des Sotigui Awards."
+    },
+    {
+     "h": "Niger : exportation d’arachide interdite",
+     "q": "Quel produit agricole le Niger a-t-il interdit d’exporter par un arrêté du 11 novembre 2026 ? (l’arachide)",
+     "qcm": {
+      "a": "AC",
+      "e": "L’arrêté du ministère du Commerce et de l’Industrie vaut pour tout le territoire, vise la transformation locale et prévoit des exceptions vers l’AES.",
+      "o": [
+       "L’objectif affiché est de renforcer la transformation locale",
+       "La mesure ne concerne que la région de Maradi",
+       "Des autorisations exceptionnelles sont possibles vers les pays de l’AES",
+       "La mesure a été prise par le ministère de la Défense"
+      ],
+      "q": "Le Niger a interdit en novembre 2026 l’exportation de l’arachide. Quels énoncés sont exacts ?"
+     },
+     "t": "Par l’arrêté n° 05-18 du 11 novembre 2026, annoncé le 13 novembre par le ministre du Commerce et de l’Industrie, Abdoulaye Seydou, le Niger interdit l’exportation de l’arachide sur tout son territoire, afin de renforcer la transformation locale (notamment en huile). Des autorisations exceptionnelles restent possibles vers les pays de l’AES."
+    },
+    {
+     "h": "Diffa : l’Université Hummay Salamna",
+     "q": "Quel est le nouveau nom de l’Université de Diffa depuis le 12 novembre 2026 ? (Université Hummay Salamna)",
+     "qcm": {
+      "a": "B",
+      "e": "C’est l’Université de Diffa, dans l’est du Niger, qui porte désormais le nom de Hummay Salamna.",
+      "o": [
+       "Université de Zinder",
+       "Université de Diffa",
+       "Université Abdou Moumouni de Niamey",
+       "Université de Tahoua"
+      ],
+      "q": "Quelle université nigérienne a été rebaptisée « Université Hummay Salamna » le 12 novembre 2026 ?"
+     },
+     "t": "Le 12 novembre 2026, l’Université de Diffa (Niger) a été officiellement rebaptisée Université Hummay Salamna (UHS), lors d’une cérémonie présidée par le Pr Mamadou Saidou, ministre de l’Enseignement supérieur, de la Recherche et de l’Innovation technologique."
+    },
+    {
+     "h": "BAMEX 2026 à Bamako",
+     "q": "Quel salon international s’est tenu à Bamako du 9 au 13 novembre 2026 ? (le BAMEX, Salon international de la défense et de la sécurité)",
+     "qcm": {
+      "a": "C",
+      "e": "Le salon a été ouvert par le Premier ministre du Mali, le général Abdoulaye Maïga.",
+      "o": [
+       "Le général Assimi Goïta",
+       "Abdoulaye Diop",
+       "Le général Abdoulaye Maïga",
+       "Le général Sadio Camara"
+      ],
+      "q": "Qui a ouvert la 2e édition du BAMEX, le 9 novembre 2026 à Bamako ?"
+     },
+     "t": "Du 9 au 13 novembre 2026, Bamako a accueilli la 2e édition du Salon international de la défense et de la sécurité (BAMEX), ouverte par le Premier ministre malien, le général Abdoulaye Maïga, sur le thème « Innovation, renseignement et réactivité : l’Afrique face aux nouveaux défis de la sécurité globale »."
+    },
+    {
+     "h": "Cap-Vert : Neves réélu",
+     "q": "Qui a remporté la présidentielle du 15 novembre 2026 au Cap-Vert ? (José Maria Neves, réélu)",
+     "qcm": {
+      "a": "AD",
+      "e": "Avec environ 64 % des voix contre 31,5 % pour Joana Rosa, Neves dépasse les 50 % et est réélu au premier tour.",
+      "o": [
+       "José Maria Neves est réélu dès le premier tour",
+       "Joana Rosa arrive en tête",
+       "Un second tour est nécessaire le 29 novembre",
+       "Neves obtient environ 64 % des voix"
+      ],
+      "q": "Lors de la présidentielle du 15 novembre 2026 au Cap-Vert, quels énoncés sont exacts selon les résultats provisoires ?"
+     },
+     "t": "À la présidentielle du 15 novembre 2026 au Cap-Vert, le président sortant José Maria Neves a obtenu environ 64 % des voix selon les résultats provisoires (98 % des bulletins dépouillés), devant Joana Rosa (31,5 %), ce qui lui assure un second mandat dès le premier tour."
+    },
+    {
+     "h": "OIF : désignation du secrétaire général",
+     "q": "Qui est la secrétaire générale sortante de l’OIF, candidate à un troisième mandat en 2026 ? (Louise Mushikiwabo, Rwanda)",
+     "qcm": {
+      "a": "B",
+      "e": "Dacian Cioloș, ancien Premier ministre roumain, est candidat ; Coumba Ba est mauritanienne, Juliana Lumumba congolaise (RDC) et Louise Mushikiwabo rwandaise.",
+      "o": [
+       "Coumba Ba",
+       "Dacian Cioloș",
+       "Juliana Lumumba",
+       "Louise Mushikiwabo"
+      ],
+      "q": "Lequel de ces candidats au poste de secrétaire général de l’OIF (vote du 16 novembre 2026) est roumain ?"
+     },
+     "t": "Le 16 novembre 2026, au 20e Sommet de la Francophonie à Phnom Penh (Cambodge), les chefs d’État doivent désigner le ou la secrétaire général(e) de l’OIF. Quatre candidats : la sortante Louise Mushikiwabo (Rwanda), Juliana Lumumba (RD Congo), Coumba Ba (Mauritanie) et Dacian Cioloș (Roumanie)."
+    },
+    {
+     "h": "Sommet de l’ASEAN à Manille",
+     "q": "Dans quelle ville se tient le sommet de l’ASEAN du 15 au 17 novembre 2026 ? (Manille, Philippines)",
+     "qcm": {
+      "a": "B",
+      "e": "L’ASEAN compte 11 membres depuis l’adhésion du Timor-Leste en 2025 ; 21 est le nombre de membres de l’APEC.",
+      "o": [
+       "10",
+       "11",
+       "12",
+       "21"
+      ],
+      "q": "Combien de pays membres compte l’ASEAN, dont les dirigeants se réunissent à Manille du 15 au 17 novembre 2026 ?"
+     },
+     "t": "Du 15 au 17 novembre 2026, les dirigeants des 11 pays membres de l’ASEAN (Association des nations de l’Asie du Sud-Est) se réunissent à Manille, aux Philippines ; un sommet spécial avec le président américain Donald Trump est prévu le 17 novembre."
+    },
+    {
+     "h": "Journée internationale de la tolérance",
+     "q": "Quelle journée internationale est célébrée chaque 16 novembre ? (la Journée internationale de la tolérance)",
+     "qcm": {
+      "a": "C",
+      "e": "C’est l’UNESCO qui a adopté cette déclaration le 16 novembre 1995.",
+      "o": [
+       "L’OMS",
+       "L’UNICEF",
+       "L’UNESCO",
+       "L’Union africaine"
+      ],
+      "q": "Quelle organisation a adopté, le 16 novembre 1995, la Déclaration de principes sur la tolérance, à l’origine de la journée internationale du 16 novembre ?"
+     },
+     "t": "Le 16 novembre est la Journée internationale de la tolérance, proclamée par les Nations unies ; cette date rappelle l’adoption par l’UNESCO, le 16 novembre 1995, de la Déclaration de principes sur la tolérance."
+    }
+   ]
+  },
   {
    "date": "2026-11-15",
    "label": "15 novembre 2026",
