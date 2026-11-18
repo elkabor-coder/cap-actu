@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "days": [
+  {
+   "date": "2026-11-18",
+   "label": "18 novembre 2026",
+   "title": "Étalons qualifiés, naissance de la CNMC et hubs migratoires au Rwanda",
+   "items": [
+    {
+     "h": "Les Étalons qualifiés pour la CAN 2027",
+     "q": "Quels pays organiseront la CAN 2027 ? (le Kenya, l’Ouganda et la Tanzanie)",
+     "qcm": {
+      "a": "BD",
+      "e": "La CAN 2027 (« CAN Pamoja ») est co-organisée par le Kenya, l’Ouganda et la Tanzanie.",
+      "o": [
+       "Rwanda",
+       "Ouganda",
+       "Éthiopie",
+       "Kenya"
+      ],
+      "q": "Parmi les pays suivants, lesquels co-organiseront la CAN 2027 ?"
+     },
+     "t": "Le 17 novembre 2026, au stade olympique de Nouakchott, le Burkina Faso a battu la Mauritanie 3-1 lors de la 4e journée des éliminatoires et s’est qualifié pour la CAN 2027, tout comme le Bénin. La phase finale se jouera au Kenya, en Ouganda et en Tanzanie."
+    },
+    {
+     "h": "Naissance de la CNMC",
+     "q": "Dans quelle ville la Confédération nationale des médias et de la communication (CNMC) a-t-elle été créée ? (Bobo-Dioulasso)",
+     "qcm": {
+      "a": "A",
+      "e": "Arsène Évariste Kaboré a été élu président de la CNMC à l’issue des assises constitutives tenues à Bobo-Dioulasso du 13 au 15 novembre 2026.",
+      "o": [
+       "Arsène Évariste Kaboré",
+       "Jean Carem Kaboré",
+       "Lamoussa Jean-Baptiste Sawadogo",
+       "Prosper Thiombiano"
+      ],
+      "q": "Qui a été élu premier président de la Confédération nationale des médias et de la communication (CNMC) le 15 novembre 2026 ?"
+     },
+     "t": "Le 15 novembre 2026, à Bobo-Dioulasso, 17 organisations professionnelles ont créé la Confédération nationale des médias et de la communication (CNMC), faîtière unique du secteur au Burkina Faso. Arsène Évariste Kaboré a été élu président."
+    },
+    {
+     "h": "Journée africaine de la statistique",
+     "q": "À quelle date est célébrée chaque année la Journée africaine de la statistique ? (le 18 novembre)",
+     "qcm": {
+      "a": "C",
+      "e": "La Journée africaine de la statistique a lieu chaque 18 novembre ; le 20 octobre est la Journée mondiale de la statistique (célébrée tous les cinq ans).",
+      "o": [
+       "20 octobre",
+       "16 novembre",
+       "18 novembre",
+       "1er décembre"
+      ],
+      "q": "À quelle date est célébrée chaque année la Journée africaine de la statistique ?"
+     },
+     "t": "Le 18 novembre est la Journée africaine de la statistique, célébrée chaque année pour sensibiliser au rôle de la statistique dans le développement économique et social du continent ; le ministre burkinabè de l’Économie a publié une déclaration pour l’édition 2026."
+    },
+    {
+     "h": "Mois de la communication sanitaire",
+     "q": "Quel est le thème du Mois de la communication sanitaire 2026 au Burkina ? (« Le ministère de la Santé nous parle dans nos langues »)",
+     "qcm": {
+      "a": "B",
+      "e": "La caravane de presse (15-19 novembre 2026) a débuté à Ziniaré, chef-lieu de la province de l’Oubritenga.",
+      "o": [
+       "Koudougou",
+       "Ziniaré",
+       "Kaya",
+       "Fada N’Gourma"
+      ],
+      "q": "Dans quelle ville a été donnée la première étape de la caravane de presse du Mois de la communication sanitaire, le 15 novembre 2026 ?"
+     },
+     "t": "Dans le cadre du Mois de la communication sanitaire, le ministère de la Santé conduit du 15 au 19 novembre 2026 une caravane de presse lancée à Ziniaré, sur le thème « Le ministère de la Santé nous parle dans nos langues »."
+    },
+    {
+     "h": "Air Badminton : 4 médailles d’or",
+     "q": "Combien de médailles d’or le Burkina a-t-il remportées au Championnat international d’Air Badminton Bénin 2026 ? (quatre)",
+     "qcm": {
+      "a": "D",
+      "e": "Les Étalons sont repartis de Cotonou avec quatre médailles d’or, notamment en triple dames et en double mixte.",
+      "o": [
+       "Une",
+       "Deux",
+       "Trois",
+       "Quatre"
+      ],
+      "q": "Combien de médailles d’or le Burkina Faso a-t-il remportées au Championnat international d’Air Badminton Bénin 2026 ?"
+     },
+     "t": "Au premier Championnat international d’Air Badminton Bénin 2026, disputé du 12 au 14 novembre 2026 à Cotonou (Akpakpa), les Étalons du Burkina Faso ont remporté quatre médailles d’or."
+    },
+    {
+     "h": "Niger : 15e journée de la sécurité routière",
+     "q": "Combien de morts les accidents de la route ont-ils fait au Niger en 2025 ? (1 245)",
+     "qcm": {
+      "a": "A",
+      "e": "Le Niger a compté 7 116 accidents en 2025, qui ont fait 1 245 morts et 4 439 blessés graves.",
+      "o": [
+       "7 116",
+       "4 439",
+       "1 245",
+       "12 450"
+      ],
+      "q": "Selon les chiffres officiels présentés le 15 novembre 2026, combien d’accidents de la route le Niger a-t-il enregistrés en 2025 ?"
+     },
+     "t": "Le 15 novembre 2026, le Niger a célébré la 15e Journée africaine de la sécurité routière (JASR) sur le thème « Zéro tolérance sur nos routes ». En 2025, le pays a enregistré 7 116 accidents, 1 245 morts et 4 439 blessés graves."
+    },
+    {
+     "h": "Mali : Forum Mali Kura en décembre",
+     "q": "Où et quand se tiendra le Forum Mali Kura ? (à Bamako, les 11 et 12 décembre 2026)",
+     "qcm": {
+      "a": "B",
+      "e": "Le Forum Mali Kura des 11 et 12 décembre 2026 à Bamako porte sur l’investissement productif.",
+      "o": [
+       "La sécurité alimentaire",
+       "L’investissement productif",
+       "La transition numérique",
+       "Le tourisme culturel"
+      ],
+      "q": "Quel est le thème central du Forum Mali Kura prévu à Bamako les 11 et 12 décembre 2026 ?"
+     },
+     "t": "Le Mali prépare le Forum Mali Kura, prévu les 11 et 12 décembre 2026 à Bamako, consacré à l’investissement productif."
+    },
+    {
+     "h": "Un centre européen de retour au Rwanda",
+     "q": "Dans quel pays africain cinq États de l’UE veulent-ils ouvrir le premier « centre de retour » pour migrants expulsés ? (le Rwanda)",
+     "qcm": {
+      "a": "AC",
+      "e": "Les cinq pays sont l’Allemagne, l’Autriche, le Danemark, la Grèce et les Pays-Bas ; la France et l’Italie n’en font pas partie.",
+      "o": [
+       "Danemark",
+       "France",
+       "Grèce",
+       "Italie"
+      ],
+      "q": "Lesquels de ces pays font partie des cinq États de l’UE qui portent le projet de « centre de retour » au Rwanda annoncé le 16 novembre 2026 ?"
+     },
+     "t": "Le 16 novembre 2026 à Vienne, cinq pays de l’UE (Allemagne, Autriche, Danemark, Grèce, Pays-Bas) ont présenté leur projet d’ouvrir au Rwanda le premier « centre de retour » pour migrants expulsés d’Europe, un projet pilote prévu pour être opérationnel au printemps ou à l’été 2027."
+    },
+    {
+     "h": "Le président du Botswana en Côte d’Ivoire",
+     "q": "Quel chef d’État effectue une visite d’État en Côte d’Ivoire du 15 au 18 novembre 2026 ? (Duma Gideon Boko, président du Botswana)",
+     "qcm": {
+      "a": "D",
+      "e": "Duma Gideon Boko est le président de la République du Botswana.",
+      "o": [
+       "Namibie",
+       "Zambie",
+       "Zimbabwe",
+       "Botswana"
+      ],
+      "q": "Duma Gideon Boko, en visite d’État en Côte d’Ivoire du 15 au 18 novembre 2026, est le président de quel pays ?"
+     },
+     "t": "Le président du Botswana, Duma Gideon Boko, effectue une visite d’État en Côte d’Ivoire du 15 au 18 novembre 2026 ; il s’est entretenu le 16 novembre avec le président Alassane Ouattara sur la coopération et l’investissement privé."
+    },
+    {
+     "h": "Nigeria : l’inflation ralentit",
+     "q": "Quel est le taux d’inflation annuel du Nigeria en octobre 2026 selon le NBS ? (14,06 %)",
+     "qcm": {
+      "a": "B",
+      "e": "L’inflation est passée de 14,63 % en septembre à 14,06 % en octobre 2026 ; 19,13 % correspond à l’inflation alimentaire.",
+      "o": [
+       "19,13 %",
+       "14,06 %",
+       "14,63 %",
+       "24,06 %"
+      ],
+      "q": "Selon le Bureau national des statistiques du Nigeria, quel était le taux d’inflation annuel en octobre 2026 ?"
+     },
+     "t": "Selon le Bureau national des statistiques (NBS) du Nigeria, l’inflation annuelle est tombée à 14,06 % en octobre 2026, contre 14,63 % en septembre ; l’inflation alimentaire a reculé à 19,13 %."
+    }
+   ]
+  },
   {
    "date": "2026-11-17",
    "label": "17 novembre 2026",
@@ -478,226 +645,226 @@
     {
      "h": "Faso SANU",
      "q": "Qui détient le capital de la société d’État Faso SANU ? (la SONASP et le Trésor public, à parts égales)",
-     "t": "Le Conseil des ministres du 5 novembre 2026 a créé la société d’État Faso SANU, dont le capital est détenu à parts égales par la SONASP et le Trésor public. Il a aussi réorganisé l’exploitation artisanale de l’or.",
      "qcm": {
-      "q": "Qui détient le capital de la société d’État Faso SANU, créée le 5 novembre 2026 ?",
+      "a": "AB",
+      "e": "À parts égales entre la SONASP et le Trésor public.",
       "o": [
        "La SONASP",
        "Le Trésor public",
        "La SONABHY",
        "La BCEAO"
       ],
-      "a": "AB",
-      "e": "À parts égales entre la SONASP et le Trésor public."
-     }
+      "q": "Qui détient le capital de la société d’État Faso SANU, créée le 5 novembre 2026 ?"
+     },
+     "t": "Le Conseil des ministres du 5 novembre 2026 a créé la société d’État Faso SANU, dont le capital est détenu à parts égales par la SONASP et le Trésor public. Il a aussi réorganisé l’exploitation artisanale de l’or."
     },
     {
      "h": "Conseil du 5 novembre (suite)",
      "q": "À quelle date s’est tenu le Conseil des ministres qui a créé Faso SANU ? (jeudi 5 novembre 2026)",
-     "t": "Le même Conseil des ministres a adopté des textes concernant l’Agence burkinabè de médecine traditionnelle et la Faso CDC.",
      "qcm": {
-      "q": "Quels textes le Conseil des ministres du 5 novembre 2026 a-t-il aussi adoptés ?",
+      "a": "AB",
+      "e": "Textes sur l’Agence burkinabè de médecine traditionnelle et la Faso CDC.",
       "o": [
        "Sur l’Agence burkinabè de médecine traditionnelle",
        "Sur la Faso CDC",
        "Sur le code électoral",
        "Sur la SONABEL"
       ],
-      "a": "AB",
-      "e": "Textes sur l’Agence burkinabè de médecine traditionnelle et la Faso CDC."
-     }
+      "q": "Quels textes le Conseil des ministres du 5 novembre 2026 a-t-il aussi adoptés ?"
+     },
+     "t": "Le même Conseil des ministres a adopté des textes concernant l’Agence burkinabè de médecine traditionnelle et la Faso CDC."
     },
     {
      "h": "Visite d’Assimi Goïta",
      "q": "Qui assure la présidence de la Confédération AES depuis le sommet de Bamako de décembre 2025 ? (le capitaine Ibrahim Traoré)",
-     "t": "Le président malien, le général Assimi Goïta, était à Ouagadougou le 5 novembre 2026.",
      "qcm": {
-      "q": "Quel chef d’État était en visite à Ouagadougou le 5 novembre 2026 ?",
+      "a": "A",
+      "e": "Le président malien Assimi Goïta.",
       "o": [
        "Le général Assimi Goïta (Mali)",
        "Le général Abdourahamane Tiani (Niger)",
        "Mahamat Idriss Déby (Tchad)",
        "Bassirou Diomaye Faye (Sénégal)"
       ],
-      "a": "A",
-      "e": "Le président malien Assimi Goïta."
-     }
+      "q": "Quel chef d’État était en visite à Ouagadougou le 5 novembre 2026 ?"
+     },
+     "t": "Le président malien, le général Assimi Goïta, était à Ouagadougou le 5 novembre 2026."
     },
     {
      "h": "18e SIAO",
      "q": "Que signifie SIAO et en quelle année a-t-il été créé ? (Salon international de l’artisanat de Ouagadougou, 1988)",
-     "t": "Le Salon international de l’artisanat de Ouagadougou tient sa 18e édition. Le Premier ministre Rimtalba Jean Emmanuel Ouédraogo l’a visité le 3 novembre 2026.",
      "qcm": {
-      "q": "Le SIAO de 2026 :",
+      "a": "ACD",
+      "e": "18e édition, visitée par le Premier ministre le 3 novembre 2026.",
       "o": [
        "Est la 18e édition",
        "Est la 20e édition",
        "Signifie Salon international de l’artisanat de Ouagadougou",
        "A été créé en 1988"
       ],
-      "a": "ACD",
-      "e": "18e édition, visitée par le Premier ministre le 3 novembre 2026."
-     }
+      "q": "Le SIAO de 2026 :"
+     },
+     "t": "Le Salon international de l’artisanat de Ouagadougou tient sa 18e édition. Le Premier ministre Rimtalba Jean Emmanuel Ouédraogo l’a visité le 3 novembre 2026."
     },
     {
      "h": "200 tracteurs",
      "q": "Combien de tracteurs le Bureau national des grands projets a-t-il remis le 6 novembre 2026 ? (200, de 40 chevaux)",
-     "t": "Le 6 novembre 2026, le Bureau national des grands projets a remis 200 tracteurs de 40 chevaux.",
      "qcm": {
-      "q": "Combien de tracteurs le Bureau national des grands projets a-t-il remis le 6 novembre 2026 ?",
+      "a": "C",
+      "e": "200 tracteurs de 40 chevaux.",
       "o": [
        "100",
        "150",
        "200",
        "400"
       ],
-      "a": "C",
-      "e": "200 tracteurs de 40 chevaux."
-     }
+      "q": "Combien de tracteurs le Bureau national des grands projets a-t-il remis le 6 novembre 2026 ?"
+     },
+     "t": "Le 6 novembre 2026, le Bureau national des grands projets a remis 200 tracteurs de 40 chevaux."
     },
     {
      "h": "37e Tour du Faso",
      "q": "Qui a remporté le Tour du Faso 2026 (37e édition) ? (Paul Daumont, déjà vainqueur en 2023)",
-     "t": "Clôturé le 8 novembre 2026, il a été remporté par le Burkinabè Paul Daumont. L’Algérien Azzedine Lagab a gagné la dernière étape. 80 coureurs de 14 pays étaient au départ.",
      "qcm": {
-      "q": "Le 37e Tour du Faso (2026) :",
+      "a": "ACD",
+      "e": "Paul Daumont (Burkina) gagne ; Azzedine Lagab (Algérie) remporte la dernière étape ; 80 coureurs, 14 pays.",
       "o": [
        "A été remporté par Paul Daumont",
        "A été remporté par Azzedine Lagab",
        "S’est clôturé le 8 novembre 2026",
        "Réunissait des coureurs de 14 pays"
       ],
-      "a": "ACD",
-      "e": "Paul Daumont (Burkina) gagne ; Azzedine Lagab (Algérie) remporte la dernière étape ; 80 coureurs, 14 pays."
-     }
+      "q": "Le 37e Tour du Faso (2026) :"
+     },
+     "t": "Clôturé le 8 novembre 2026, il a été remporté par le Burkinabè Paul Daumont. L’Algérien Azzedine Lagab a gagné la dernière étape. 80 coureurs de 14 pays étaient au départ."
     },
     {
      "h": "Maouloud",
      "q": "Quel était le thème du Maouloud 2026 au Burkina ? (« Cohésion sociale et tolérance religieuse »)",
-     "t": "La fête du Maouloud a été célébrée le 7 novembre 2026 sur le thème « Cohésion sociale et tolérance religieuse ».",
      "qcm": {
-      "q": "Quel était le thème du Maouloud 2026 au Burkina ?",
+      "a": "A",
+      "e": "Célébré le 7 novembre 2026.",
       "o": [
        "« Cohésion sociale et tolérance religieuse »",
        "« Paix et sécurité au Sahel »",
        "« Foi et patriotisme »",
        "« Solidarité et résilience »"
       ],
-      "a": "A",
-      "e": "Célébré le 7 novembre 2026."
-     }
+      "q": "Quel était le thème du Maouloud 2026 au Burkina ?"
+     },
+     "t": "La fête du Maouloud a été célébrée le 7 novembre 2026 sur le thème « Cohésion sociale et tolérance religieuse »."
     },
     {
      "h": "COP31 à Antalya",
      "q": "Où se tient la COP31 ? (À Antalya, en Turquie)",
-     "t": "La 31e conférence de l’ONU sur le climat se tient à Antalya, en Turquie, jusqu’au 20 novembre 2026. La COP30 avait eu lieu à Belém (Brésil) en 2025.",
      "qcm": {
-      "q": "Où se tient la COP31, jusqu’au 20 novembre 2026 ?",
+      "a": "A",
+      "e": "COP29 : Bakou (2024) ; COP30 : Belém (2025) ; COP31 : Antalya (2026).",
       "o": [
        "À Antalya (Turquie)",
        "À Belém (Brésil)",
        "À Bakou (Azerbaïdjan)",
        "À Adélaïde (Australie)"
       ],
-      "a": "A",
-      "e": "COP29 : Bakou (2024) ; COP30 : Belém (2025) ; COP31 : Antalya (2026)."
-     }
+      "q": "Où se tient la COP31, jusqu’au 20 novembre 2026 ?"
+     },
+     "t": "La 31e conférence de l’ONU sur le climat se tient à Antalya, en Turquie, jusqu’au 20 novembre 2026. La COP30 avait eu lieu à Belém (Brésil) en 2025."
     },
     {
      "h": "Ukraine-Russie",
      "q": "Dans quelle ville les pourparlers Ukraine-Russie ont-ils repris en novembre 2026 ? (Abou Dhabi)",
-     "t": "Le 10 novembre 2026, des pourparlers de paix entre l’Ukraine et la Russie ont repris à Abou Dhabi (Émirats arabes unis), sous médiation américaine, pour la première fois depuis neuf mois.",
      "qcm": {
-      "q": "Dans quelle ville les pourparlers de paix Ukraine-Russie ont-ils repris le 10 novembre 2026 ?",
+      "a": "A",
+      "e": "À Abou Dhabi (Émirats arabes unis), sous médiation américaine.",
       "o": [
        "Abou Dhabi",
        "Istanbul",
        "Genève",
        "Riyad"
       ],
-      "a": "A",
-      "e": "À Abou Dhabi (Émirats arabes unis), sous médiation américaine."
-     }
+      "q": "Dans quelle ville les pourparlers de paix Ukraine-Russie ont-ils repris le 10 novembre 2026 ?"
+     },
+     "t": "Le 10 novembre 2026, des pourparlers de paix entre l’Ukraine et la Russie ont repris à Abou Dhabi (Émirats arabes unis), sous médiation américaine, pour la première fois depuis neuf mois."
     },
     {
      "h": "Léon XIV en Argentine",
      "q": "Quelle est la nationalité du pape Léon XIV ? (Américaine ; il a aussi la nationalité péruvienne)",
-     "t": "Le pape Léon XIV a célébré le 10 novembre 2026 une messe en plein air à Córdoba, en Argentine, devant environ 650 000 fidèles.",
      "qcm": {
-      "q": "Où le pape Léon XIV a-t-il célébré une messe devant environ 650 000 fidèles le 10 novembre 2026 ?",
+      "a": "A",
+      "e": "À Córdoba, en Argentine.",
       "o": [
        "À Córdoba (Argentine)",
        "À Buenos Aires (Argentine)",
        "À Lima (Pérou)",
        "À São Paulo (Brésil)"
       ],
-      "a": "A",
-      "e": "À Córdoba, en Argentine."
-     }
+      "q": "Où le pape Léon XIV a-t-il célébré une messe devant environ 650 000 fidèles le 10 novembre 2026 ?"
+     },
+     "t": "Le pape Léon XIV a célébré le 10 novembre 2026 une messe en plein air à Córdoba, en Argentine, devant environ 650 000 fidèles."
     },
     {
      "h": "Côte d’Ivoire : le caoutchouc",
      "q": "Quel pays est le premier producteur africain de caoutchouc naturel ? (La Côte d’Ivoire)",
-     "t": "Avec près de 2 millions de tonnes exportées en 2025 (1 900 milliards de FCFA), le caoutchouc devient le premier produit agricole d’exportation ivoirien. Le pays fournit plus de 85 % de la production africaine et est 3e mondial, derrière la Thaïlande et l’Indonésie.",
      "qcm": {
-      "q": "Le caoutchouc ivoirien :",
+      "a": "ABD",
+      "e": "La Côte d’Ivoire est 3e mondiale, derrière la Thaïlande et l’Indonésie.",
       "o": [
        "Est devenu le 1er produit agricole d’exportation du pays en 2025",
        "Représente plus de 85 % de la production africaine",
        "Place la Côte d’Ivoire au 1er rang mondial",
        "A atteint près de 2 millions de tonnes exportées en 2025"
       ],
-      "a": "ABD",
-      "e": "La Côte d’Ivoire est 3e mondiale, derrière la Thaïlande et l’Indonésie."
-     }
+      "q": "Le caoutchouc ivoirien :"
+     },
+     "t": "Avec près de 2 millions de tonnes exportées en 2025 (1 900 milliards de FCFA), le caoutchouc devient le premier produit agricole d’exportation ivoirien. Le pays fournit plus de 85 % de la production africaine et est 3e mondial, derrière la Thaïlande et l’Indonésie."
     },
     {
      "h": "Gabon : manganèse",
      "q": "Quel minerai le Gabon veut-il interdire d’exporter à l’état brut dès 2029 ? (Le manganèse)",
-     "t": "Le Gabon veut interdire l’exportation de manganèse brut à partir de 2029 pour le transformer sur place ; il l’a annoncé lors de la visite du président Brice Clotaire Oligui Nguema à Pékin (6 novembre 2026).",
      "qcm": {
-      "q": "Quel minerai le Gabon veut-il interdire d’exporter à l’état brut à partir de 2029 ?",
+      "a": "A",
+      "e": "Annoncé lors de la visite d’Oligui Nguema à Pékin (6 novembre 2026).",
       "o": [
        "Le manganèse",
        "Le fer",
        "L’uranium",
        "Le pétrole"
       ],
-      "a": "A",
-      "e": "Annoncé lors de la visite d’Oligui Nguema à Pékin (6 novembre 2026)."
-     }
+      "q": "Quel minerai le Gabon veut-il interdire d’exporter à l’état brut à partir de 2029 ?"
+     },
+     "t": "Le Gabon veut interdire l’exportation de manganèse brut à partir de 2029 pour le transformer sur place ; il l’a annoncé lors de la visite du président Brice Clotaire Oligui Nguema à Pékin (6 novembre 2026)."
     },
     {
      "h": "Afrique du Sud : élections locales",
      "q": "Quel parti reste la première force politique sud-africaine aux élections locales de 2026 ? (L’ANC)",
-     "t": "Aux élections locales de novembre 2026, l’ANC reste la première force politique du pays mais recule d’environ 15 points selon les résultats provisoires.",
      "qcm": {
-      "q": "Élections locales sud-africaines de novembre 2026 (résultats provisoires) :",
+      "a": "AB",
+      "e": "L’ANC reste en tête mais recule d’environ 15 points.",
       "o": [
        "L’ANC reste la première force politique",
        "L’ANC recule d’environ 15 points",
        "L’Alliance démocratique devient la première force",
        "L’ANC progresse nettement"
       ],
-      "a": "AB",
-      "e": "L’ANC reste en tête mais recule d’environ 15 points."
-     }
+      "q": "Élections locales sud-africaines de novembre 2026 (résultats provisoires) :"
+     },
+     "t": "Aux élections locales de novembre 2026, l’ANC reste la première force politique du pays mais recule d’environ 15 points selon les résultats provisoires."
     },
     {
      "h": "Éducation (PASEC)",
      "q": "Que signifie CONFEMEN ? (Conférence des ministres de l’Éducation des États et gouvernements de la Francophonie)",
-     "t": "Selon le bilan du PASEC de la CONFEMEN, trois élèves sur quatre quittent le primaire sans maîtriser les mathématiques en Afrique francophone.",
      "qcm": {
-      "q": "Selon le PASEC de la CONFEMEN, combien d’élèves quittent le primaire sans maîtriser les mathématiques en Afrique francophone ?",
+      "a": "C",
+      "e": "Trois élèves sur quatre.",
       "o": [
        "1 sur 4",
        "1 sur 2",
        "3 sur 4",
        "9 sur 10"
       ],
-      "a": "C",
-      "e": "Trois élèves sur quatre."
-     }
+      "q": "Selon le PASEC de la CONFEMEN, combien d’élèves quittent le primaire sans maîtriser les mathématiques en Afrique francophone ?"
+     },
+     "t": "Selon le bilan du PASEC de la CONFEMEN, trois élèves sur quatre quittent le primaire sans maîtriser les mathématiques en Afrique francophone."
     }
    ]
   }
