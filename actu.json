@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-20",
  "days": [
+  {
+   "date": "2026-11-20",
+   "label": "20 novembre 2026",
+   "title": "Mine de Perkoa, quatre CHU et dernier jour de la COP31",
+   "items": [
+    {
+     "h": "Zinc : la mine de Perkoa relancée",
+     "t": "Le Conseil des ministres du 19 novembre 2026 a octroyé à la SOPAMIB PERKOA SA un permis d’exploitation industrielle de grande mine de zinc à Perkoa, dans la commune de Réo (province du Sanguié). L’activité y était suspendue depuis la tragédie du 16 avril 2022 ; 400 emplois directs sont attendus.",
+     "q": "Dans quelle province se trouve la mine de zinc de Perkoa ? (le Sanguié, commune de Réo)",
+     "qcm": {
+      "q": "La mine de zinc de Perkoa, dont le permis a été attribué le 19 novembre 2026 à la SOPAMIB PERKOA SA, se trouve dans la commune de :",
+      "o": [
+       "Koudougou",
+       "Kaya",
+       "Réo",
+       "Houndé"
+      ],
+      "a": "C",
+      "e": "La mine de Perkoa est située dans la commune de Réo, province du Sanguié."
+     }
+    },
+    {
+     "h": "Quatre CHU régionaux pour 324 milliards",
+     "t": "Le 19 novembre 2026, le Conseil des ministres a autorisé le recrutement de prestataires pour construire et équiper les CHU de Fada N’Gourma, Kaya, Koudougou et Banfora, pour 324 milliards de FCFA (HT), première phase d’un programme de neuf CHU de 500 lits. Le CHU de Dédougou doit être redimensionné pour intégrer un centre de radiothérapie.",
+     "q": "Combien coûtent la construction et l’équipement des quatre CHU adoptés le 19 novembre 2026 ? (324 milliards de FCFA)",
+     "qcm": {
+      "q": "Parmi ces villes, lesquelles font partie des quatre CHU régionaux adoptés en Conseil des ministres le 19 novembre 2026 ?",
+      "o": [
+       "Fada N’Gourma",
+       "Dori",
+       "Banfora",
+       "Ouahigouya"
+      ],
+      "a": "AC",
+      "e": "Les quatre CHU concernés sont ceux de Fada N’Gourma, Kaya, Koudougou et Banfora."
+     }
+    },
+    {
+     "h": "Thème du 11 décembre 2026",
+     "t": "Le Conseil des ministres du 19 novembre 2026 a annoncé que la fête du 11 décembre 2026 sera célébrée sur le thème « Révolution progressiste populaire au Burkina Faso : une consécration des résistances à la domination coloniale et à l’impérialisme », avec une grande parade militaire à Ouagadougou.",
+     "q": "Où aura lieu la grande parade militaire du 11 décembre 2026 ? (à Ouagadougou)",
+     "qcm": {
+      "q": "Que commémore chaque année le Burkina Faso le 11 décembre ?",
+      "o": [
+       "L’indépendance (1960)",
+       "La proclamation de la République (1958)",
+       "L’insurrection populaire (2014)",
+       "La création de la Confédération AES (2024)"
+      ],
+      "a": "B",
+      "e": "Le 11 décembre rappelle la proclamation de la République de Haute-Volta le 11 décembre 1958 ; l’indépendance date du 5 août 1960."
+     }
+    },
+    {
+     "h": "Dissolution du Syndicat des pharmaciens",
+     "t": "Le 19 novembre 2026, le Conseil des ministres a adopté un décret portant dissolution du Syndicat des pharmaciens du Burkina Faso (SPBF), après une décision de la Commission de l’UEMOA du 27 février 2026 ; le gouvernement précise que cette dissolution ne touche pas l’exercice de la pharmacie.",
+     "q": "Quelle organisation régionale avait sanctionné le Syndicat des pharmaciens du Burkina en février 2026 ? (l’UEMOA)",
+     "qcm": {
+      "q": "La dissolution du Syndicat des pharmaciens du Burkina Faso, décidée le 19 novembre 2026, fait suite à une décision de quelle institution ?",
+      "o": [
+       "La CEDEAO",
+       "L’Organisation mondiale de la santé",
+       "La BCEAO",
+       "La Commission de l’UEMOA"
+      ],
+      "a": "D",
+      "e": "La décision n°04/2026/COM/UEMOA du 27 février 2026 de la Commission de l’UEMOA avait sanctionné le syndicat."
+     }
+    },
+    {
+     "h": "AES : quatre textes sur la fonction publique et le travail",
+     "t": "Réunis le 13 novembre 2026 à Ouagadougou, les ministres de la Fonction publique et du Travail de la Confédération AES ont adopté quatre textes, dont un Guide de bonnes pratiques en matière de fonction publique et un Accord sur la portabilité des prestations sociales dans l’espace AES (communiqué du Conseil des ministres malien du 18 novembre 2026).",
+     "q": "Dans quelle ville les ministres AES de la Fonction publique ont-ils adopté leurs textes communs le 13 novembre 2026 ? (Ouagadougou)",
+     "qcm": {
+      "q": "Parmi ces textes, lesquels ont été adoptés par les ministres de la Fonction publique et du Travail de l’AES le 13 novembre 2026 ?",
+      "o": [
+       "Un statut général unique des fonctionnaires de l’AES",
+       "Un Guide de bonnes pratiques en matière de fonction publique",
+       "Un Accord sur la portabilité des prestations sociales",
+       "Un concours commun de recrutement des trois États"
+      ],
+      "a": "BC",
+      "e": "Les quatre textes adoptés sont le Guide de bonnes pratiques de fonction publique, deux guides sur les travailleurs migrants et l’Accord sur la portabilité des prestations sociales."
+     }
+    },
+    {
+     "h": "Mali : création de la société SUGU S.A.",
+     "t": "Le 18 novembre 2026, le Conseil des ministres du Mali, présidé par le général d’armée Assimi Goïta, a adopté des projets de texte créant la société SUGU S.A., chargée notamment d’exporter les produits stratégiques de l’État, et relisant la loi de 1985 sur l’exercice privé des professions de santé.",
+     "q": "Quel est le nom de la société créée par le Conseil des ministres malien du 18 novembre 2026 pour exporter les produits stratégiques de l’État ? (SUGU S.A.)",
+     "qcm": {
+      "q": "Qui a présidé le Conseil des ministres du Mali du 18 novembre 2026 ?",
+      "o": [
+       "Assimi Goïta",
+       "Abdoulaye Maïga",
+       "Sadio Camara",
+       "Abdourahamane Tiani"
+      ],
+      "a": "A",
+      "e": "Le général d’armée Assimi Goïta, président de la Transition, a présidé ce Conseil à Koulouba."
+     }
+    },
+    {
+     "h": "COP31 : dernier jour à Antalya",
+     "t": "La COP31 sur le climat, ouverte le 9 novembre 2026 à Antalya (Turquie), s’achève officiellement le 20 novembre 2026 ; le projet de décision finale présenté le 19 novembre ne mentionne plus explicitement les énergies fossiles. La conférence est présidée par le Turc Murat Kurum, l’Australien Chris Bowen présidant les négociations.",
+     "q": "Quel pays accueille la COP31 en novembre 2026 ? (la Turquie, à Antalya)",
+     "qcm": {
+      "q": "Dans quelle ville se tient la COP31 sur le climat, du 9 au 20 novembre 2026 ?",
+      "o": [
+       "Belém",
+       "Adélaïde",
+       "Bakou",
+       "Antalya"
+      ],
+      "a": "D",
+      "e": "La COP31 se tient à Antalya, en Turquie ; Belém (Brésil) avait accueilli la COP30 et Bakou la COP29."
+     }
+    },
+    {
+     "h": "16e Biennale de Dakar",
+     "t": "La 16e Biennale de l’art africain contemporain de Dakar (Dak’Art) se tient du 19 novembre au 19 décembre 2026 sur le thème « (Anti)fragilité : arts de la réparation et stratégies du contrecoup », sous la direction artistique de Morad Montazami ; la RD Congo est le pays invité d’honneur.",
+     "q": "Quel pays est l’invité d’honneur du Dak’Art 2026 ? (la République démocratique du Congo)",
+     "qcm": {
+      "q": "La Biennale de l’art africain contemporain « Dak’Art », dont la 16e édition s’ouvre le 19 novembre 2026, se déroule dans quel pays ?",
+      "o": [
+       "Mali",
+       "Côte d’Ivoire",
+       "Sénégal",
+       "Bénin"
+      ],
+      "a": "C",
+      "e": "Le Dak’Art se tient à Dakar, au Sénégal ; la Biennale de la photographie, elle, a lieu à Bamako."
+     }
+    },
+    {
+     "h": "Bénin : 35 objets réclamés à la France",
+     "t": "Le 19 novembre 2026, il a été rapporté que le Bénin demande à la France la restitution de 35 objets conservés au musée du quai Branly, dont une sculpture du dieu Gou. En novembre 2021, la France avait déjà rendu 26 trésors royaux d’Abomey.",
+     "q": "Combien de trésors royaux d’Abomey la France a-t-elle restitués au Bénin en 2021 ? (26)",
+     "qcm": {
+      "q": "Dans quel musée parisien sont conservés les 35 objets dont le Bénin demande la restitution en novembre 2026 ?",
+      "o": [
+       "Le musée du quai Branly",
+       "Le musée du Louvre",
+       "Le musée d’Orsay",
+       "Le Centre Pompidou"
+      ],
+      "a": "A",
+      "e": "Les objets réclamés, dont une sculpture du dieu Gou, se trouvent au musée du quai Branly–Jacques Chirac."
+     }
+    },
+    {
+     "h": "20 novembre : enfance et industrialisation de l’Afrique",
+     "t": "Le 20 novembre 2026, on célèbre la Journée mondiale de l’enfance, date anniversaire de l’adoption par l’ONU de la Convention relative aux droits de l’enfant le 20 novembre 1989, ainsi que la Journée de l’industrialisation de l’Afrique.",
+     "q": "En quelle année l’ONU a-t-elle adopté la Convention relative aux droits de l’enfant ? (1989)",
+     "qcm": {
+      "q": "Quelles journées sont célébrées chaque année le 20 novembre ?",
+      "o": [
+       "La Journée mondiale de l’enfance",
+       "La Journée internationale de la tolérance",
+       "La Journée de l’industrialisation de l’Afrique",
+       "La Journée africaine de la statistique"
+      ],
+      "a": "AC",
+      "e": "Le 20 novembre est à la fois la Journée mondiale de l’enfance et la Journée de l’industrialisation de l’Afrique ; la tolérance est fêtée le 16 et la statistique africaine le 18 novembre."
+     }
+    }
+   ]
+  },
   {
    "date": "2026-11-18",
    "label": "18 novembre 2026",
