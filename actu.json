@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "days": [
+  {
+   "date": "2026-11-21",
+   "label": "samedi 21 novembre 2026",
+   "title": "Projet RAAGA, salon de l’AES et prolongation de la COP31",
+   "items": [
+    {
+     "h": "Projet RAAGA : 104 milliards pour des marchés modernes",
+     "t": "Le Conseil des ministres du 19 novembre 2026 a inscrit le « Projet RAAGA » parmi les projets du Bureau national des grands projets du Burkina (BN-GPB) : des marchés modernes seront construits dans les arrondissements 1 et 4 de Ouagadougou et à Sarfalao (Bobo-Dioulasso), pour 104 379 023 379 F CFA financés par le budget de l’État.",
+     "q": "Quel est le coût global du projet RAAGA de marchés modernes adopté le 19 novembre 2026 ? (environ 104,4 milliards de F CFA)",
+     "qcm": {
+      "q": "Le projet RAAGA de marchés modernes adopté le 19 novembre 2026 concerne :",
+      "o": [
+       "Ouagadougou et Bobo-Dioulasso",
+       "Koudougou et Kaya",
+       "Ouahigouya et Dori",
+       "Fada N’Gourma et Banfora"
+      ],
+      "a": "A",
+      "e": "Les marchés seront construits dans les arrondissements 1 et 4 de Ouagadougou et à Sarfalao, à Bobo-Dioulasso."
+     }
+    },
+    {
+     "h": "Création de l’Economat-FDFS",
+     "t": "Le Conseil des ministres du 19 novembre 2026 a créé la société d’État « Economat des Forces de défense et des Forces de sécurité » (Economat-FDFS), avec un capital social de 1 milliard de F CFA, et en a approuvé les statuts particuliers.",
+     "q": "Quel est le capital social de la société d’État Economat-FDFS créée le 19 novembre 2026 ? (1 milliard de F CFA)",
+     "qcm": {
+      "q": "Quel est le capital social de la société d’État Economat-FDFS créée le 19 novembre 2026 ?",
+      "o": [
+       "500 millions de F CFA",
+       "5 milliards de F CFA",
+       "1 milliard de F CFA",
+       "10 milliards de F CFA"
+      ],
+      "a": "C",
+      "e": "Le décret de création fixe le capital social de l’Economat-FDFS à 1 000 000 000 de F CFA."
+     }
+    },
+    {
+     "h": "FASO KOSAM : quatre agences laitières",
+     "t": "Le 19 novembre 2026, le Conseil des ministres a révisé les statuts de la société FASO KOSAM : création d’un poste de secrétaire général et de quatre agences laitières (Centre, Est, Ouest et Nord).",
+     "q": "Combien d’agences laitières les nouveaux statuts de FASO KOSAM créent-ils ? (quatre : Centre, Est, Ouest et Nord)",
+     "qcm": {
+      "q": "Selon ses statuts révisés le 19 novembre 2026, FASO KOSAM se dote de combien d’agences laitières ?",
+      "o": [
+       "Deux",
+       "Trois",
+       "Six",
+       "Quatre"
+      ],
+      "a": "D",
+      "e": "Les statuts révisés créent quatre agences laitières : Centre, Est, Ouest et Nord ; « kosam » signifie lait en mooré."
+     }
+    },
+    {
+     "h": "Rapatriés de Guinée : plus de 70 000 accueillis",
+     "t": "Au 19 novembre 2026, 70 734 Burkinabè rentrés de Guinée avaient été accueillis au total, dont 14 144 déjà convoyés vers leurs localités d’origine.",
+     "q": "Combien de Burkinabè rentrés de Guinée avaient été accueillis au 19 novembre 2026 ? (70 734)",
+     "qcm": {
+      "q": "Au 19 novembre 2026, combien de Burkinabè rentrés de Guinée avaient été accueillis au total ?",
+      "o": [
+       "14 144",
+       "70 734",
+       "7 056",
+       "150 000"
+      ],
+      "a": "B",
+      "e": "Le bilan fait état de 70 734 personnes accueillies, dont 14 144 déjà convoyées vers leurs localités d’origine."
+     }
+    },
+    {
+     "h": "Eau : feuille de route Burkina-Mali 2027-2029",
+     "t": "Les 19 et 20 novembre 2026, la 8e session ordinaire du comité technique conjoint Burkina-Mali pour la gestion intégrée des ressources en eau (CTC-GIRE) a adopté une feuille de route 2027-2029 pour les bassins transfrontaliers.",
+     "q": "Quelle période couvre la feuille de route Burkina-Mali sur les ressources en eau adoptée en novembre 2026 ? (2027-2029)",
+     "qcm": {
+      "q": "En novembre 2026, le Burkina Faso et le Mali ont adopté une feuille de route commune sur la gestion des ressources en eau pour la période :",
+      "o": [
+       "2026-2028",
+       "2027-2029",
+       "2027-2031",
+       "2030-2035"
+      ],
+      "a": "B",
+      "e": "La 8e session ordinaire du CTC-GIRE a adopté une feuille de route 2027-2029."
+     }
+    },
+    {
+     "h": "2e Salon de l’entrepreneuriat de l’AES",
+     "t": "La 2e édition du Salon international de l’entrepreneuriat de la Confédération des États du Sahel (SIE-AES) se tient du 18 au 21 novembre 2026 à Bamako, sur l’esplanade du stade du 26-Mars, avec le Mali, le Burkina Faso et le Niger ; la Guinée est l’invitée d’honneur.",
+     "q": "Quel pays est l’invité d’honneur du 2e Salon international de l’entrepreneuriat de l’AES (Bamako, novembre 2026) ? (la Guinée)",
+     "qcm": {
+      "q": "Quel pays est l’invité d’honneur de la 2e édition du SIE-AES, à Bamako du 18 au 21 novembre 2026 ?",
+      "o": [
+       "Le Tchad",
+       "Le Sénégal",
+       "La Guinée",
+       "Le Togo"
+      ],
+      "a": "C",
+      "e": "La Guinée est le pays invité d’honneur de ce salon qui réunit les trois pays de l’AES."
+     }
+    },
+    {
+     "h": "COP31 prolongée à Antalya",
+     "t": "Prévue pour s’achever le 20 novembre 2026, la COP31 d’Antalya (Turquie) a été prolongée au samedi 21 novembre faute de consensus sur le projet d’« Accord d’Antalya », notamment sur les énergies fossiles et le financement. La COP32 se tiendra en 2027 à Addis-Abeba (Éthiopie).",
+     "q": "Quelle ville accueillera la COP32 en 2027 ? (Addis-Abeba, en Éthiopie)",
+     "qcm": {
+      "q": "Quelles affirmations sur les COP sont exactes ?",
+      "o": [
+       "La COP31 se tient à Antalya, en Turquie",
+       "La COP32 aura lieu en 2027 à Addis-Abeba",
+       "La COP31 se tient à Belém, au Brésil",
+       "La COP32 aura lieu à Abuja, au Nigeria"
+      ],
+      "a": "AB",
+      "e": "La COP31 se déroule à Antalya (Turquie) ; la COP32 est attribuée à l’Éthiopie (Addis-Abeba) pour 2027, Belém ayant accueilli la COP30 en 2025."
+     }
+    },
+    {
+     "h": "CAN 2027 : le logo « bouclier » dévoilé",
+     "t": "Le 19 novembre 2026, la CAF a dévoilé simultanément au Kenya, en Tanzanie et en Ouganda le logo de la CAN « PAMOJA » 2027, inspiré du bouclier traditionnel d’Afrique de l’Est. Le tournoi débutera le 19 juin 2027.",
+     "q": "Que signifie le mot swahili « Pamoja », nom de la CAN 2027 ? (Ensemble)",
+     "qcm": {
+      "q": "Que signifie « Pamoja », nom donné à la CAN 2027 organisée par le Kenya, la Tanzanie et l’Ouganda ?",
+      "o": [
+       "Victoire",
+       "Ensemble",
+       "Bouclier",
+       "Afrique"
+      ],
+      "a": "B",
+      "e": "Selon la CAF, « Pamoja » signifie « ensemble » en swahili, langue parlée dans les trois pays hôtes."
+     }
+    },
+    {
+     "h": "Zambie : première usine de vaccins contre le choléra",
+     "t": "Le 17 novembre 2026, la Zambie a lancé la construction de sa première usine de vaccins contre le choléra, baptisée ZAMVAX, coentreprise entre l’Industrial Development Corporation zambienne (60 %) et le chinois Jijia International Medical Technology (40 %).",
+     "q": "Contre quelle maladie l’usine ZAMVAX en construction en Zambie produira-t-elle des vaccins ? (le choléra)",
+     "qcm": {
+      "q": "L’usine ZAMVAX, dont la construction a débuté le 17 novembre 2026 en Zambie, produira des vaccins contre :",
+      "o": [
+       "Le paludisme",
+       "La rougeole",
+       "La méningite",
+       "Le choléra"
+      ],
+      "a": "D",
+      "e": "ZAMVAX est la première usine zambienne de vaccins contre le choléra, en partenariat avec une entreprise chinoise."
+     }
+    },
+    {
+     "h": "La Somalie expulse l’ambassadeur des Émirats",
+     "t": "Le 19 novembre 2026, le gouvernement somalien a ordonné à l’ambassadeur des Émirats arabes unis à Mogadiscio de quitter le pays sous 72 heures, accusant Abou Dhabi d’atteinte à sa souveraineté.",
+     "q": "Quelle est la capitale de la Somalie, d’où l’ambassadeur émirati a été expulsé le 19 novembre 2026 ? (Mogadiscio)",
+     "qcm": {
+      "q": "Le 19 novembre 2026, la Somalie a expulsé l’ambassadeur de quel pays ?",
+      "o": [
+       "Les Émirats arabes unis",
+       "L’Éthiopie",
+       "Le Kenya",
+       "La Turquie"
+      ],
+      "a": "A",
+      "e": "Mogadiscio a donné 72 heures à l’ambassadeur des Émirats arabes unis pour quitter le pays."
+     }
+    }
+   ]
+  },
   {
    "date": "2026-11-20",
    "label": "20 novembre 2026",
@@ -8,163 +175,163 @@
    "items": [
     {
      "h": "Zinc : la mine de Perkoa relancée",
-     "t": "Le Conseil des ministres du 19 novembre 2026 a octroyé à la SOPAMIB PERKOA SA un permis d’exploitation industrielle de grande mine de zinc à Perkoa, dans la commune de Réo (province du Sanguié). L’activité y était suspendue depuis la tragédie du 16 avril 2022 ; 400 emplois directs sont attendus.",
      "q": "Dans quelle province se trouve la mine de zinc de Perkoa ? (le Sanguié, commune de Réo)",
      "qcm": {
-      "q": "La mine de zinc de Perkoa, dont le permis a été attribué le 19 novembre 2026 à la SOPAMIB PERKOA SA, se trouve dans la commune de :",
+      "a": "C",
+      "e": "La mine de Perkoa est située dans la commune de Réo, province du Sanguié.",
       "o": [
        "Koudougou",
        "Kaya",
        "Réo",
        "Houndé"
       ],
-      "a": "C",
-      "e": "La mine de Perkoa est située dans la commune de Réo, province du Sanguié."
-     }
+      "q": "La mine de zinc de Perkoa, dont le permis a été attribué le 19 novembre 2026 à la SOPAMIB PERKOA SA, se trouve dans la commune de :"
+     },
+     "t": "Le Conseil des ministres du 19 novembre 2026 a octroyé à la SOPAMIB PERKOA SA un permis d’exploitation industrielle de grande mine de zinc à Perkoa, dans la commune de Réo (province du Sanguié). L’activité y était suspendue depuis la tragédie du 16 avril 2022 ; 400 emplois directs sont attendus."
     },
     {
      "h": "Quatre CHU régionaux pour 324 milliards",
-     "t": "Le 19 novembre 2026, le Conseil des ministres a autorisé le recrutement de prestataires pour construire et équiper les CHU de Fada N’Gourma, Kaya, Koudougou et Banfora, pour 324 milliards de FCFA (HT), première phase d’un programme de neuf CHU de 500 lits. Le CHU de Dédougou doit être redimensionné pour intégrer un centre de radiothérapie.",
      "q": "Combien coûtent la construction et l’équipement des quatre CHU adoptés le 19 novembre 2026 ? (324 milliards de FCFA)",
      "qcm": {
-      "q": "Parmi ces villes, lesquelles font partie des quatre CHU régionaux adoptés en Conseil des ministres le 19 novembre 2026 ?",
+      "a": "AC",
+      "e": "Les quatre CHU concernés sont ceux de Fada N’Gourma, Kaya, Koudougou et Banfora.",
       "o": [
        "Fada N’Gourma",
        "Dori",
        "Banfora",
        "Ouahigouya"
       ],
-      "a": "AC",
-      "e": "Les quatre CHU concernés sont ceux de Fada N’Gourma, Kaya, Koudougou et Banfora."
-     }
+      "q": "Parmi ces villes, lesquelles font partie des quatre CHU régionaux adoptés en Conseil des ministres le 19 novembre 2026 ?"
+     },
+     "t": "Le 19 novembre 2026, le Conseil des ministres a autorisé le recrutement de prestataires pour construire et équiper les CHU de Fada N’Gourma, Kaya, Koudougou et Banfora, pour 324 milliards de FCFA (HT), première phase d’un programme de neuf CHU de 500 lits. Le CHU de Dédougou doit être redimensionné pour intégrer un centre de radiothérapie."
     },
     {
      "h": "Thème du 11 décembre 2026",
-     "t": "Le Conseil des ministres du 19 novembre 2026 a annoncé que la fête du 11 décembre 2026 sera célébrée sur le thème « Révolution progressiste populaire au Burkina Faso : une consécration des résistances à la domination coloniale et à l’impérialisme », avec une grande parade militaire à Ouagadougou.",
      "q": "Où aura lieu la grande parade militaire du 11 décembre 2026 ? (à Ouagadougou)",
      "qcm": {
-      "q": "Que commémore chaque année le Burkina Faso le 11 décembre ?",
+      "a": "B",
+      "e": "Le 11 décembre rappelle la proclamation de la République de Haute-Volta le 11 décembre 1958 ; l’indépendance date du 5 août 1960.",
       "o": [
        "L’indépendance (1960)",
        "La proclamation de la République (1958)",
        "L’insurrection populaire (2014)",
        "La création de la Confédération AES (2024)"
       ],
-      "a": "B",
-      "e": "Le 11 décembre rappelle la proclamation de la République de Haute-Volta le 11 décembre 1958 ; l’indépendance date du 5 août 1960."
-     }
+      "q": "Que commémore chaque année le Burkina Faso le 11 décembre ?"
+     },
+     "t": "Le Conseil des ministres du 19 novembre 2026 a annoncé que la fête du 11 décembre 2026 sera célébrée sur le thème « Révolution progressiste populaire au Burkina Faso : une consécration des résistances à la domination coloniale et à l’impérialisme », avec une grande parade militaire à Ouagadougou."
     },
     {
      "h": "Dissolution du Syndicat des pharmaciens",
-     "t": "Le 19 novembre 2026, le Conseil des ministres a adopté un décret portant dissolution du Syndicat des pharmaciens du Burkina Faso (SPBF), après une décision de la Commission de l’UEMOA du 27 février 2026 ; le gouvernement précise que cette dissolution ne touche pas l’exercice de la pharmacie.",
      "q": "Quelle organisation régionale avait sanctionné le Syndicat des pharmaciens du Burkina en février 2026 ? (l’UEMOA)",
      "qcm": {
-      "q": "La dissolution du Syndicat des pharmaciens du Burkina Faso, décidée le 19 novembre 2026, fait suite à une décision de quelle institution ?",
+      "a": "D",
+      "e": "La décision n°04/2026/COM/UEMOA du 27 février 2026 de la Commission de l’UEMOA avait sanctionné le syndicat.",
       "o": [
        "La CEDEAO",
        "L’Organisation mondiale de la santé",
        "La BCEAO",
        "La Commission de l’UEMOA"
       ],
-      "a": "D",
-      "e": "La décision n°04/2026/COM/UEMOA du 27 février 2026 de la Commission de l’UEMOA avait sanctionné le syndicat."
-     }
+      "q": "La dissolution du Syndicat des pharmaciens du Burkina Faso, décidée le 19 novembre 2026, fait suite à une décision de quelle institution ?"
+     },
+     "t": "Le 19 novembre 2026, le Conseil des ministres a adopté un décret portant dissolution du Syndicat des pharmaciens du Burkina Faso (SPBF), après une décision de la Commission de l’UEMOA du 27 février 2026 ; le gouvernement précise que cette dissolution ne touche pas l’exercice de la pharmacie."
     },
     {
      "h": "AES : quatre textes sur la fonction publique et le travail",
-     "t": "Réunis le 13 novembre 2026 à Ouagadougou, les ministres de la Fonction publique et du Travail de la Confédération AES ont adopté quatre textes, dont un Guide de bonnes pratiques en matière de fonction publique et un Accord sur la portabilité des prestations sociales dans l’espace AES (communiqué du Conseil des ministres malien du 18 novembre 2026).",
      "q": "Dans quelle ville les ministres AES de la Fonction publique ont-ils adopté leurs textes communs le 13 novembre 2026 ? (Ouagadougou)",
      "qcm": {
-      "q": "Parmi ces textes, lesquels ont été adoptés par les ministres de la Fonction publique et du Travail de l’AES le 13 novembre 2026 ?",
+      "a": "BC",
+      "e": "Les quatre textes adoptés sont le Guide de bonnes pratiques de fonction publique, deux guides sur les travailleurs migrants et l’Accord sur la portabilité des prestations sociales.",
       "o": [
        "Un statut général unique des fonctionnaires de l’AES",
        "Un Guide de bonnes pratiques en matière de fonction publique",
        "Un Accord sur la portabilité des prestations sociales",
        "Un concours commun de recrutement des trois États"
       ],
-      "a": "BC",
-      "e": "Les quatre textes adoptés sont le Guide de bonnes pratiques de fonction publique, deux guides sur les travailleurs migrants et l’Accord sur la portabilité des prestations sociales."
-     }
+      "q": "Parmi ces textes, lesquels ont été adoptés par les ministres de la Fonction publique et du Travail de l’AES le 13 novembre 2026 ?"
+     },
+     "t": "Réunis le 13 novembre 2026 à Ouagadougou, les ministres de la Fonction publique et du Travail de la Confédération AES ont adopté quatre textes, dont un Guide de bonnes pratiques en matière de fonction publique et un Accord sur la portabilité des prestations sociales dans l’espace AES (communiqué du Conseil des ministres malien du 18 novembre 2026)."
     },
     {
      "h": "Mali : création de la société SUGU S.A.",
-     "t": "Le 18 novembre 2026, le Conseil des ministres du Mali, présidé par le général d’armée Assimi Goïta, a adopté des projets de texte créant la société SUGU S.A., chargée notamment d’exporter les produits stratégiques de l’État, et relisant la loi de 1985 sur l’exercice privé des professions de santé.",
      "q": "Quel est le nom de la société créée par le Conseil des ministres malien du 18 novembre 2026 pour exporter les produits stratégiques de l’État ? (SUGU S.A.)",
      "qcm": {
-      "q": "Qui a présidé le Conseil des ministres du Mali du 18 novembre 2026 ?",
+      "a": "A",
+      "e": "Le général d’armée Assimi Goïta, président de la Transition, a présidé ce Conseil à Koulouba.",
       "o": [
        "Assimi Goïta",
        "Abdoulaye Maïga",
        "Sadio Camara",
        "Abdourahamane Tiani"
       ],
-      "a": "A",
-      "e": "Le général d’armée Assimi Goïta, président de la Transition, a présidé ce Conseil à Koulouba."
-     }
+      "q": "Qui a présidé le Conseil des ministres du Mali du 18 novembre 2026 ?"
+     },
+     "t": "Le 18 novembre 2026, le Conseil des ministres du Mali, présidé par le général d’armée Assimi Goïta, a adopté des projets de texte créant la société SUGU S.A., chargée notamment d’exporter les produits stratégiques de l’État, et relisant la loi de 1985 sur l’exercice privé des professions de santé."
     },
     {
      "h": "COP31 : dernier jour à Antalya",
-     "t": "La COP31 sur le climat, ouverte le 9 novembre 2026 à Antalya (Turquie), s’achève officiellement le 20 novembre 2026 ; le projet de décision finale présenté le 19 novembre ne mentionne plus explicitement les énergies fossiles. La conférence est présidée par le Turc Murat Kurum, l’Australien Chris Bowen présidant les négociations.",
      "q": "Quel pays accueille la COP31 en novembre 2026 ? (la Turquie, à Antalya)",
      "qcm": {
-      "q": "Dans quelle ville se tient la COP31 sur le climat, du 9 au 20 novembre 2026 ?",
+      "a": "D",
+      "e": "La COP31 se tient à Antalya, en Turquie ; Belém (Brésil) avait accueilli la COP30 et Bakou la COP29.",
       "o": [
        "Belém",
        "Adélaïde",
        "Bakou",
        "Antalya"
       ],
-      "a": "D",
-      "e": "La COP31 se tient à Antalya, en Turquie ; Belém (Brésil) avait accueilli la COP30 et Bakou la COP29."
-     }
+      "q": "Dans quelle ville se tient la COP31 sur le climat, du 9 au 20 novembre 2026 ?"
+     },
+     "t": "La COP31 sur le climat, ouverte le 9 novembre 2026 à Antalya (Turquie), s’achève officiellement le 20 novembre 2026 ; le projet de décision finale présenté le 19 novembre ne mentionne plus explicitement les énergies fossiles. La conférence est présidée par le Turc Murat Kurum, l’Australien Chris Bowen présidant les négociations."
     },
     {
      "h": "16e Biennale de Dakar",
-     "t": "La 16e Biennale de l’art africain contemporain de Dakar (Dak’Art) se tient du 19 novembre au 19 décembre 2026 sur le thème « (Anti)fragilité : arts de la réparation et stratégies du contrecoup », sous la direction artistique de Morad Montazami ; la RD Congo est le pays invité d’honneur.",
      "q": "Quel pays est l’invité d’honneur du Dak’Art 2026 ? (la République démocratique du Congo)",
      "qcm": {
-      "q": "La Biennale de l’art africain contemporain « Dak’Art », dont la 16e édition s’ouvre le 19 novembre 2026, se déroule dans quel pays ?",
+      "a": "C",
+      "e": "Le Dak’Art se tient à Dakar, au Sénégal ; la Biennale de la photographie, elle, a lieu à Bamako.",
       "o": [
        "Mali",
        "Côte d’Ivoire",
        "Sénégal",
        "Bénin"
       ],
-      "a": "C",
-      "e": "Le Dak’Art se tient à Dakar, au Sénégal ; la Biennale de la photographie, elle, a lieu à Bamako."
-     }
+      "q": "La Biennale de l’art africain contemporain « Dak’Art », dont la 16e édition s’ouvre le 19 novembre 2026, se déroule dans quel pays ?"
+     },
+     "t": "La 16e Biennale de l’art africain contemporain de Dakar (Dak’Art) se tient du 19 novembre au 19 décembre 2026 sur le thème « (Anti)fragilité : arts de la réparation et stratégies du contrecoup », sous la direction artistique de Morad Montazami ; la RD Congo est le pays invité d’honneur."
     },
     {
      "h": "Bénin : 35 objets réclamés à la France",
-     "t": "Le 19 novembre 2026, il a été rapporté que le Bénin demande à la France la restitution de 35 objets conservés au musée du quai Branly, dont une sculpture du dieu Gou. En novembre 2021, la France avait déjà rendu 26 trésors royaux d’Abomey.",
      "q": "Combien de trésors royaux d’Abomey la France a-t-elle restitués au Bénin en 2021 ? (26)",
      "qcm": {
-      "q": "Dans quel musée parisien sont conservés les 35 objets dont le Bénin demande la restitution en novembre 2026 ?",
+      "a": "A",
+      "e": "Les objets réclamés, dont une sculpture du dieu Gou, se trouvent au musée du quai Branly–Jacques Chirac.",
       "o": [
        "Le musée du quai Branly",
        "Le musée du Louvre",
        "Le musée d’Orsay",
        "Le Centre Pompidou"
       ],
-      "a": "A",
-      "e": "Les objets réclamés, dont une sculpture du dieu Gou, se trouvent au musée du quai Branly–Jacques Chirac."
-     }
+      "q": "Dans quel musée parisien sont conservés les 35 objets dont le Bénin demande la restitution en novembre 2026 ?"
+     },
+     "t": "Le 19 novembre 2026, il a été rapporté que le Bénin demande à la France la restitution de 35 objets conservés au musée du quai Branly, dont une sculpture du dieu Gou. En novembre 2021, la France avait déjà rendu 26 trésors royaux d’Abomey."
     },
     {
      "h": "20 novembre : enfance et industrialisation de l’Afrique",
-     "t": "Le 20 novembre 2026, on célèbre la Journée mondiale de l’enfance, date anniversaire de l’adoption par l’ONU de la Convention relative aux droits de l’enfant le 20 novembre 1989, ainsi que la Journée de l’industrialisation de l’Afrique.",
      "q": "En quelle année l’ONU a-t-elle adopté la Convention relative aux droits de l’enfant ? (1989)",
      "qcm": {
-      "q": "Quelles journées sont célébrées chaque année le 20 novembre ?",
+      "a": "AC",
+      "e": "Le 20 novembre est à la fois la Journée mondiale de l’enfance et la Journée de l’industrialisation de l’Afrique ; la tolérance est fêtée le 16 et la statistique africaine le 18 novembre.",
       "o": [
        "La Journée mondiale de l’enfance",
        "La Journée internationale de la tolérance",
        "La Journée de l’industrialisation de l’Afrique",
        "La Journée africaine de la statistique"
       ],
-      "a": "AC",
-      "e": "Le 20 novembre est à la fois la Journée mondiale de l’enfance et la Journée de l’industrialisation de l’Afrique ; la tolérance est fêtée le 16 et la statistique africaine le 18 novembre."
-     }
+      "q": "Quelles journées sont célébrées chaque année le 20 novembre ?"
+     },
+     "t": "Le 20 novembre 2026, on célèbre la Journée mondiale de l’enfance, date anniversaire de l’adoption par l’ONU de la Convention relative aux droits de l’enfant le 20 novembre 1989, ainsi que la Journée de l’industrialisation de l’Afrique."
     }
    ]
   },
