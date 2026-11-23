@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "days": [
+  {
+   "date": "2026-11-23",
+   "label": "23 novembre 2026",
+   "title": "Faso Wa-Fulu, fin du rapatriement et COP31 sans accord",
+   "items": [
+    {
+     "h": "Rapatriement de Guinée : opération terminée",
+     "t": "Par communiqué du 20 novembre 2026, le gouvernement a annoncé la fin de l’opération de rapatriement des orpailleurs refoulés de Guinée : 76 169 Burkinabè (dont 15 968 enfants) et 1 994 étrangers ont été enregistrés ; le dernier convoi est arrivé dans la nuit du 18 au 19 novembre.",
+     "q": "Combien de Burkinabè ont été rapatriés de Guinée à la fin de l’opération annoncée le 20 novembre 2026 ? (76 169)",
+     "qcm": {
+      "q": "Selon le communiqué du gouvernement du 20 novembre 2026, combien de Burkinabè ont été rapatriés de Guinée ?",
+      "o": [
+       "15 968",
+       "1 994",
+       "76 169",
+       "64 349"
+      ],
+      "a": "C",
+      "e": "76 169 Burkinabè ont été enregistrés, dont 15 968 enfants ; 1 994 étrangers ont aussi été accueillis."
+     }
+    },
+    {
+     "h": "Faso Wa-Fulu : le coordonnateur installé",
+     "t": "Le 20 novembre 2026 à Ouagadougou, le Dr Ardjouma Sombié a été installé coordonnateur national de l’Initiative présidentielle « Énergie pour tous » (Faso Wa-Fulu) par le Pr Hamidou Sawadogo, directeur exécutif du BN-GPB. L’initiative vise 6 700 localités électrifiées, un taux d’accès de 90 % et 1 965 MW supplémentaires, pour plus de 2 871 milliards F CFA sur dix ans.",
+     "q": "Quel est le nom de l’Initiative présidentielle « Énergie pour tous » ? (Faso Wa-Fulu)",
+     "qcm": {
+      "q": "Quels objectifs sont fixés à l’Initiative présidentielle « Énergie pour tous » (Faso Wa-Fulu) ?",
+      "o": [
+       "Électrifier 6 700 localités",
+       "Atteindre 100 % d’accès dès 2027",
+       "Porter le taux d’accès à l’électricité à 90 %",
+       "Installer 196 MW supplémentaires"
+      ],
+      "a": "AC",
+      "e": "L’initiative vise 6 700 localités, un taux d’accès de 90 % et 1 965 MW de puissance additionnelle."
+     }
+    },
+    {
+     "h": "Diabète : une marche à Ouagadougou",
+     "t": "Le samedi 21 novembre 2026, une marche de 5 km suivie d’un dépistage gratuit a été organisée à Ouagadougou pour commémorer en différé la Journée mondiale du diabète, célébrée chaque 14 novembre. Selon la Fédération internationale du diabète (FID), 589 millions de personnes vivent avec le diabète dans le monde.",
+     "q": "À quelle date est célébrée la Journée mondiale du diabète ? (Le 14 novembre)",
+     "qcm": {
+      "q": "À quelle date est célébrée chaque année la Journée mondiale du diabète ?",
+      "o": [
+       "1er décembre",
+       "14 novembre",
+       "7 avril",
+       "18 novembre"
+      ],
+      "a": "B",
+      "e": "La Journée mondiale du diabète a lieu le 14 novembre ; le 1er décembre est la Journée mondiale de lutte contre le sida et le 7 avril la Journée mondiale de la santé."
+     }
+    },
+    {
+     "h": "Niger : 52e Coupe nationale de football",
+     "t": "Le 20 novembre 2026, la Fédération nigérienne de football (FENIFOOT) a dévoilé le tableau des confrontations de la 52e Coupe nationale de football du Niger, qui réunit 36 clubs.",
+     "q": "Combien de clubs participent à la 52e Coupe nationale de football du Niger ? (36)",
+     "qcm": {
+      "q": "Combien de clubs sont retenus pour la 52e Coupe nationale de football du Niger ?",
+      "o": [
+       "20",
+       "24",
+       "52",
+       "36"
+      ],
+      "a": "D",
+      "e": "La FENIFOOT a dévoilé le 20 novembre 2026 le tableau des 36 clubs retenus pour cette 52e édition."
+     }
+    },
+    {
+     "h": "La COP31 s’achève sans accord",
+     "t": "Le 22 novembre 2026, après plus de 40 heures de prolongation, la COP31 d’Antalya (Turquie) s’est achevée sans déclaration finale : son président, le ministre turc Murat Kurum, a constaté que le texte n’était pas adopté face à l’opposition notamment de l’Union européenne et du Panama. La COP32 se tiendra en 2027 à Addis-Abeba (Éthiopie).",
+     "q": "Dans quelle ville se tiendra la COP32 en 2027 ? (Addis-Abeba, Éthiopie)",
+     "qcm": {
+      "q": "Où se tiendra la COP32 sur le climat en 2027 ?",
+      "o": [
+       "Addis-Abeba (Éthiopie)",
+       "Lagos (Nigeria)",
+       "Belém (Brésil)",
+       "Antalya (Turquie)"
+      ],
+      "a": "A",
+      "e": "Après Belém (COP30, 2025) et Antalya (COP31, 2026), la COP32 aura lieu à Addis-Abeba en 2027."
+     }
+    },
+    {
+     "h": "CIJ : le Myanmar condamné pour génocide",
+     "t": "Le 19 novembre 2026, la Cour internationale de justice (CIJ) a reconnu que le Myanmar avait commis un génocide contre les Rohingyas lors des opérations militaires de 2017. L’affaire avait été portée par la Gambie, qui a déposé sa requête le 11 novembre 2019.",
+     "q": "Quel pays africain a saisi la CIJ contre le Myanmar pour le génocide des Rohingyas ? (La Gambie)",
+     "qcm": {
+      "q": "Quel pays a porté devant la CIJ l’affaire du génocide des Rohingyas, tranchée le 19 novembre 2026 ?",
+      "o": [
+       "Le Bangladesh",
+       "Le Sénégal",
+       "La Gambie",
+       "L’Afrique du Sud"
+      ],
+      "a": "C",
+      "e": "La Gambie a saisi la CIJ le 11 novembre 2019, avec le soutien de l’Organisation de la coopération islamique."
+     }
+    },
+    {
+     "h": "CAF : soutien unanime à Infantino",
+     "t": "Le 21 novembre 2026 à Abuja (Nigeria), la 48e Assemblée générale ordinaire de la CAF a apporté le soutien unanime des 54 fédérations africaines à Gianni Infantino pour un nouveau mandat à la tête de la FIFA, face au Français Philippe Diallo. L’élection est prévue le 18 mars 2027 à Rabat (Maroc), lors du 77e Congrès de la FIFA.",
+     "q": "Dans quelle ville s’est tenue la 48e Assemblée générale de la CAF le 21 novembre 2026 ? (Abuja)",
+     "qcm": {
+      "q": "Où et quand doit avoir lieu l’élection du président de la FIFA ?",
+      "o": [
+       "Le 18 mars 2027 à Rabat",
+       "Le 21 novembre 2026 à Abuja",
+       "Le 18 mars 2027 à Zurich",
+       "Le 11 juin 2027 à Rabat"
+      ],
+      "a": "A",
+      "e": "Le congrès électif de la FIFA (77e Congrès) est prévu le 18 mars 2027 à Rabat, au Maroc."
+     }
+    },
+    {
+     "h": "Voyager 1 à un jour-lumière",
+     "t": "Le 18 novembre 2026, la sonde Voyager 1 de la NASA, lancée le 5 septembre 1977, est devenue le premier objet humain situé à un jour-lumière de la Terre, soit environ 25,9 milliards de km.",
+     "q": "Quel engin est devenu le 18 novembre 2026 le premier objet humain à un jour-lumière de la Terre ? (Voyager 1)",
+     "qcm": {
+      "q": "Quelles affirmations sur la sonde Voyager 1 sont exactes ?",
+      "o": [
+       "Elle a été lancée par l’ESA",
+       "Elle a été lancée en 1977",
+       "Elle est à environ 25,9 milliards de km de la Terre",
+       "Elle a atteint une année-lumière de la Terre"
+      ],
+      "a": "BC",
+      "e": "Voyager 1, sonde de la NASA lancée le 5 septembre 1977, a atteint un jour-lumière (environ 25,9 milliards de km) le 18 novembre 2026."
+     }
+    },
+    {
+     "h": "G20 : sommet de Miami en décembre",
+     "t": "Le 21e sommet du G20 est prévu les 14 et 15 décembre 2026 à Doral, près de Miami (États-Unis), sous la présidence de Donald Trump ; l’Afrique du Sud, qui a présidé le G20 en 2025, n’y est pas invitée.",
+     "q": "Quel pays accueille le 21e sommet du G20 en décembre 2026 ? (Les États-Unis, à Miami)",
+     "qcm": {
+      "q": "Quel pays membre du G20 n’est pas invité au sommet de Miami de décembre 2026 ?",
+      "o": [
+       "Le Nigeria",
+       "L’Égypte",
+       "Le Maroc",
+       "L’Afrique du Sud"
+      ],
+      "a": "D",
+      "e": "L’Afrique du Sud, seul pays africain membre du G20 à part entière, a été exclue par le président Trump ; l’Union africaine est aussi membre du G20."
+     }
+    }
+   ]
+  },
   {
    "date": "2026-11-22",
    "label": "dimanche 22 novembre 2026",
@@ -8,147 +159,147 @@
    "items": [
     {
      "h": "Ligue de la souveraineté : les logos des 20 équipes dévoilés",
-     "t": "Le 20 novembre 2026 à Ouagadougou, les identités visuelles des 20 équipes de la Ligue de la souveraineté, réparties en deux poules de dix, ont été présentées sous la présidence de la ministre des Sports. Ce championnat national de football des régions a été créé par le Conseil des ministres du 8 octobre 2026, dans le cadre de l’Initiative présidentielle pour la relève et la promotion de l’élite sportive (IPRE).",
      "q": "Combien d’équipes compte la Ligue de la souveraineté, dont les logos ont été dévoilés le 20 novembre 2026 ? (20 équipes)",
      "qcm": {
-      "q": "Combien d’équipes compte la Ligue de la souveraineté, championnat national de football des régions du Burkina Faso ?",
+      "a": "C",
+      "e": "Les 20 équipes sont réparties en deux poules de dix ; leurs logos ont été dévoilés le 20 novembre 2026 à Ouagadougou.",
       "o": [
        "12 équipes",
        "16 équipes",
        "20 équipes",
        "24 équipes"
       ],
-      "a": "C",
-      "e": "Les 20 équipes sont réparties en deux poules de dix ; leurs logos ont été dévoilés le 20 novembre 2026 à Ouagadougou."
-     }
+      "q": "Combien d’équipes compte la Ligue de la souveraineté, championnat national de football des régions du Burkina Faso ?"
+     },
+     "t": "Le 20 novembre 2026 à Ouagadougou, les identités visuelles des 20 équipes de la Ligue de la souveraineté, réparties en deux poules de dix, ont été présentées sous la présidence de la ministre des Sports. Ce championnat national de football des régions a été créé par le Conseil des ministres du 8 octobre 2026, dans le cadre de l’Initiative présidentielle pour la relève et la promotion de l’élite sportive (IPRE)."
     },
     {
      "h": "La Guinée interdit la diffusion de la RTB",
-     "t": "Le 19 novembre 2026, la Haute Autorité de la communication (HAC) de Guinée a interdit la diffusion de la Radiodiffusion Télévision du Burkina (RTB) sur tout le territoire guinéen, pour atteinte à l’image du président Mamadi Doumbouya, dans un contexte de tensions liées à l’expulsion d’orpailleurs burkinabè.",
      "q": "Quelle institution guinéenne a interdit la diffusion de la RTB le 19 novembre 2026 ? (la Haute Autorité de la communication, HAC)",
      "qcm": {
-      "q": "Quelle institution guinéenne a interdit, le 19 novembre 2026, la diffusion de la télévision publique burkinabè (RTB) en Guinée ?",
+      "a": "B",
+      "e": "C’est la HAC, régulateur guinéen des médias, qui a prononcé l’interdiction le 19 novembre 2026.",
       "o": [
        "Le Conseil national de la transition",
        "La Haute Autorité de la communication (HAC)",
        "La Cour suprême",
        "Le ministère des Affaires étrangères"
       ],
-      "a": "B",
-      "e": "C’est la HAC, régulateur guinéen des médias, qui a prononcé l’interdiction le 19 novembre 2026."
-     }
+      "q": "Quelle institution guinéenne a interdit, le 19 novembre 2026, la diffusion de la télévision publique burkinabè (RTB) en Guinée ?"
+     },
+     "t": "Le 19 novembre 2026, la Haute Autorité de la communication (HAC) de Guinée a interdit la diffusion de la Radiodiffusion Télévision du Burkina (RTB) sur tout le territoire guinéen, pour atteinte à l’image du président Mamadi Doumbouya, dans un contexte de tensions liées à l’expulsion d’orpailleurs burkinabè."
     },
     {
      "h": "8e Rentrée du droit d’auteur",
-     "t": "La 8e édition de la Rentrée du droit d’auteur se tient du 23 au 27 novembre 2026 au Burkina Faso. Au Burkina, la gestion collective du droit d’auteur est assurée par le Bureau burkinabè du droit d’auteur (BBDA).",
      "q": "Quelle édition de la Rentrée du droit d’auteur se tient du 23 au 27 novembre 2026 ? (la 8e)",
      "qcm": {
-      "q": "Au Burkina Faso, quel organisme est chargé de la gestion collective du droit d’auteur ?",
+      "a": "A",
+      "e": "Le BBDA gère le droit d’auteur ; la 8e Rentrée du droit d’auteur a lieu du 23 au 27 novembre 2026.",
       "o": [
        "Le BBDA (Bureau burkinabè du droit d’auteur)",
        "Le CSC (Conseil supérieur de la communication)",
        "L’ARCEP",
        "Le FESPACO"
       ],
-      "a": "A",
-      "e": "Le BBDA gère le droit d’auteur ; la 8e Rentrée du droit d’auteur a lieu du 23 au 27 novembre 2026."
-     }
+      "q": "Au Burkina Faso, quel organisme est chargé de la gestion collective du droit d’auteur ?"
+     },
+     "t": "La 8e édition de la Rentrée du droit d’auteur se tient du 23 au 27 novembre 2026 au Burkina Faso. Au Burkina, la gestion collective du droit d’auteur est assurée par le Bureau burkinabè du droit d’auteur (BBDA)."
     },
     {
      "h": "Mali : l’or a rapporté 2 750 milliards de F CFA en 2025",
-     "t": "Selon le ministre malien des Mines, les exportations d’or du Mali ont rapporté 2 750 milliards de F CFA en 2025, contre 1 610 milliards en 2024, malgré une production en recul ; ces chiffres ont été rapportés par la presse les 19 et 20 novembre 2026.",
      "q": "Combien les exportations d’or ont-elles rapporté au Mali en 2025 ? (2 750 milliards de F CFA)",
      "qcm": {
-      "q": "Selon le ministre des Mines, combien les exportations d’or ont-elles rapporté au Mali en 2025 ?",
+      "a": "D",
+      "e": "Elles ont rapporté 2 750 milliards de F CFA en 2025 ; 1 610 milliards est le chiffre de 2024.",
       "o": [
        "950 milliards de F CFA",
        "1 610 milliards de F CFA",
        "4 200 milliards de F CFA",
        "2 750 milliards de F CFA"
       ],
-      "a": "D",
-      "e": "Elles ont rapporté 2 750 milliards de F CFA en 2025 ; 1 610 milliards est le chiffre de 2024."
-     }
+      "q": "Selon le ministre des Mines, combien les exportations d’or ont-elles rapporté au Mali en 2025 ?"
+     },
+     "t": "Selon le ministre malien des Mines, les exportations d’or du Mali ont rapporté 2 750 milliards de F CFA en 2025, contre 1 610 milliards en 2024, malgré une production en recul ; ces chiffres ont été rapportés par la presse les 19 et 20 novembre 2026."
     },
     {
      "h": "Niger : la retraite à 62 ans au Conseil national du travail",
-     "t": "Le mercredi 18 novembre 2026, le Conseil national du travail du Niger a ouvert à Niamey sa première session ordinaire de l’année ; parmi les quatre points à l’ordre du jour figure le relèvement à 62 ans de l’âge de départ à la retraite des travailleurs des secteurs privé et parapublic.",
      "q": "À quel âge le Niger envisage-t-il de porter la retraite des travailleurs du privé et du parapublic ? (62 ans)",
      "qcm": {
-      "q": "Ouvert le 18 novembre 2026 à Niamey, le Conseil national du travail du Niger examine le relèvement de l’âge de la retraite du privé et du parapublic à :",
+      "a": "A",
+      "e": "Le relèvement à 62 ans fait partie des quatre points à l’ordre du jour de la session ouverte le 18 novembre 2026.",
       "o": [
        "62 ans",
        "60 ans",
        "65 ans",
        "58 ans"
       ],
-      "a": "A",
-      "e": "Le relèvement à 62 ans fait partie des quatre points à l’ordre du jour de la session ouverte le 18 novembre 2026."
-     }
+      "q": "Ouvert le 18 novembre 2026 à Niamey, le Conseil national du travail du Niger examine le relèvement de l’âge de la retraite du privé et du parapublic à :"
+     },
+     "t": "Le mercredi 18 novembre 2026, le Conseil national du travail du Niger a ouvert à Niamey sa première session ordinaire de l’année ; parmi les quatre points à l’ordre du jour figure le relèvement à 62 ans de l’âge de départ à la retraite des travailleurs des secteurs privé et parapublic."
     },
     {
      "h": "COP31 : deuxième jour de prolongation",
-     "t": "Ouverte le 9 novembre 2026 à Antalya (Turquie) et prévue jusqu’au 20 novembre, la COP31 est entrée le 22 novembre dans sa deuxième journée de prolongation. Présidée par le Turc Murat Kurum, avec l’Australien Chris Bowen comme président des négociations, elle bute sur la sortie des énergies fossiles et le financement de l’adaptation.",
      "q": "Qui préside la COP31 d’Antalya ? (le ministre turc de l’Environnement Murat Kurum)",
      "qcm": {
-      "q": "Parmi ces affirmations sur la COP31, lesquelles sont exactes ?",
+      "a": "AB",
+      "e": "La COP31 se tient à Antalya sous la présidence de Murat Kurum ; elle devait finir le 20 novembre, et la COP30 a eu lieu à Belém (Brésil).",
       "o": [
        "Elle se tient à Antalya, en Turquie",
        "Elle est présidée par Murat Kurum",
        "Elle devait s’achever le 30 novembre 2026",
        "La COP30 s’était tenue à Dubaï"
       ],
-      "a": "AB",
-      "e": "La COP31 se tient à Antalya sous la présidence de Murat Kurum ; elle devait finir le 20 novembre, et la COP30 a eu lieu à Belém (Brésil)."
-     }
+      "q": "Parmi ces affirmations sur la COP31, lesquelles sont exactes ?"
+     },
+     "t": "Ouverte le 9 novembre 2026 à Antalya (Turquie) et prévue jusqu’au 20 novembre, la COP31 est entrée le 22 novembre dans sa deuxième journée de prolongation. Présidée par le Turc Murat Kurum, avec l’Australien Chris Bowen comme président des négociations, elle bute sur la sortie des énergies fossiles et le financement de l’adaptation."
     },
     {
      "h": "Monnaie ECO : la CEDEAO se réunit à Abidjan",
-     "t": "Les 20 et 21 novembre 2026, Abidjan (Côte d’Ivoire) a accueilli une réunion ministérielle puis la 6e réunion de la Task Force présidentielle de la CEDEAO sur la monnaie unique ECO. Les travaux, ouverts le 20 novembre par le ministre ivoirien de l’Économie Adama Coulibaly, préparent un lancement progressif de l’ECO à partir de 2027.",
      "q": "Dans quelle ville s’est tenue la 6e réunion de la Task Force présidentielle sur l’ECO en novembre 2026 ? (Abidjan)",
      "qcm": {
-      "q": "La future monnaie unique de la CEDEAO, dont le lancement progressif est prévu à partir de 2027, s’appelle :",
+      "a": "C",
+      "e": "La Task Force présidentielle de la CEDEAO s’est réunie à Abidjan les 20 et 21 novembre 2026 pour préparer l’ECO.",
       "o": [
        "L’Afro",
        "Le Sahel",
        "L’ECO",
        "Le dinar ouest-africain"
       ],
-      "a": "C",
-      "e": "La Task Force présidentielle de la CEDEAO s’est réunie à Abidjan les 20 et 21 novembre 2026 pour préparer l’ECO."
-     }
+      "q": "La future monnaie unique de la CEDEAO, dont le lancement progressif est prévu à partir de 2027, s’appelle :"
+     },
+     "t": "Les 20 et 21 novembre 2026, Abidjan (Côte d’Ivoire) a accueilli une réunion ministérielle puis la 6e réunion de la Task Force présidentielle de la CEDEAO sur la monnaie unique ECO. Les travaux, ouverts le 20 novembre par le ministre ivoirien de l’Économie Adama Coulibaly, préparent un lancement progressif de l’ECO à partir de 2027."
     },
     {
      "h": "23e Festival international du film de Marrakech",
-     "t": "La 23e édition du Festival international du film de Marrakech (Maroc) se tient du 20 au 28 novembre 2026 ; son jury, présidé par l’actrice française Marion Cotillard, remettra l’Étoile d’or lors de la clôture, le 28 novembre.",
      "q": "Qui préside le jury du 23e Festival international du film de Marrakech ? (Marion Cotillard)",
      "qcm": {
-      "q": "Quel est le trophée principal du Festival international du film de Marrakech ?",
+      "a": "D",
+      "e": "Marrakech décerne l’Étoile d’or ; l’Étalon de Yennenga est au FESPACO, le Lion d’or à Venise et la Palme d’or à Cannes.",
       "o": [
        "L’Étalon d’or de Yennenga",
        "Le Lion d’or",
        "La Palme d’or",
        "L’Étoile d’or"
       ],
-      "a": "D",
-      "e": "Marrakech décerne l’Étoile d’or ; l’Étalon de Yennenga est au FESPACO, le Lion d’or à Venise et la Palme d’or à Cannes."
-     }
+      "q": "Quel est le trophée principal du Festival international du film de Marrakech ?"
+     },
+     "t": "La 23e édition du Festival international du film de Marrakech (Maroc) se tient du 20 au 28 novembre 2026 ; son jury, présidé par l’actrice française Marion Cotillard, remettra l’Étoile d’or lors de la clôture, le 28 novembre."
     },
     {
      "h": "Corée du Sud : le ministre de l’Éducation démissionne",
-     "t": "Le 22 novembre 2026, le ministre sud-coréen de l’Éducation, Choi Kyo-jin, a démissionné sur fond de scandale de triche à l’aide de l’intelligence artificielle autour de l’examen national d’entrée à l’université (CSAT, ou Suneung), passé le 19 novembre par quelque 550 000 candidats.",
      "q": "Dans quel pays le ministre de l’Éducation a-t-il démissionné le 22 novembre 2026 après un scandale de triche par IA ? (la Corée du Sud)",
      "qcm": {
-      "q": "Dans quel pays le ministre de l’Éducation a-t-il démissionné le 22 novembre 2026 sur fond de triche par intelligence artificielle à l’examen d’entrée à l’université ?",
+      "a": "B",
+      "e": "Il s’agit de Choi Kyo-jin, ministre sud-coréen de l’Éducation, après l’examen CSAT (Suneung) du 19 novembre 2026.",
       "o": [
        "Le Japon",
        "La Corée du Sud",
        "La Chine",
        "L’Inde"
       ],
-      "a": "B",
-      "e": "Il s’agit de Choi Kyo-jin, ministre sud-coréen de l’Éducation, après l’examen CSAT (Suneung) du 19 novembre 2026."
-     }
+      "q": "Dans quel pays le ministre de l’Éducation a-t-il démissionné le 22 novembre 2026 sur fond de triche par intelligence artificielle à l’examen d’entrée à l’université ?"
+     },
+     "t": "Le 22 novembre 2026, le ministre sud-coréen de l’Éducation, Choi Kyo-jin, a démissionné sur fond de scandale de triche à l’aide de l’intelligence artificielle autour de l’examen national d’entrée à l’université (CSAT, ou Suneung), passé le 19 novembre par quelque 550 000 candidats."
     }
    ]
   },
