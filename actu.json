@@ -1,6 +1,157 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "days": [
+  {
+   "date": "2026-11-24",
+   "label": "24 novembre 2026",
+   "title": "Académie technologique du Faso, rebond du PIB et retour de Jensen Huang",
+   "items": [
+    {
+     "h": "Inauguration de l’Académie technologique du Faso",
+     "t": "Le lundi 23 novembre 2026, le président du Faso, le capitaine Ibrahim Traoré, a inauguré à Pabré l’Académie technologique du Faso (ATF), destinée à former des ingénieurs et chercheurs (numérique, énergies, mines, nucléaire, aéronautique…). Bâtie sur fonds propres par le BN-GPB pour plus de 37 milliards de FCFA, elle a pour devise « Génie – Audace – Discipline ».",
+     "q": "Quelle est la devise de l’Académie technologique du Faso inaugurée le 23 novembre 2026 ? (Génie – Audace – Discipline)",
+     "qcm": {
+      "q": "Quelle est la devise de l’Académie technologique du Faso (ATF), inaugurée à Pabré le 23 novembre 2026 ?",
+      "o": [
+       "Unité – Progrès – Justice",
+       "Savoir – Rigueur – Patrie",
+       "Génie – Audace – Discipline",
+       "La Patrie ou la mort, nous vaincrons"
+      ],
+      "a": "C",
+      "e": "La devise de l’ATF est « Génie – Audace – Discipline » ; « Unité – Progrès – Justice » est la devise du Burkina Faso."
+     }
+    },
+    {
+     "h": "PIB : rebond de 1,6 % au 2e trimestre",
+     "t": "Selon les comptes nationaux trimestriels de l’INSD, rapportés le 23 novembre 2026, le PIB réel du Burkina a progressé de 1,6 % au deuxième trimestre 2026, après une contraction de 1,4 % au premier trimestre ; sur un an (par rapport au 2e trimestre 2025), la hausse atteint 7,7 %.",
+     "q": "De combien le PIB réel du Burkina a-t-il progressé au 2e trimestre 2026 par rapport au trimestre précédent, selon l’INSD ? (1,6 %)",
+     "qcm": {
+      "q": "Selon l’INSD, de combien le PIB réel du Burkina Faso a-t-il progressé au 2e trimestre 2026 par rapport au 1er trimestre ?",
+      "o": [
+       "1,6 %",
+       "7,7 %",
+       "1,4 %",
+       "8,6 %"
+      ],
+      "a": "A",
+      "e": "Le PIB a progressé de 1,6 % au 2e trimestre 2026 après un recul de 1,4 % au 1er ; 7,7 % est la hausse sur un an."
+     }
+    },
+    {
+     "h": "23e RGSP à Bobo-Dioulasso",
+     "t": "Annoncées le 23 novembre 2026 à Ouagadougou, la 23e Rencontre nationale Gouvernement/Secteur privé (RGSP) et la 7e Semaine de l’industrie burkinabè (SIB) se tiendront les 30 novembre et 1er décembre 2026 à Bobo-Dioulasso. Thème de la RGSP : « Civisme économique et engagement patriotique : rôle du secteur privé dans le processus de refondation de l’État ».",
+     "q": "Dans quelle ville se tient la 23e Rencontre Gouvernement/Secteur privé les 30 novembre et 1er décembre 2026 ? (Bobo-Dioulasso)",
+     "qcm": {
+      "q": "Quelle est l’édition de la Rencontre Gouvernement/Secteur privé (RGSP) prévue les 30 novembre et 1er décembre 2026 à Bobo-Dioulasso ?",
+      "o": [
+       "La 7e",
+       "La 18e",
+       "La 20e",
+       "La 23e"
+      ],
+      "a": "D",
+      "e": "Il s’agit de la 23e RGSP ; la 7e édition est celle de la Semaine de l’industrie burkinabè, couplée à la rencontre."
+     }
+    },
+    {
+     "h": "1er Forum des ambassadeurs à la retraite de l’AES",
+     "t": "Le 1er Forum des ambassadeurs à la retraite de la Confédération des États du Sahel s’est achevé le vendredi 20 novembre 2026 à Ouagadougou, sous la présidence du ministre des Affaires étrangères Karamoko Jean Marie Traoré. Ses recommandations (libre circulation, marché confédéral, harmonisation des curricula des instituts de diplomatie) seront transmises au Collège des chefs d’État de l’AES.",
+     "q": "Quel ministre a clôturé le 1er Forum des ambassadeurs à la retraite de l’AES le 20 novembre 2026 ? (Karamoko Jean Marie Traoré, ministre des Affaires étrangères)",
+     "qcm": {
+      "q": "À quelle instance seront transmises les recommandations du 1er Forum des ambassadeurs à la retraite de l’AES, clos le 20 novembre 2026 à Ouagadougou ?",
+      "o": [
+       "À la Commission de la CEDEAO",
+       "Au Collège des chefs d’État de l’AES",
+       "À l’Assemblée générale de l’ONU",
+       "Au Conseil de paix et de sécurité de l’UA"
+      ],
+      "a": "B",
+      "e": "Le ministre Karamoko Jean Marie Traoré a indiqué que les recommandations seront transmises au Collège des chefs d’État de la Confédération AES."
+     }
+    },
+    {
+     "h": "Tour motard du Burkina 2026",
+     "t": "La 2e édition du Tour motard du Burkina (TMB) s’est achevée le samedi 21 novembre 2026 à Ouagadougou : plus de 300 motards de 11 délégations ont parcouru plus de 1 800 km à travers huit régions en huit jours.",
+     "q": "Combien de kilomètres ont parcouru les motards de la 2e édition du Tour motard du Burkina, achevée le 21 novembre 2026 ? (plus de 1 800 km)",
+     "qcm": {
+      "q": "Parmi ces affirmations sur le Tour motard du Burkina 2026, lesquelles sont exactes ?",
+      "o": [
+       "Il en était à sa 2e édition",
+       "Il a traversé 13 régions",
+       "Il a réuni plus de 300 motards",
+       "Il s’est achevé à Bobo-Dioulasso"
+      ],
+      "a": "AC",
+      "e": "La 2e édition a réuni plus de 300 motards sur plus de 1 800 km à travers huit régions, avec arrivée à Ouagadougou le 21 novembre 2026."
+     }
+    },
+    {
+     "h": "Gaz : accord Côte d’Ivoire – Bénin – Togo",
+     "t": "En marge du SIREXE 2026 à Abidjan, la Côte d’Ivoire, le Bénin et le Togo ont signé un protocole d’accord de coopération gazière (rapporté le 19 novembre 2026) pour étudier un approvisionnement commun en gaz naturel liquéfié (GNL) et des échanges transfrontaliers ; la Banque mondiale y a consacré un premier programme de 150 millions de dollars.",
+     "q": "Quels pays ont signé un protocole de coopération gazière en marge du SIREXE 2026 avec l’appui de la Banque mondiale ? (Côte d’Ivoire, Bénin et Togo)",
+     "qcm": {
+      "q": "Quels pays ont signé en novembre 2026 un protocole d’accord de coopération gazière soutenu par la Banque mondiale ?",
+      "o": [
+       "Ghana, Togo et Bénin",
+       "Côte d’Ivoire, Bénin et Togo",
+       "Sénégal, Mauritanie et Côte d’Ivoire",
+       "Nigeria, Bénin et Togo"
+      ],
+      "a": "B",
+      "e": "Le protocole lie la Côte d’Ivoire, le Bénin et le Togo, avec un premier programme de 150 millions de dollars de la Banque mondiale."
+     }
+    },
+    {
+     "h": "Nvidia : Jensen Huang réintégré",
+     "t": "Le 23 novembre 2026, le conseil d’administration de Nvidia a réintégré à l’unanimité, avec effet immédiat, son cofondateur Jensen Huang comme président-directeur général, onze jours après sa démission ; Colette Kress, qui assurait l’intérim, reste directrice financière.",
+     "q": "Qui a été réintégré à la tête de Nvidia le 23 novembre 2026 ? (Jensen Huang)",
+     "qcm": {
+      "q": "Qui le conseil d’administration de Nvidia a-t-il réintégré comme PDG le 23 novembre 2026 ?",
+      "o": [
+       "Colette Kress",
+       "Harvey C. Jones",
+       "Lisa Su",
+       "Jensen Huang"
+      ],
+      "a": "D",
+      "e": "Jensen Huang, cofondateur de Nvidia en 1993, a été réintégré ; Colette Kress était PDG par intérim et Harvey C. Jones préside le conseil."
+     }
+    },
+    {
+     "h": "F1 : Verstappen gagne à Las Vegas",
+     "t": "Le samedi 21 novembre 2026, le Néerlandais Max Verstappen (Red Bull Racing) a remporté le Grand Prix de Las Vegas de Formule 1, devant les pilotes McLaren Lando Norris et Oscar Piastri ; c’est sa troisième victoire à Las Vegas en quatre ans.",
+     "q": "Quel pilote a remporté le Grand Prix de F1 de Las Vegas le 21 novembre 2026 ? (Max Verstappen)",
+     "qcm": {
+      "q": "Pour quelle écurie court Max Verstappen, vainqueur du Grand Prix de Las Vegas le 21 novembre 2026 ?",
+      "o": [
+       "Red Bull Racing",
+       "McLaren",
+       "Mercedes",
+       "Ferrari"
+      ],
+      "a": "A",
+      "e": "Verstappen pilote pour Red Bull Racing ; Norris et Piastri, 2e et 3e, courent pour McLaren."
+     }
+    },
+    {
+     "h": "ONU : solidarité avec le peuple palestinien",
+     "t": "Le 23 novembre 2026, lors d’une réunion spéciale à New York pour la Journée internationale de solidarité avec le peuple palestinien (célébrée chaque 29 novembre), le Secrétaire général António Guterres, dans un discours lu par sa vice-secrétaire générale Amina Mohammed, a dénoncé un « prétendu cessez-le-feu » à Gaza et réclamé l’application de la résolution 2803 du Conseil de sécurité.",
+     "q": "À quelle date est célébrée chaque année la Journée internationale de solidarité avec le peuple palestinien ? (29 novembre)",
+     "qcm": {
+      "q": "À quelle date l’ONU célèbre-t-elle chaque année la Journée internationale de solidarité avec le peuple palestinien ?",
+      "o": [
+       "16 novembre",
+       "20 novembre",
+       "29 novembre",
+       "10 décembre"
+      ],
+      "a": "C",
+      "e": "Elle a lieu le 29 novembre ; le 16 novembre est la Journée de la tolérance, le 20 celle de l’enfance et le 10 décembre celle des droits de l’homme."
+     }
+    }
+   ]
+  },
   {
    "date": "2026-11-23",
    "label": "23 novembre 2026",
@@ -8,147 +159,147 @@
    "items": [
     {
      "h": "Rapatriement de Guinée : opération terminée",
-     "t": "Par communiqué du 20 novembre 2026, le gouvernement a annoncé la fin de l’opération de rapatriement des orpailleurs refoulés de Guinée : 76 169 Burkinabè (dont 15 968 enfants) et 1 994 étrangers ont été enregistrés ; le dernier convoi est arrivé dans la nuit du 18 au 19 novembre.",
      "q": "Combien de Burkinabè ont été rapatriés de Guinée à la fin de l’opération annoncée le 20 novembre 2026 ? (76 169)",
      "qcm": {
-      "q": "Selon le communiqué du gouvernement du 20 novembre 2026, combien de Burkinabè ont été rapatriés de Guinée ?",
+      "a": "C",
+      "e": "76 169 Burkinabè ont été enregistrés, dont 15 968 enfants ; 1 994 étrangers ont aussi été accueillis.",
       "o": [
        "15 968",
        "1 994",
        "76 169",
        "64 349"
       ],
-      "a": "C",
-      "e": "76 169 Burkinabè ont été enregistrés, dont 15 968 enfants ; 1 994 étrangers ont aussi été accueillis."
-     }
+      "q": "Selon le communiqué du gouvernement du 20 novembre 2026, combien de Burkinabè ont été rapatriés de Guinée ?"
+     },
+     "t": "Par communiqué du 20 novembre 2026, le gouvernement a annoncé la fin de l’opération de rapatriement des orpailleurs refoulés de Guinée : 76 169 Burkinabè (dont 15 968 enfants) et 1 994 étrangers ont été enregistrés ; le dernier convoi est arrivé dans la nuit du 18 au 19 novembre."
     },
     {
      "h": "Faso Wa-Fulu : le coordonnateur installé",
-     "t": "Le 20 novembre 2026 à Ouagadougou, le Dr Ardjouma Sombié a été installé coordonnateur national de l’Initiative présidentielle « Énergie pour tous » (Faso Wa-Fulu) par le Pr Hamidou Sawadogo, directeur exécutif du BN-GPB. L’initiative vise 6 700 localités électrifiées, un taux d’accès de 90 % et 1 965 MW supplémentaires, pour plus de 2 871 milliards F CFA sur dix ans.",
      "q": "Quel est le nom de l’Initiative présidentielle « Énergie pour tous » ? (Faso Wa-Fulu)",
      "qcm": {
-      "q": "Quels objectifs sont fixés à l’Initiative présidentielle « Énergie pour tous » (Faso Wa-Fulu) ?",
+      "a": "AC",
+      "e": "L’initiative vise 6 700 localités, un taux d’accès de 90 % et 1 965 MW de puissance additionnelle.",
       "o": [
        "Électrifier 6 700 localités",
        "Atteindre 100 % d’accès dès 2027",
        "Porter le taux d’accès à l’électricité à 90 %",
        "Installer 196 MW supplémentaires"
       ],
-      "a": "AC",
-      "e": "L’initiative vise 6 700 localités, un taux d’accès de 90 % et 1 965 MW de puissance additionnelle."
-     }
+      "q": "Quels objectifs sont fixés à l’Initiative présidentielle « Énergie pour tous » (Faso Wa-Fulu) ?"
+     },
+     "t": "Le 20 novembre 2026 à Ouagadougou, le Dr Ardjouma Sombié a été installé coordonnateur national de l’Initiative présidentielle « Énergie pour tous » (Faso Wa-Fulu) par le Pr Hamidou Sawadogo, directeur exécutif du BN-GPB. L’initiative vise 6 700 localités électrifiées, un taux d’accès de 90 % et 1 965 MW supplémentaires, pour plus de 2 871 milliards F CFA sur dix ans."
     },
     {
      "h": "Diabète : une marche à Ouagadougou",
-     "t": "Le samedi 21 novembre 2026, une marche de 5 km suivie d’un dépistage gratuit a été organisée à Ouagadougou pour commémorer en différé la Journée mondiale du diabète, célébrée chaque 14 novembre. Selon la Fédération internationale du diabète (FID), 589 millions de personnes vivent avec le diabète dans le monde.",
      "q": "À quelle date est célébrée la Journée mondiale du diabète ? (Le 14 novembre)",
      "qcm": {
-      "q": "À quelle date est célébrée chaque année la Journée mondiale du diabète ?",
+      "a": "B",
+      "e": "La Journée mondiale du diabète a lieu le 14 novembre ; le 1er décembre est la Journée mondiale de lutte contre le sida et le 7 avril la Journée mondiale de la santé.",
       "o": [
        "1er décembre",
        "14 novembre",
        "7 avril",
        "18 novembre"
       ],
-      "a": "B",
-      "e": "La Journée mondiale du diabète a lieu le 14 novembre ; le 1er décembre est la Journée mondiale de lutte contre le sida et le 7 avril la Journée mondiale de la santé."
-     }
+      "q": "À quelle date est célébrée chaque année la Journée mondiale du diabète ?"
+     },
+     "t": "Le samedi 21 novembre 2026, une marche de 5 km suivie d’un dépistage gratuit a été organisée à Ouagadougou pour commémorer en différé la Journée mondiale du diabète, célébrée chaque 14 novembre. Selon la Fédération internationale du diabète (FID), 589 millions de personnes vivent avec le diabète dans le monde."
     },
     {
      "h": "Niger : 52e Coupe nationale de football",
-     "t": "Le 20 novembre 2026, la Fédération nigérienne de football (FENIFOOT) a dévoilé le tableau des confrontations de la 52e Coupe nationale de football du Niger, qui réunit 36 clubs.",
      "q": "Combien de clubs participent à la 52e Coupe nationale de football du Niger ? (36)",
      "qcm": {
-      "q": "Combien de clubs sont retenus pour la 52e Coupe nationale de football du Niger ?",
+      "a": "D",
+      "e": "La FENIFOOT a dévoilé le 20 novembre 2026 le tableau des 36 clubs retenus pour cette 52e édition.",
       "o": [
        "20",
        "24",
        "52",
        "36"
       ],
-      "a": "D",
-      "e": "La FENIFOOT a dévoilé le 20 novembre 2026 le tableau des 36 clubs retenus pour cette 52e édition."
-     }
+      "q": "Combien de clubs sont retenus pour la 52e Coupe nationale de football du Niger ?"
+     },
+     "t": "Le 20 novembre 2026, la Fédération nigérienne de football (FENIFOOT) a dévoilé le tableau des confrontations de la 52e Coupe nationale de football du Niger, qui réunit 36 clubs."
     },
     {
      "h": "La COP31 s’achève sans accord",
-     "t": "Le 22 novembre 2026, après plus de 40 heures de prolongation, la COP31 d’Antalya (Turquie) s’est achevée sans déclaration finale : son président, le ministre turc Murat Kurum, a constaté que le texte n’était pas adopté face à l’opposition notamment de l’Union européenne et du Panama. La COP32 se tiendra en 2027 à Addis-Abeba (Éthiopie).",
      "q": "Dans quelle ville se tiendra la COP32 en 2027 ? (Addis-Abeba, Éthiopie)",
      "qcm": {
-      "q": "Où se tiendra la COP32 sur le climat en 2027 ?",
+      "a": "A",
+      "e": "Après Belém (COP30, 2025) et Antalya (COP31, 2026), la COP32 aura lieu à Addis-Abeba en 2027.",
       "o": [
        "Addis-Abeba (Éthiopie)",
        "Lagos (Nigeria)",
        "Belém (Brésil)",
        "Antalya (Turquie)"
       ],
-      "a": "A",
-      "e": "Après Belém (COP30, 2025) et Antalya (COP31, 2026), la COP32 aura lieu à Addis-Abeba en 2027."
-     }
+      "q": "Où se tiendra la COP32 sur le climat en 2027 ?"
+     },
+     "t": "Le 22 novembre 2026, après plus de 40 heures de prolongation, la COP31 d’Antalya (Turquie) s’est achevée sans déclaration finale : son président, le ministre turc Murat Kurum, a constaté que le texte n’était pas adopté face à l’opposition notamment de l’Union européenne et du Panama. La COP32 se tiendra en 2027 à Addis-Abeba (Éthiopie)."
     },
     {
      "h": "CIJ : le Myanmar condamné pour génocide",
-     "t": "Le 19 novembre 2026, la Cour internationale de justice (CIJ) a reconnu que le Myanmar avait commis un génocide contre les Rohingyas lors des opérations militaires de 2017. L’affaire avait été portée par la Gambie, qui a déposé sa requête le 11 novembre 2019.",
      "q": "Quel pays africain a saisi la CIJ contre le Myanmar pour le génocide des Rohingyas ? (La Gambie)",
      "qcm": {
-      "q": "Quel pays a porté devant la CIJ l’affaire du génocide des Rohingyas, tranchée le 19 novembre 2026 ?",
+      "a": "C",
+      "e": "La Gambie a saisi la CIJ le 11 novembre 2019, avec le soutien de l’Organisation de la coopération islamique.",
       "o": [
        "Le Bangladesh",
        "Le Sénégal",
        "La Gambie",
        "L’Afrique du Sud"
       ],
-      "a": "C",
-      "e": "La Gambie a saisi la CIJ le 11 novembre 2019, avec le soutien de l’Organisation de la coopération islamique."
-     }
+      "q": "Quel pays a porté devant la CIJ l’affaire du génocide des Rohingyas, tranchée le 19 novembre 2026 ?"
+     },
+     "t": "Le 19 novembre 2026, la Cour internationale de justice (CIJ) a reconnu que le Myanmar avait commis un génocide contre les Rohingyas lors des opérations militaires de 2017. L’affaire avait été portée par la Gambie, qui a déposé sa requête le 11 novembre 2019."
     },
     {
      "h": "CAF : soutien unanime à Infantino",
-     "t": "Le 21 novembre 2026 à Abuja (Nigeria), la 48e Assemblée générale ordinaire de la CAF a apporté le soutien unanime des 54 fédérations africaines à Gianni Infantino pour un nouveau mandat à la tête de la FIFA, face au Français Philippe Diallo. L’élection est prévue le 18 mars 2027 à Rabat (Maroc), lors du 77e Congrès de la FIFA.",
      "q": "Dans quelle ville s’est tenue la 48e Assemblée générale de la CAF le 21 novembre 2026 ? (Abuja)",
      "qcm": {
-      "q": "Où et quand doit avoir lieu l’élection du président de la FIFA ?",
+      "a": "A",
+      "e": "Le congrès électif de la FIFA (77e Congrès) est prévu le 18 mars 2027 à Rabat, au Maroc.",
       "o": [
        "Le 18 mars 2027 à Rabat",
        "Le 21 novembre 2026 à Abuja",
        "Le 18 mars 2027 à Zurich",
        "Le 11 juin 2027 à Rabat"
       ],
-      "a": "A",
-      "e": "Le congrès électif de la FIFA (77e Congrès) est prévu le 18 mars 2027 à Rabat, au Maroc."
-     }
+      "q": "Où et quand doit avoir lieu l’élection du président de la FIFA ?"
+     },
+     "t": "Le 21 novembre 2026 à Abuja (Nigeria), la 48e Assemblée générale ordinaire de la CAF a apporté le soutien unanime des 54 fédérations africaines à Gianni Infantino pour un nouveau mandat à la tête de la FIFA, face au Français Philippe Diallo. L’élection est prévue le 18 mars 2027 à Rabat (Maroc), lors du 77e Congrès de la FIFA."
     },
     {
      "h": "Voyager 1 à un jour-lumière",
-     "t": "Le 18 novembre 2026, la sonde Voyager 1 de la NASA, lancée le 5 septembre 1977, est devenue le premier objet humain situé à un jour-lumière de la Terre, soit environ 25,9 milliards de km.",
      "q": "Quel engin est devenu le 18 novembre 2026 le premier objet humain à un jour-lumière de la Terre ? (Voyager 1)",
      "qcm": {
-      "q": "Quelles affirmations sur la sonde Voyager 1 sont exactes ?",
+      "a": "BC",
+      "e": "Voyager 1, sonde de la NASA lancée le 5 septembre 1977, a atteint un jour-lumière (environ 25,9 milliards de km) le 18 novembre 2026.",
       "o": [
        "Elle a été lancée par l’ESA",
        "Elle a été lancée en 1977",
        "Elle est à environ 25,9 milliards de km de la Terre",
        "Elle a atteint une année-lumière de la Terre"
       ],
-      "a": "BC",
-      "e": "Voyager 1, sonde de la NASA lancée le 5 septembre 1977, a atteint un jour-lumière (environ 25,9 milliards de km) le 18 novembre 2026."
-     }
+      "q": "Quelles affirmations sur la sonde Voyager 1 sont exactes ?"
+     },
+     "t": "Le 18 novembre 2026, la sonde Voyager 1 de la NASA, lancée le 5 septembre 1977, est devenue le premier objet humain situé à un jour-lumière de la Terre, soit environ 25,9 milliards de km."
     },
     {
      "h": "G20 : sommet de Miami en décembre",
-     "t": "Le 21e sommet du G20 est prévu les 14 et 15 décembre 2026 à Doral, près de Miami (États-Unis), sous la présidence de Donald Trump ; l’Afrique du Sud, qui a présidé le G20 en 2025, n’y est pas invitée.",
      "q": "Quel pays accueille le 21e sommet du G20 en décembre 2026 ? (Les États-Unis, à Miami)",
      "qcm": {
-      "q": "Quel pays membre du G20 n’est pas invité au sommet de Miami de décembre 2026 ?",
+      "a": "D",
+      "e": "L’Afrique du Sud, seul pays africain membre du G20 à part entière, a été exclue par le président Trump ; l’Union africaine est aussi membre du G20.",
       "o": [
        "Le Nigeria",
        "L’Égypte",
        "Le Maroc",
        "L’Afrique du Sud"
       ],
-      "a": "D",
-      "e": "L’Afrique du Sud, seul pays africain membre du G20 à part entière, a été exclue par le président Trump ; l’Union africaine est aussi membre du G20."
-     }
+      "q": "Quel pays membre du G20 n’est pas invité au sommet de Miami de décembre 2026 ?"
+     },
+     "t": "Le 21e sommet du G20 est prévu les 14 et 15 décembre 2026 à Doral, près de Miami (États-Unis), sous la présidence de Donald Trump ; l’Afrique du Sud, qui a présidé le G20 en 2025, n’y est pas invitée."
     }
    ]
   },
