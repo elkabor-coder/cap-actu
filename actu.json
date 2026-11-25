@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "days": [
+  {
+   "date": "2026-11-25",
+   "label": "25 novembre 2026",
+   "title": "Semaine du numérique, parade du 11-Décembre et CAN rendue au Sénégal",
+   "items": [
+    {
+     "h": "21e Semaine du numérique",
+     "t": "Le mardi 24 novembre 2026, le Premier ministre Rimtalba Jean Emmanuel Ouédraogo a ouvert au SIAO, à Ouagadougou, la 21e Semaine du numérique, qui se tient du 24 au 27 novembre 2026 sur le thème « Souveraineté technologique : accélérer la transformation digitale sécurisée et inclusive ». Le ministre malien de l’Économie numérique, Alhamdou Ag Ilyène, y a pris la parole au nom des pays de l’AES.",
+     "q": "Quel est le thème de la 21e Semaine du numérique (24-27 novembre 2026) ? (« Souveraineté technologique : accélérer la transformation digitale sécurisée et inclusive »)",
+     "qcm": {
+      "q": "Qui a présidé, le 24 novembre 2026 au SIAO, l’ouverture de la 21e Semaine du numérique au Burkina Faso ?",
+      "o": [
+       "Le président du Faso, le capitaine Ibrahim Traoré",
+       "Le Premier ministre Rimtalba Jean Emmanuel Ouédraogo",
+       "Le ministre malien Alhamdou Ag Ilyène",
+       "Le directeur général de Moov Africa, Mohamed Karim"
+      ],
+      "a": "B",
+      "e": "La cérémonie d’ouverture a été présidée par le Premier ministre Rimtalba Jean Emmanuel Ouédraogo ; le ministre malien y parlait au nom de l’AES et Moov Africa est sponsor officiel."
+     }
+    },
+    {
+     "h": "11-Décembre : une giga-parade à Ouaga 2000",
+     "t": "Le lundi 23 novembre 2026, le Comité national d’organisation (CNO), présidé par le général de brigade Théophile Nikiéma, a présenté le programme du 11-Décembre 2026, de retour après cinq ans de suspension : une grande parade militaire et paramilitaire aura lieu le 11 décembre sur l’avenue Pascal-Zagré, à Ouaga 2000, avec des défilés dans les chefs-lieux de région et un nouveau logotype.",
+     "q": "Sur quelle avenue de Ouagadougou se tiendra la parade du 11 décembre 2026 ? (avenue Pascal-Zagré, à Ouaga 2000)",
+     "qcm": {
+      "q": "Qui préside le Comité national d’organisation (CNO) du 11-Décembre 2026 ?",
+      "o": [
+       "Le colonel Daba Naon",
+       "Le capitaine Ibrahim Traoré",
+       "Le Premier ministre Rimtalba Jean Emmanuel Ouédraogo",
+       "Le général de brigade Théophile Nikiéma"
+      ],
+      "a": "D",
+      "e": "Le CNO est présidé par le général de brigade Théophile Nikiéma ; le colonel Daba Naon en est le vice-président."
+     }
+    },
+    {
+     "h": "Identifiant unique : l’enrôlement lancé à l’Éducation de base",
+     "t": "Le lundi 23 novembre 2026 à Ouagadougou, le ministre de l’Enseignement de base, de l’Alphabétisation et de la Promotion des langues nationales, Jacques Sosthène Dingara, a lancé dans son département l’enrôlement à l’identifiant unique électronique, lancé officiellement douze jours plus tôt par le chef de l’État. Cet identifiant doit suivre l’élève du CP1 jusqu’à l’université et alimenter le fichier national des élèves.",
+     "q": "Jusqu’où l’identifiant unique doit-il suivre l’élève à partir du CP1 ? (jusqu’à l’université)",
+     "qcm": {
+      "q": "Concernant l’identifiant unique électronique de l’élève au Burkina, quelles affirmations sont exactes ?",
+      "o": [
+       "Il suit l’élève du CP1 jusqu’à l’université",
+       "Il est réservé aux élèves du secondaire",
+       "Il doit alimenter le fichier national des élèves",
+       "Il a été lancé au MEBAPLN le 11 décembre 2026"
+      ],
+      "a": "AC",
+      "e": "L’identifiant accompagne l’élève du CP1 à l’université et alimente le fichier national des élèves ; son lancement au MEBAPLN a eu lieu le 23 novembre 2026."
+     }
+    },
+    {
+     "h": "Clôture du 15e Symposium de Laongo",
+     "t": "Le lundi 23 novembre 2026, le Premier ministre Rimtalba Jean Emmanuel Ouédraogo a présidé à Laongo (région de l’Oubri) la clôture du 15e Symposium international de sculpture sur granite, après trois semaines de création ayant produit une vingtaine d’œuvres par des artistes de plusieurs nationalités.",
+     "q": "Sur quel matériau travaillent les artistes du Symposium international de Laongo ? (le granite)",
+     "qcm": {
+      "q": "Le Symposium international de Laongo, dont la 15e édition s’est achevée le 23 novembre 2026, est consacré à la sculpture sur…",
+      "o": [
+       "granite",
+       "bronze",
+       "bois",
+       "terre cuite"
+      ],
+      "a": "A",
+      "e": "Laongo accueille le Symposium international de sculpture sur granite ; le bronze est plutôt associé aux bronziers de Ouagadougou."
+     }
+    },
+    {
+     "h": "Tranche commune Entente 2026 à Niamey",
+     "t": "La 31e édition de la Tranche commune Entente, grand tirage régional des loteries nationales du Bénin, du Burkina Faso, de la Côte d’Ivoire, du Niger et du Togo, se déroule du 23 au 27 novembre 2026 à Niamey (Niger), avec un grand tirage prévu le 27 novembre 2026.",
+     "q": "Quelle ville accueille la 31e Tranche commune Entente en novembre 2026 ? (Niamey)",
+     "qcm": {
+      "q": "Lequel de ces pays ne participe PAS à la Tranche commune Entente 2026, qui réunit les loteries du Conseil de l’Entente ?",
+      "o": [
+       "Bénin",
+       "Togo",
+       "Mali",
+       "Côte d’Ivoire"
+      ],
+      "a": "C",
+      "e": "Le Conseil de l’Entente regroupe le Bénin, le Burkina Faso, la Côte d’Ivoire, le Niger et le Togo ; le Mali n’en est pas membre."
+     }
+    },
+    {
+     "h": "Mondial U17 : le Mali bat la Belgique",
+     "t": "Le lundi 23 novembre 2026 à Doha (Qatar), les Aiglonnets du Mali ont battu la Belgique 2-1 (buts de Djigui Koita et Yaya Niang) lors de la 2e journée de la Coupe du monde U17 ; après leur victoire 3-0 contre la Nouvelle-Zélande, ils sont le premier pays africain qualifié pour les seizièmes de finale.",
+     "q": "Quel pays africain a été le premier qualifié pour les seizièmes de finale du Mondial U17 Qatar 2026 ? (le Mali)",
+     "qcm": {
+      "q": "Quel est le surnom de l’équipe nationale U17 du Mali, victorieuse de la Belgique (2-1) le 23 novembre 2026 ?",
+      "o": [
+       "Les Étalons cadets",
+       "Les Lionceaux de l’Atlas",
+       "Les Mena cadets",
+       "Les Aiglonnets"
+      ],
+      "a": "D",
+      "e": "Les U17 du Mali sont les Aiglonnets ; les Étalons sont burkinabè, les Mena nigériens et les Lionceaux de l’Atlas marocains."
+     }
+    },
+    {
+     "h": "CAN 2025 : le TAS rend le titre au Sénégal",
+     "t": "Le mardi 24 novembre 2026, le Tribunal arbitral du sport (TAS) a annulé la décision de la CAF qui, en mars 2026, avait déclaré le Sénégal forfait et attribué au Maroc le titre de la CAN 2025 ; le Sénégal, vainqueur de la finale 1-0 après prolongation le 18 janvier 2026 à Rabat, redevient champion d’Afrique.",
+     "q": "Quelle juridiction a rendu au Sénégal le titre de la CAN 2025 le 24 novembre 2026 ? (le Tribunal arbitral du sport, TAS)",
+     "qcm": {
+      "q": "Le 24 novembre 2026, le Tribunal arbitral du sport a restitué le titre de la CAN 2025 à quel pays ?",
+      "o": [
+       "Maroc",
+       "Sénégal",
+       "Côte d’Ivoire",
+       "Nigeria"
+      ],
+      "a": "B",
+      "e": "Le TAS a annulé la décision de la CAF et rendu le titre au Sénégal, vainqueur 1-0 a.p. du Maroc en finale à Rabat."
+     }
+    },
+    {
+     "h": "Le Ghana champion du monde de football pour amputés",
+     "t": "Le dimanche 22 novembre 2026 au Mexique, les Black Challenge du Ghana ont remporté la Coupe du monde de football pour amputés de la WAFF en battant le Maroc 1-0 en finale, décrochant leur premier titre mondial.",
+     "q": "Quel pays a remporté la Coupe du monde de football pour amputés 2026 ? (le Ghana, 1-0 contre le Maroc)",
+     "qcm": {
+      "q": "Dans quel pays s’est disputée la Coupe du monde de football pour amputés 2026, remportée par le Ghana le 22 novembre ?",
+      "o": [
+       "Mexique",
+       "Maroc",
+       "Ghana",
+       "Turquie"
+      ],
+      "a": "A",
+      "e": "La Coupe du monde WAFF 2026 s’est jouée au Mexique ; le Ghana y a battu le Maroc 1-0 en finale."
+     }
+    },
+    {
+     "h": "RDC : nouvelle suspension des exportations de cobalt",
+     "t": "Le lundi 23 novembre 2026, l’Autorité de régulation et de contrôle des marchés des substances minérales stratégiques (ARECOMS) de la RDC a annoncé la suspension, à partir du 30 novembre 2026 et jusqu’à nouvel ordre, des exportations de cobalt, en raison d’un excédent d’offre mondial qui a fait chuter les prix d’environ 30 % en moins d’un an.",
+     "q": "À partir de quelle date la RDC suspend-elle ses exportations de cobalt ? (le 30 novembre 2026)",
+     "qcm": {
+      "q": "Quel minerai la RDC a-t-elle décidé, le 23 novembre 2026, de ne plus exporter à partir du 30 novembre ?",
+      "o": [
+       "Le coltan",
+       "L’or",
+       "Le cobalt",
+       "Le diamant"
+      ],
+      "a": "C",
+      "e": "L’ARECOMS a suspendu les exportations de cobalt pour soutenir les cours, en baisse depuis l’été 2026."
+     }
+    },
+    {
+     "h": "Mauritanie : la mine d’or de Ghabou inaugurée",
+     "t": "Le lundi 23 novembre 2026, le président mauritanien Mohamed Ould Cheikh El Ghazouani a inauguré le projet aurifère de Ghabou, développé par la société chinoise Shunda Mining pour un investissement initial de 230 millions de dollars.",
+     "q": "Quel président a inauguré la mine d’or de Ghabou le 23 novembre 2026 ? (Mohamed Ould Cheikh El Ghazouani, Mauritanie)",
+     "qcm": {
+      "q": "À propos du projet aurifère de Ghabou inauguré le 23 novembre 2026, quelles affirmations sont exactes ?",
+      "o": [
+       "Il se trouve au Sénégal",
+       "Il a été inauguré par Mohamed Ould Cheikh El Ghazouani",
+       "Il est développé par une société canadienne",
+       "Son investissement initial est de 230 millions de dollars"
+      ],
+      "a": "BD",
+      "e": "Ghabou est en Mauritanie ; le projet, développé par la société chinoise Shunda Mining (230 millions de dollars), a été inauguré par le président Ghazouani."
+     }
+    }
+   ]
+  },
   {
    "date": "2026-11-24",
    "label": "24 novembre 2026",
@@ -8,147 +175,147 @@
    "items": [
     {
      "h": "Inauguration de l’Académie technologique du Faso",
-     "t": "Le lundi 23 novembre 2026, le président du Faso, le capitaine Ibrahim Traoré, a inauguré à Pabré l’Académie technologique du Faso (ATF), destinée à former des ingénieurs et chercheurs (numérique, énergies, mines, nucléaire, aéronautique…). Bâtie sur fonds propres par le BN-GPB pour plus de 37 milliards de FCFA, elle a pour devise « Génie – Audace – Discipline ».",
      "q": "Quelle est la devise de l’Académie technologique du Faso inaugurée le 23 novembre 2026 ? (Génie – Audace – Discipline)",
      "qcm": {
-      "q": "Quelle est la devise de l’Académie technologique du Faso (ATF), inaugurée à Pabré le 23 novembre 2026 ?",
+      "a": "C",
+      "e": "La devise de l’ATF est « Génie – Audace – Discipline » ; « Unité – Progrès – Justice » est la devise du Burkina Faso.",
       "o": [
        "Unité – Progrès – Justice",
        "Savoir – Rigueur – Patrie",
        "Génie – Audace – Discipline",
        "La Patrie ou la mort, nous vaincrons"
       ],
-      "a": "C",
-      "e": "La devise de l’ATF est « Génie – Audace – Discipline » ; « Unité – Progrès – Justice » est la devise du Burkina Faso."
-     }
+      "q": "Quelle est la devise de l’Académie technologique du Faso (ATF), inaugurée à Pabré le 23 novembre 2026 ?"
+     },
+     "t": "Le lundi 23 novembre 2026, le président du Faso, le capitaine Ibrahim Traoré, a inauguré à Pabré l’Académie technologique du Faso (ATF), destinée à former des ingénieurs et chercheurs (numérique, énergies, mines, nucléaire, aéronautique…). Bâtie sur fonds propres par le BN-GPB pour plus de 37 milliards de FCFA, elle a pour devise « Génie – Audace – Discipline »."
     },
     {
      "h": "PIB : rebond de 1,6 % au 2e trimestre",
-     "t": "Selon les comptes nationaux trimestriels de l’INSD, rapportés le 23 novembre 2026, le PIB réel du Burkina a progressé de 1,6 % au deuxième trimestre 2026, après une contraction de 1,4 % au premier trimestre ; sur un an (par rapport au 2e trimestre 2025), la hausse atteint 7,7 %.",
      "q": "De combien le PIB réel du Burkina a-t-il progressé au 2e trimestre 2026 par rapport au trimestre précédent, selon l’INSD ? (1,6 %)",
      "qcm": {
-      "q": "Selon l’INSD, de combien le PIB réel du Burkina Faso a-t-il progressé au 2e trimestre 2026 par rapport au 1er trimestre ?",
+      "a": "A",
+      "e": "Le PIB a progressé de 1,6 % au 2e trimestre 2026 après un recul de 1,4 % au 1er ; 7,7 % est la hausse sur un an.",
       "o": [
        "1,6 %",
        "7,7 %",
        "1,4 %",
        "8,6 %"
       ],
-      "a": "A",
-      "e": "Le PIB a progressé de 1,6 % au 2e trimestre 2026 après un recul de 1,4 % au 1er ; 7,7 % est la hausse sur un an."
-     }
+      "q": "Selon l’INSD, de combien le PIB réel du Burkina Faso a-t-il progressé au 2e trimestre 2026 par rapport au 1er trimestre ?"
+     },
+     "t": "Selon les comptes nationaux trimestriels de l’INSD, rapportés le 23 novembre 2026, le PIB réel du Burkina a progressé de 1,6 % au deuxième trimestre 2026, après une contraction de 1,4 % au premier trimestre ; sur un an (par rapport au 2e trimestre 2025), la hausse atteint 7,7 %."
     },
     {
      "h": "23e RGSP à Bobo-Dioulasso",
-     "t": "Annoncées le 23 novembre 2026 à Ouagadougou, la 23e Rencontre nationale Gouvernement/Secteur privé (RGSP) et la 7e Semaine de l’industrie burkinabè (SIB) se tiendront les 30 novembre et 1er décembre 2026 à Bobo-Dioulasso. Thème de la RGSP : « Civisme économique et engagement patriotique : rôle du secteur privé dans le processus de refondation de l’État ».",
      "q": "Dans quelle ville se tient la 23e Rencontre Gouvernement/Secteur privé les 30 novembre et 1er décembre 2026 ? (Bobo-Dioulasso)",
      "qcm": {
-      "q": "Quelle est l’édition de la Rencontre Gouvernement/Secteur privé (RGSP) prévue les 30 novembre et 1er décembre 2026 à Bobo-Dioulasso ?",
+      "a": "D",
+      "e": "Il s’agit de la 23e RGSP ; la 7e édition est celle de la Semaine de l’industrie burkinabè, couplée à la rencontre.",
       "o": [
        "La 7e",
        "La 18e",
        "La 20e",
        "La 23e"
       ],
-      "a": "D",
-      "e": "Il s’agit de la 23e RGSP ; la 7e édition est celle de la Semaine de l’industrie burkinabè, couplée à la rencontre."
-     }
+      "q": "Quelle est l’édition de la Rencontre Gouvernement/Secteur privé (RGSP) prévue les 30 novembre et 1er décembre 2026 à Bobo-Dioulasso ?"
+     },
+     "t": "Annoncées le 23 novembre 2026 à Ouagadougou, la 23e Rencontre nationale Gouvernement/Secteur privé (RGSP) et la 7e Semaine de l’industrie burkinabè (SIB) se tiendront les 30 novembre et 1er décembre 2026 à Bobo-Dioulasso. Thème de la RGSP : « Civisme économique et engagement patriotique : rôle du secteur privé dans le processus de refondation de l’État »."
     },
     {
      "h": "1er Forum des ambassadeurs à la retraite de l’AES",
-     "t": "Le 1er Forum des ambassadeurs à la retraite de la Confédération des États du Sahel s’est achevé le vendredi 20 novembre 2026 à Ouagadougou, sous la présidence du ministre des Affaires étrangères Karamoko Jean Marie Traoré. Ses recommandations (libre circulation, marché confédéral, harmonisation des curricula des instituts de diplomatie) seront transmises au Collège des chefs d’État de l’AES.",
      "q": "Quel ministre a clôturé le 1er Forum des ambassadeurs à la retraite de l’AES le 20 novembre 2026 ? (Karamoko Jean Marie Traoré, ministre des Affaires étrangères)",
      "qcm": {
-      "q": "À quelle instance seront transmises les recommandations du 1er Forum des ambassadeurs à la retraite de l’AES, clos le 20 novembre 2026 à Ouagadougou ?",
+      "a": "B",
+      "e": "Le ministre Karamoko Jean Marie Traoré a indiqué que les recommandations seront transmises au Collège des chefs d’État de la Confédération AES.",
       "o": [
        "À la Commission de la CEDEAO",
        "Au Collège des chefs d’État de l’AES",
        "À l’Assemblée générale de l’ONU",
        "Au Conseil de paix et de sécurité de l’UA"
       ],
-      "a": "B",
-      "e": "Le ministre Karamoko Jean Marie Traoré a indiqué que les recommandations seront transmises au Collège des chefs d’État de la Confédération AES."
-     }
+      "q": "À quelle instance seront transmises les recommandations du 1er Forum des ambassadeurs à la retraite de l’AES, clos le 20 novembre 2026 à Ouagadougou ?"
+     },
+     "t": "Le 1er Forum des ambassadeurs à la retraite de la Confédération des États du Sahel s’est achevé le vendredi 20 novembre 2026 à Ouagadougou, sous la présidence du ministre des Affaires étrangères Karamoko Jean Marie Traoré. Ses recommandations (libre circulation, marché confédéral, harmonisation des curricula des instituts de diplomatie) seront transmises au Collège des chefs d’État de l’AES."
     },
     {
      "h": "Tour motard du Burkina 2026",
-     "t": "La 2e édition du Tour motard du Burkina (TMB) s’est achevée le samedi 21 novembre 2026 à Ouagadougou : plus de 300 motards de 11 délégations ont parcouru plus de 1 800 km à travers huit régions en huit jours.",
      "q": "Combien de kilomètres ont parcouru les motards de la 2e édition du Tour motard du Burkina, achevée le 21 novembre 2026 ? (plus de 1 800 km)",
      "qcm": {
-      "q": "Parmi ces affirmations sur le Tour motard du Burkina 2026, lesquelles sont exactes ?",
+      "a": "AC",
+      "e": "La 2e édition a réuni plus de 300 motards sur plus de 1 800 km à travers huit régions, avec arrivée à Ouagadougou le 21 novembre 2026.",
       "o": [
        "Il en était à sa 2e édition",
        "Il a traversé 13 régions",
        "Il a réuni plus de 300 motards",
        "Il s’est achevé à Bobo-Dioulasso"
       ],
-      "a": "AC",
-      "e": "La 2e édition a réuni plus de 300 motards sur plus de 1 800 km à travers huit régions, avec arrivée à Ouagadougou le 21 novembre 2026."
-     }
+      "q": "Parmi ces affirmations sur le Tour motard du Burkina 2026, lesquelles sont exactes ?"
+     },
+     "t": "La 2e édition du Tour motard du Burkina (TMB) s’est achevée le samedi 21 novembre 2026 à Ouagadougou : plus de 300 motards de 11 délégations ont parcouru plus de 1 800 km à travers huit régions en huit jours."
     },
     {
      "h": "Gaz : accord Côte d’Ivoire – Bénin – Togo",
-     "t": "En marge du SIREXE 2026 à Abidjan, la Côte d’Ivoire, le Bénin et le Togo ont signé un protocole d’accord de coopération gazière (rapporté le 19 novembre 2026) pour étudier un approvisionnement commun en gaz naturel liquéfié (GNL) et des échanges transfrontaliers ; la Banque mondiale y a consacré un premier programme de 150 millions de dollars.",
      "q": "Quels pays ont signé un protocole de coopération gazière en marge du SIREXE 2026 avec l’appui de la Banque mondiale ? (Côte d’Ivoire, Bénin et Togo)",
      "qcm": {
-      "q": "Quels pays ont signé en novembre 2026 un protocole d’accord de coopération gazière soutenu par la Banque mondiale ?",
+      "a": "B",
+      "e": "Le protocole lie la Côte d’Ivoire, le Bénin et le Togo, avec un premier programme de 150 millions de dollars de la Banque mondiale.",
       "o": [
        "Ghana, Togo et Bénin",
        "Côte d’Ivoire, Bénin et Togo",
        "Sénégal, Mauritanie et Côte d’Ivoire",
        "Nigeria, Bénin et Togo"
       ],
-      "a": "B",
-      "e": "Le protocole lie la Côte d’Ivoire, le Bénin et le Togo, avec un premier programme de 150 millions de dollars de la Banque mondiale."
-     }
+      "q": "Quels pays ont signé en novembre 2026 un protocole d’accord de coopération gazière soutenu par la Banque mondiale ?"
+     },
+     "t": "En marge du SIREXE 2026 à Abidjan, la Côte d’Ivoire, le Bénin et le Togo ont signé un protocole d’accord de coopération gazière (rapporté le 19 novembre 2026) pour étudier un approvisionnement commun en gaz naturel liquéfié (GNL) et des échanges transfrontaliers ; la Banque mondiale y a consacré un premier programme de 150 millions de dollars."
     },
     {
      "h": "Nvidia : Jensen Huang réintégré",
-     "t": "Le 23 novembre 2026, le conseil d’administration de Nvidia a réintégré à l’unanimité, avec effet immédiat, son cofondateur Jensen Huang comme président-directeur général, onze jours après sa démission ; Colette Kress, qui assurait l’intérim, reste directrice financière.",
      "q": "Qui a été réintégré à la tête de Nvidia le 23 novembre 2026 ? (Jensen Huang)",
      "qcm": {
-      "q": "Qui le conseil d’administration de Nvidia a-t-il réintégré comme PDG le 23 novembre 2026 ?",
+      "a": "D",
+      "e": "Jensen Huang, cofondateur de Nvidia en 1993, a été réintégré ; Colette Kress était PDG par intérim et Harvey C. Jones préside le conseil.",
       "o": [
        "Colette Kress",
        "Harvey C. Jones",
        "Lisa Su",
        "Jensen Huang"
       ],
-      "a": "D",
-      "e": "Jensen Huang, cofondateur de Nvidia en 1993, a été réintégré ; Colette Kress était PDG par intérim et Harvey C. Jones préside le conseil."
-     }
+      "q": "Qui le conseil d’administration de Nvidia a-t-il réintégré comme PDG le 23 novembre 2026 ?"
+     },
+     "t": "Le 23 novembre 2026, le conseil d’administration de Nvidia a réintégré à l’unanimité, avec effet immédiat, son cofondateur Jensen Huang comme président-directeur général, onze jours après sa démission ; Colette Kress, qui assurait l’intérim, reste directrice financière."
     },
     {
      "h": "F1 : Verstappen gagne à Las Vegas",
-     "t": "Le samedi 21 novembre 2026, le Néerlandais Max Verstappen (Red Bull Racing) a remporté le Grand Prix de Las Vegas de Formule 1, devant les pilotes McLaren Lando Norris et Oscar Piastri ; c’est sa troisième victoire à Las Vegas en quatre ans.",
      "q": "Quel pilote a remporté le Grand Prix de F1 de Las Vegas le 21 novembre 2026 ? (Max Verstappen)",
      "qcm": {
-      "q": "Pour quelle écurie court Max Verstappen, vainqueur du Grand Prix de Las Vegas le 21 novembre 2026 ?",
+      "a": "A",
+      "e": "Verstappen pilote pour Red Bull Racing ; Norris et Piastri, 2e et 3e, courent pour McLaren.",
       "o": [
        "Red Bull Racing",
        "McLaren",
        "Mercedes",
        "Ferrari"
       ],
-      "a": "A",
-      "e": "Verstappen pilote pour Red Bull Racing ; Norris et Piastri, 2e et 3e, courent pour McLaren."
-     }
+      "q": "Pour quelle écurie court Max Verstappen, vainqueur du Grand Prix de Las Vegas le 21 novembre 2026 ?"
+     },
+     "t": "Le samedi 21 novembre 2026, le Néerlandais Max Verstappen (Red Bull Racing) a remporté le Grand Prix de Las Vegas de Formule 1, devant les pilotes McLaren Lando Norris et Oscar Piastri ; c’est sa troisième victoire à Las Vegas en quatre ans."
     },
     {
      "h": "ONU : solidarité avec le peuple palestinien",
-     "t": "Le 23 novembre 2026, lors d’une réunion spéciale à New York pour la Journée internationale de solidarité avec le peuple palestinien (célébrée chaque 29 novembre), le Secrétaire général António Guterres, dans un discours lu par sa vice-secrétaire générale Amina Mohammed, a dénoncé un « prétendu cessez-le-feu » à Gaza et réclamé l’application de la résolution 2803 du Conseil de sécurité.",
      "q": "À quelle date est célébrée chaque année la Journée internationale de solidarité avec le peuple palestinien ? (29 novembre)",
      "qcm": {
-      "q": "À quelle date l’ONU célèbre-t-elle chaque année la Journée internationale de solidarité avec le peuple palestinien ?",
+      "a": "C",
+      "e": "Elle a lieu le 29 novembre ; le 16 novembre est la Journée de la tolérance, le 20 celle de l’enfance et le 10 décembre celle des droits de l’homme.",
       "o": [
        "16 novembre",
        "20 novembre",
        "29 novembre",
        "10 décembre"
       ],
-      "a": "C",
-      "e": "Elle a lieu le 29 novembre ; le 16 novembre est la Journée de la tolérance, le 20 celle de l’enfance et le 10 décembre celle des droits de l’homme."
-     }
+      "q": "À quelle date l’ONU célèbre-t-elle chaque année la Journée internationale de solidarité avec le peuple palestinien ?"
+     },
+     "t": "Le 23 novembre 2026, lors d’une réunion spéciale à New York pour la Journée internationale de solidarité avec le peuple palestinien (célébrée chaque 29 novembre), le Secrétaire général António Guterres, dans un discours lu par sa vice-secrétaire générale Amina Mohammed, a dénoncé un « prétendu cessez-le-feu » à Gaza et réclamé l’application de la résolution 2803 du Conseil de sécurité."
     }
    ]
   },
