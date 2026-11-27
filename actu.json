@@ -1,6 +1,141 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "days": [
+  {
+   "date": "2026-11-27",
+   "label": "vendredi 27 novembre 2026",
+   "title": "L’ONU salue le Burkina, forum « Investir au Niger » et nouveau président de l’Assemblée malgache",
+   "items": [
+    {
+     "h": "L’ONU salue les progrès du Burkina",
+     "t": "Le mercredi 25 novembre 2026, le ministre des Affaires étrangères Karamoko Jean Marie Traoré a reçu à Ouagadougou Leonardo Santos Simão, Représentant spécial du Secrétaire général de l’ONU pour l’Afrique de l’Ouest et le Sahel. Les Nations unies ont salué les progrès enregistrés par le Burkina Faso.",
+     "q": "Qui est le Représentant spécial du Secrétaire général de l’ONU pour l’Afrique de l’Ouest et le Sahel reçu à Ouagadougou le 25 novembre 2026 ? (Leonardo Santos Simão)",
+     "qcm": {
+      "q": "Le 25 novembre 2026, le ministre burkinabè des Affaires étrangères a reçu le Représentant spécial de l’ONU pour l’Afrique de l’Ouest et le Sahel. De qui s’agit-il ?",
+      "o": [
+       "Abdoulaye Bathily",
+       "Leonardo Santos Simão",
+       "Bintou Keita",
+       "Ahmed Aboul Gheit"
+      ],
+      "a": "B",
+      "e": "Leonardo Santos Simão a été reçu le 25 novembre 2026 par le ministre Karamoko Jean Marie Traoré."
+     }
+    },
+    {
+     "h": "Forum Sport et développement durable",
+     "t": "Ouagadougou accueille du 1er au 5 décembre 2026 un forum Sport et développement durable sur le thème « La gestion de la performance dans le sport : enjeux et défis ». Ses grandes lignes ont été présentées à la presse le 25 novembre 2026 au stade du 4-Août.",
+     "q": "Quel est le thème du forum Sport et développement durable prévu du 1er au 5 décembre 2026 à Ouagadougou ? (« La gestion de la performance dans le sport : enjeux et défis »)",
+     "qcm": {
+      "q": "Sur quel thème porte le forum Sport et développement durable organisé à Ouagadougou du 1er au 5 décembre 2026 ?",
+      "o": [
+       "La gestion de la performance dans le sport : enjeux et défis",
+       "Le sport, levier de la cohésion sociale",
+       "Le dopage dans le sport africain",
+       "Le financement des infrastructures sportives"
+      ],
+      "a": "A",
+      "e": "Le forum, présenté le 25 novembre au stade du 4-Août, porte sur la gestion de la performance dans le sport."
+     }
+    },
+    {
+     "h": "Niger : 1re édition du forum « Investir au Niger »",
+     "t": "Le Forum international « Investir au Niger » (F2IN), 1re édition, s’est tenu du 24 au 26 novembre 2026 au Centre de conférences Mahatma Gandhi de Niamey, avec la Tunisie comme invitée d’honneur. Clôturé le 26 novembre par le ministre du Commerce et de l’Industrie Abdoulaye Seydou, il a réuni plus de 1 000 participants et abouti à une vingtaine de mémorandums d’entente, dont un avec un groupe algérien pour 7 000 logements sociaux.",
+     "q": "Quel pays était l’invité d’honneur de la 1re édition du forum « Investir au Niger » (24-26 novembre 2026) ? (La Tunisie)",
+     "qcm": {
+      "q": "Concernant la 1re édition du Forum international « Investir au Niger » (F2IN), quelles affirmations sont exactes ?",
+      "o": [
+       "Il s’est tenu du 24 au 26 novembre 2026 à Niamey",
+       "Il s’est tenu à Agadez",
+       "Il a réuni moins de 100 participants",
+       "La Tunisie en était l’invitée d’honneur"
+      ],
+      "a": "AD",
+      "e": "Le F2IN s’est déroulé à Niamey du 24 au 26 novembre 2026 avec plus de 1 000 participants et la Tunisie comme invitée d’honneur."
+     }
+    },
+    {
+     "h": "Coris ouvre le capital de sa filiale béninoise",
+     "t": "Après la Côte d’Ivoire, le groupe burkinabè Coris ouvre au public le capital de Coris Bank International Bénin (annonce relayée le 25 novembre 2026) : l’offre publique de vente porte sur 4,1 millions d’actions, soit 20 % du capital, pour 19,19 milliards de F CFA, en vue d’une cotation à la BRVM.",
+     "q": "Quelle part du capital de Coris Bank International Bénin est proposée au public ? (20 %)",
+     "qcm": {
+      "q": "Quelle part du capital de sa filiale béninoise le groupe Coris propose-t-il au public dans son offre de fin novembre 2026 ?",
+      "o": [
+       "10 %",
+       "20 %",
+       "35 %",
+       "51 %"
+      ],
+      "a": "B",
+      "e": "L’offre porte sur 4,1 millions d’actions, soit 20 % du capital, pour 19,19 milliards de F CFA."
+     }
+    },
+    {
+     "h": "Madagascar : Marco Tsaradia au perchoir",
+     "t": "Le mercredi 25 novembre 2026, Marco Tsaradia, 38 ans, candidat indépendant, a été élu président de l’Assemblée nationale de Madagascar par 129 voix sur 130. Il succède à Siteny Randrianasoloniaiko, destitué par plus des deux tiers des députés.",
+     "q": "Qui a été élu président de l’Assemblée nationale de Madagascar le 25 novembre 2026 ? (Marco Tsaradia)",
+     "qcm": {
+      "q": "Qui a été élu président de l’Assemblée nationale de Madagascar le 25 novembre 2026 ?",
+      "o": [
+       "Siteny Randrianasoloniaiko",
+       "Michaël Randrianirina",
+       "Marco Tsaradia",
+       "Christine Razanamahasoa"
+      ],
+      "a": "C",
+      "e": "Marco Tsaradia a été élu par 129 voix sur 130, après la destitution de Siteny Randrianasoloniaiko."
+     }
+    },
+    {
+     "h": "Liberia : accord énergétique de 5,6 milliards de dollars",
+     "t": "Le 25 novembre 2026, le Liberia a signé avec Bea Mountain Mining Corporation un « Master Infrastructure Development Agreement » (MIDA) de 5,6 milliards de dollars. Il prévoit environ 270 MW de capacité électrique supplémentaire, dont une centrale hydroélectrique de 100 MW sur la rivière Via.",
+     "q": "Quel pays a signé le 25 novembre 2026 un accord d’infrastructure (MIDA) de 5,6 milliards de dollars avec Bea Mountain Mining Corporation ? (Le Liberia)",
+     "qcm": {
+      "q": "Concernant l’accord MIDA signé le 25 novembre 2026 par le Liberia, quelles affirmations sont exactes ?",
+      "o": [
+       "Il est d’un montant de 5,6 milliards de dollars",
+       "Il a été signé avec Bea Mountain Mining Corporation",
+       "Il prévoit environ 1 000 MW supplémentaires",
+       "Il porte sur la construction d’un port en eau profonde"
+      ],
+      "a": "AB",
+      "e": "L’accord de 5,6 milliards de dollars, signé avec Bea Mountain Mining Corporation, prévoit environ 270 MW supplémentaires."
+     }
+    },
+    {
+     "h": "MEDays 2026 à Tanger",
+     "t": "La 18e édition du forum international MEDays se tient du 25 au 28 novembre 2026 au Palais des Arts et de la Culture de Tanger (Maroc), sur le thème « Monde fragmenté : le temps des choix ». Elle est organisée par l’Institut Amadeus et la Fondation du Forum MEDays.",
+     "q": "Quelle ville marocaine accueille la 18e édition du forum MEDays (25-28 novembre 2026) ? (Tanger)",
+     "qcm": {
+      "q": "Dans quelle ville se tient la 18e édition du forum international MEDays, du 25 au 28 novembre 2026 ?",
+      "o": [
+       "Rabat",
+       "Casablanca",
+       "Tanger",
+       "Marrakech"
+      ],
+      "a": "C",
+      "e": "Le forum MEDays, organisé par l’Institut Amadeus, se tient chaque année à Tanger ; l’édition 2026 a pour thème « Monde fragmenté : le temps des choix »."
+     }
+    },
+    {
+     "h": "Conseil européen à Bruxelles",
+     "t": "Les dirigeants des 27 pays de l’Union européenne se réunissent en Conseil européen à Bruxelles les jeudi 26 et vendredi 27 novembre 2026, notamment sur le budget pluriannuel de l’UE et le financement de l’aide à l’Ukraine en 2027.",
+     "q": "Dans quelle ville se tient le Conseil européen des 26 et 27 novembre 2026 ? (Bruxelles)",
+     "qcm": {
+      "q": "Où se réunit le Conseil européen des 26 et 27 novembre 2026, consacré notamment au budget de l’UE et à l’aide à l’Ukraine ?",
+      "o": [
+       "Strasbourg",
+       "Luxembourg",
+       "Genève",
+       "Bruxelles"
+      ],
+      "a": "D",
+      "e": "Le Conseil européen se réunit à Bruxelles ; Genève n’est pas dans l’UE et Strasbourg accueille le Parlement européen."
+     }
+    }
+   ]
+  },
   {
    "date": "2026-11-26",
    "label": "26 novembre 2026",
@@ -8,163 +143,163 @@
    "items": [
     {
      "h": "Sourou : le premier gouverneur installé",
-     "t": "Le mardi 24 novembre 2026 à Tougan, le ministre de la Santé, Robert Lucien Jean-Claude Kargougou, a installé Kouilga Albert Zongo comme premier gouverneur de la région du Sourou. Il avait été nommé en Conseil des ministres le 8 octobre 2026 ; le Sourou fait partie des quatre nouvelles régions créées par la réorganisation administrative adoptée le 2 juillet 2025.",
      "q": "Qui est le premier gouverneur de la région du Sourou, installé le 24 novembre 2026 ? (Kouilga Albert Zongo)",
      "qcm": {
-      "q": "Dans quelle ville le premier gouverneur de la région du Sourou a-t-il été installé le 24 novembre 2026 ?",
+      "a": "C",
+      "e": "Kouilga Albert Zongo a été installé à Tougan, chef-lieu de la nouvelle région du Sourou, par le ministre de la Santé Robert Lucien Jean-Claude Kargougou.",
       "o": [
        "Dédougou",
        "Ouahigouya",
        "Tougan",
        "Koudougou"
       ],
-      "a": "C",
-      "e": "Kouilga Albert Zongo a été installé à Tougan, chef-lieu de la nouvelle région du Sourou, par le ministre de la Santé Robert Lucien Jean-Claude Kargougou."
-     }
+      "q": "Dans quelle ville le premier gouverneur de la région du Sourou a-t-il été installé le 24 novembre 2026 ?"
+     },
+     "t": "Le mardi 24 novembre 2026 à Tougan, le ministre de la Santé, Robert Lucien Jean-Claude Kargougou, a installé Kouilga Albert Zongo comme premier gouverneur de la région du Sourou. Il avait été nommé en Conseil des ministres le 8 octobre 2026 ; le Sourou fait partie des quatre nouvelles régions créées par la réorganisation administrative adoptée le 2 juillet 2025."
     },
     {
      "h": "VITHRO 2026 : 6e édition à Ouagadougou",
-     "t": "Le mardi 24 novembre 2026, la Fédération des organisations patronales du tourisme et de l’hôtellerie du Burkina (FOPATH-B) a lancé à Ouagadougou la 6e Vitrine internationale du tourisme, de l’hôtellerie et de la restauration (VITHRO), qui se tient du 24 au 29 novembre 2026 à la Zone d’activités diverses (ZAD). Thème : « Tourisme et souveraineté économique dans l’espace UEMOA : quelles contributions des acteurs privés du tourisme ? » ; le Sénégal est le pays invité d’honneur.",
      "q": "Quel pays est l’invité d’honneur de la VITHRO 2026 à Ouagadougou ? (le Sénégal)",
      "qcm": {
-      "q": "Que signifie le sigle VITHRO, salon dont la 6e édition se tient du 24 au 29 novembre 2026 à Ouagadougou ?",
+      "a": "A",
+      "e": "La VITHRO est la Vitrine internationale du tourisme, de l’hôtellerie et de la restauration, organisée par la FOPATH-B.",
       "o": [
        "Vitrine internationale du tourisme, de l’hôtellerie et de la restauration",
        "Village international du textile, de l’habillement et des rotins",
        "Vitrine des industries de transformation, de l’horticulture et des récoltes",
        "Vente internationale de technologies, d’hydraulique et de routes"
       ],
-      "a": "A",
-      "e": "La VITHRO est la Vitrine internationale du tourisme, de l’hôtellerie et de la restauration, organisée par la FOPATH-B."
-     }
+      "q": "Que signifie le sigle VITHRO, salon dont la 6e édition se tient du 24 au 29 novembre 2026 à Ouagadougou ?"
+     },
+     "t": "Le mardi 24 novembre 2026, la Fédération des organisations patronales du tourisme et de l’hôtellerie du Burkina (FOPATH-B) a lancé à Ouagadougou la 6e Vitrine internationale du tourisme, de l’hôtellerie et de la restauration (VITHRO), qui se tient du 24 au 29 novembre 2026 à la Zone d’activités diverses (ZAD). Thème : « Tourisme et souveraineté économique dans l’espace UEMOA : quelles contributions des acteurs privés du tourisme ? » ; le Sénégal est le pays invité d’honneur."
     },
     {
      "h": "Le BBDA soutient « Ma brique pour Sankara »",
-     "t": "Le lundi 23 novembre 2026, sur le site du Mémorial Thomas-Sankara à Ouagadougou, le Bureau burkinabè du droit d’auteur (BBDA), qui célèbre ses 40 ans, a remis une contribution d’un million de francs CFA à la campagne « Ma brique pour Sankara ». Le geste s’inscrit dans la 8e Rentrée du droit d’auteur, organisée du 23 au 27 novembre 2026.",
      "q": "Quel montant le BBDA a-t-il versé le 23 novembre 2026 à la campagne « Ma brique pour Sankara » ? (1 million de F CFA)",
      "qcm": {
-      "q": "Quel anniversaire le Bureau burkinabè du droit d’auteur (BBDA) célèbre-t-il en 2026 ?",
+      "a": "D",
+      "e": "Le BBDA fête ses 40 ans en 2026, en même temps que la 8e Rentrée du droit d’auteur.",
       "o": [
        "Ses 20 ans",
        "Ses 30 ans",
        "Ses 50 ans",
        "Ses 40 ans"
       ],
-      "a": "D",
-      "e": "Le BBDA fête ses 40 ans en 2026, en même temps que la 8e Rentrée du droit d’auteur."
-     }
+      "q": "Quel anniversaire le Bureau burkinabè du droit d’auteur (BBDA) célèbre-t-il en 2026 ?"
+     },
+     "t": "Le lundi 23 novembre 2026, sur le site du Mémorial Thomas-Sankara à Ouagadougou, le Bureau burkinabè du droit d’auteur (BBDA), qui célèbre ses 40 ans, a remis une contribution d’un million de francs CFA à la campagne « Ma brique pour Sankara ». Le geste s’inscrit dans la 8e Rentrée du droit d’auteur, organisée du 23 au 27 novembre 2026."
     },
     {
      "h": "« Les trésors du Liptako » au Musée national",
-     "t": "Le jeudi 26 novembre 2026, le Musée national accueille l’exposition itinérante « Les trésors du Liptako », consacrée au patrimoine culturel et aux liens historiques entre les peuples du Burkina Faso, du Mali et du Niger.",
      "q": "Quels pays l’exposition « Les trésors du Liptako » (26 novembre 2026) met-elle à l’honneur ? (Burkina Faso, Mali et Niger)",
      "qcm": {
-      "q": "L’exposition itinérante « Les trésors du Liptako », accueillie le 26 novembre 2026 au Musée national, porte sur le patrimoine de quels pays ?",
+      "a": "ACD",
+      "e": "Le Liptako est une région partagée par le Burkina Faso, le Mali et le Niger, les trois pays de la Confédération AES ; la Côte d’Ivoire n’est pas concernée.",
       "o": [
        "Burkina Faso",
        "Côte d’Ivoire",
        "Mali",
        "Niger"
       ],
-      "a": "ACD",
-      "e": "Le Liptako est une région partagée par le Burkina Faso, le Mali et le Niger, les trois pays de la Confédération AES ; la Côte d’Ivoire n’est pas concernée."
-     }
+      "q": "L’exposition itinérante « Les trésors du Liptako », accueillie le 26 novembre 2026 au Musée national, porte sur le patrimoine de quels pays ?"
+     },
+     "t": "Le jeudi 26 novembre 2026, le Musée national accueille l’exposition itinérante « Les trésors du Liptako », consacrée au patrimoine culturel et aux liens historiques entre les peuples du Burkina Faso, du Mali et du Niger."
     },
     {
      "h": "Mali : ouverture des 15es Rencontres de Bamako",
-     "t": "La 15e édition des Rencontres de Bamako, Biennale africaine de la photographie créée en 1994, se tient du 26 novembre 2026 au 26 janvier 2027 à Bamako sur le thème « Refabulation ». Elle avait été officiellement lancée le 14 mai 2026.",
      "q": "Quel est le thème de la 15e édition des Rencontres de Bamako (26 novembre 2026 – 26 janvier 2027) ? (« Refabulation »)",
      "qcm": {
-      "q": "À quel art les Rencontres de Bamako, dont la 15e édition s’ouvre le 26 novembre 2026, sont-elles consacrées ?",
+      "a": "B",
+      "e": "Les Rencontres de Bamako sont la Biennale africaine de la photographie, organisée depuis 1994 ; le cinéma africain a son propre festival, le FESPACO, à Ouagadougou.",
       "o": [
        "Au cinéma",
        "À la photographie",
        "À la musique",
        "À la sculpture"
       ],
-      "a": "B",
-      "e": "Les Rencontres de Bamako sont la Biennale africaine de la photographie, organisée depuis 1994 ; le cinéma africain a son propre festival, le FESPACO, à Ouagadougou."
-     }
+      "q": "À quel art les Rencontres de Bamako, dont la 15e édition s’ouvre le 26 novembre 2026, sont-elles consacrées ?"
+     },
+     "t": "La 15e édition des Rencontres de Bamako, Biennale africaine de la photographie créée en 1994, se tient du 26 novembre 2026 au 26 janvier 2027 à Bamako sur le thème « Refabulation ». Elle avait été officiellement lancée le 14 mai 2026."
     },
     {
      "h": "Pétanque : Madagascar champion du monde",
-     "t": "Le mardi 24 novembre 2026 à Khon Kaen (Thaïlande), lors du 52e Championnat du monde, la triplette masculine de Madagascar a battu la France 13 à 9 en finale. C’est le troisième titre mondial de Madagascar dans cette catégorie, dix ans après le précédent et deux ans après la médaille d’argent de Dijon (2024).",
      "q": "Quel pays a remporté le Championnat du monde de pétanque triplette masculine le 24 novembre 2026 ? (Madagascar)",
      "qcm": {
-      "q": "Dans quel pays s’est disputée la finale du Championnat du monde de pétanque remportée par Madagascar le 24 novembre 2026 ?",
+      "a": "D",
+      "e": "La finale s’est jouée à Khon Kaen, en Thaïlande ; Madagascar y a battu la France 13-9.",
       "o": [
        "France",
        "Maroc",
        "Madagascar",
        "Thaïlande"
       ],
-      "a": "D",
-      "e": "La finale s’est jouée à Khon Kaen, en Thaïlande ; Madagascar y a battu la France 13-9."
-     }
+      "q": "Dans quel pays s’est disputée la finale du Championnat du monde de pétanque remportée par Madagascar le 24 novembre 2026 ?"
+     },
+     "t": "Le mardi 24 novembre 2026 à Khon Kaen (Thaïlande), lors du 52e Championnat du monde, la triplette masculine de Madagascar a battu la France 13 à 9 en finale. C’est le troisième titre mondial de Madagascar dans cette catégorie, dix ans après le précédent et deux ans après la médaille d’argent de Dijon (2024)."
     },
     {
      "h": "Côte d’Ivoire : l’Accord international sur le cacao ratifié",
-     "t": "Le mercredi 25 novembre 2026 à Abidjan, le Conseil des ministres présidé par Alassane Ouattara a adopté le projet de loi de ratification de l’Accord international sur le cacao, 2026, conclu le 13 février 2026 à Genève sous l’égide de la CNUCED. Il a aussi porté la centrale Korhogo Solaire de 25 à 50 MWc et approuvé une convention pour la centrale Tengréla Solaire (52 MWc).",
      "q": "Sous l’égide de quelle organisation l’Accord international sur le cacao 2026, ratifié par la Côte d’Ivoire, a-t-il été conclu ? (la CNUCED)",
      "qcm": {
-      "q": "Où et quand l’Accord international sur le cacao, 2026, dont la Côte d’Ivoire a adopté le projet de loi de ratification le 25 novembre 2026, a-t-il été conclu ?",
+      "a": "B",
+      "e": "L’accord a été adopté le 13 février 2026 à Genève, sous l’égide de la CNUCED.",
       "o": [
        "À Abidjan, le 1er octobre 2026",
        "À Genève, le 13 février 2026",
        "À Accra, le 13 février 2026",
        "À Londres, le 25 novembre 2026"
       ],
-      "a": "B",
-      "e": "L’accord a été adopté le 13 février 2026 à Genève, sous l’égide de la CNUCED."
-     }
+      "q": "Où et quand l’Accord international sur le cacao, 2026, dont la Côte d’Ivoire a adopté le projet de loi de ratification le 25 novembre 2026, a-t-il été conclu ?"
+     },
+     "t": "Le mercredi 25 novembre 2026 à Abidjan, le Conseil des ministres présidé par Alassane Ouattara a adopté le projet de loi de ratification de l’Accord international sur le cacao, 2026, conclu le 13 février 2026 à Genève sous l’égide de la CNUCED. Il a aussi porté la centrale Korhogo Solaire de 25 à 50 MWc et approuvé une convention pour la centrale Tengréla Solaire (52 MWc)."
     },
     {
      "h": "Sénégal : 3e Conférence de l’ONU sur l’eau",
-     "t": "Lors du Conseil des ministres du mercredi 25 novembre 2026, le président Bassirou Diomaye Faye a évoqué la 3e Conférence des Nations unies sur l’eau, prévue du 7 au 9 décembre 2026 à Abu Dhabi (Émirats arabes unis) et coorganisée par le Sénégal. Il a aussi salué la sentence du TAS du 24 novembre 2026 confirmant la victoire du Sénégal à la CAN 2025.",
      "q": "Quelle ville accueille la 3e Conférence des Nations unies sur l’eau du 7 au 9 décembre 2026 ? (Abu Dhabi)",
      "qcm": {
-      "q": "Quels pays coorganisent la Conférence des Nations unies sur l’eau prévue du 7 au 9 décembre 2026 à Abu Dhabi ?",
+      "a": "AC",
+      "e": "La conférence de décembre 2026 est coorganisée par les Émirats arabes unis (pays hôte, Abu Dhabi) et le Sénégal.",
       "o": [
        "Les Émirats arabes unis",
        "Le Maroc",
        "Le Sénégal",
        "L’Égypte"
       ],
-      "a": "AC",
-      "e": "La conférence de décembre 2026 est coorganisée par les Émirats arabes unis (pays hôte, Abu Dhabi) et le Sénégal."
-     }
+      "q": "Quels pays coorganisent la Conférence des Nations unies sur l’eau prévue du 7 au 9 décembre 2026 à Abu Dhabi ?"
+     },
+     "t": "Lors du Conseil des ministres du mercredi 25 novembre 2026, le président Bassirou Diomaye Faye a évoqué la 3e Conférence des Nations unies sur l’eau, prévue du 7 au 9 décembre 2026 à Abu Dhabi (Émirats arabes unis) et coorganisée par le Sénégal. Il a aussi salué la sentence du TAS du 24 novembre 2026 confirmant la victoire du Sénégal à la CAN 2025."
     },
     {
      "h": "Shenzhou-24 : premier astronaute pakistanais",
-     "t": "Le 25 novembre 2026 à 8 h 18 (heure de Pékin), la Chine a lancé depuis le centre de Jiuquan la mission Shenzhou-24 vers la station spatiale Tiangong, avec à son bord Muhammad Zeeshan Ali, premier astronaute du Pakistan, aux côtés des Chinois Tang Hongbo (commandant) et Wu Yi. Le vaisseau s’est amarré à la station le même jour à 11 h 56.",
      "q": "Quel est le nom du premier astronaute pakistanais, parti à bord de Shenzhou-24 le 25 novembre 2026 ? (Muhammad Zeeshan Ali)",
      "qcm": {
-      "q": "Vers quelle station spatiale la mission chinoise Shenzhou-24, lancée le 25 novembre 2026 avec le premier astronaute pakistanais, s’est-elle dirigée ?",
+      "a": "C",
+      "e": "Shenzhou-24 s’est amarrée à Tiangong, la station spatiale chinoise ; Mir a été désorbitée en 2001 et Gateway est un projet de station lunaire.",
       "o": [
        "La Station spatiale internationale (ISS)",
        "Mir",
        "Tiangong",
        "Gateway"
       ],
-      "a": "C",
-      "e": "Shenzhou-24 s’est amarrée à Tiangong, la station spatiale chinoise ; Mir a été désorbitée en 2001 et Gateway est un projet de station lunaire."
-     }
+      "q": "Vers quelle station spatiale la mission chinoise Shenzhou-24, lancée le 25 novembre 2026 avec le premier astronaute pakistanais, s’est-elle dirigée ?"
+     },
+     "t": "Le 25 novembre 2026 à 8 h 18 (heure de Pékin), la Chine a lancé depuis le centre de Jiuquan la mission Shenzhou-24 vers la station spatiale Tiangong, avec à son bord Muhammad Zeeshan Ali, premier astronaute du Pakistan, aux côtés des Chinois Tang Hongbo (commandant) et Wu Yi. Le vaisseau s’est amarré à la station le même jour à 11 h 56."
     },
     {
      "h": "Traité de sécurité Australie – Îles Salomon",
-     "t": "Le mercredi 25 novembre 2026 à Canberra, le Premier ministre australien Anthony Albanese et le Premier ministre des Îles Salomon Matthew Wale ont signé le traité Australie – Îles Salomon, qui fait de l’Australie le principal partenaire de sécurité de l’archipel et exclut toute base militaire ou de sécurité étrangère sur son territoire. Les Salomon avaient signé un accord de sécurité avec la Chine en 2022.",
      "q": "Qui est le Premier ministre des Îles Salomon qui a signé le traité avec l’Australie le 25 novembre 2026 ? (Matthew Wale)",
      "qcm": {
-      "q": "Dans quelle ville le traité de sécurité entre l’Australie et les Îles Salomon a-t-il été signé le 25 novembre 2026 ?",
+      "a": "D",
+      "e": "Le traité a été signé à Canberra, capitale de l’Australie, par Anthony Albanese et Matthew Wale ; Honiara est la capitale des Îles Salomon.",
       "o": [
        "Sydney",
        "Honiara",
        "Wellington",
        "Canberra"
       ],
-      "a": "D",
-      "e": "Le traité a été signé à Canberra, capitale de l’Australie, par Anthony Albanese et Matthew Wale ; Honiara est la capitale des Îles Salomon."
-     }
+      "q": "Dans quelle ville le traité de sécurité entre l’Australie et les Îles Salomon a-t-il été signé le 25 novembre 2026 ?"
+     },
+     "t": "Le mercredi 25 novembre 2026 à Canberra, le Premier ministre australien Anthony Albanese et le Premier ministre des Îles Salomon Matthew Wale ont signé le traité Australie – Îles Salomon, qui fait de l’Australie le principal partenaire de sécurité de l’archipel et exclut toute base militaire ou de sécurité étrangère sur son territoire. Les Salomon avaient signé un accord de sécurité avec la Chine en 2022."
     }
    ]
   },
